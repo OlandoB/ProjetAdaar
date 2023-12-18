@@ -1,0 +1,4949 @@
+Project Gutenberg's Kuningas Richard Toinen, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Kuningas Richard Toinen
+
+Author: William Shakespeare
+
+Translator: Paavo Cajander
+
+Release Date: December 28, 2009 [EBook #30790]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK KUNINGAS RICHARD TOINEN ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+KUNINGAS RICHARD TOINEN
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi v. 1905.
+
+
+
+N‰ytelm‰n henkilˆt:
+
+KUNINGAS RICHARD TOINEN.
+EDMUND LANGLEY, Yorkin herttua.
+JUHANA GAUNT, Lancasterin herttua.
+HENRIK BOLINGBROKE, Herefordin herttua.
+AUMERLEN herttua, Yorkin herttuan poika.
+THOMAS MOWBRAY, Norfolkin herttua.
+SURREYN herttua.
+SALISBURYN kreivi.
+Kreivi BERKLEY.
+BUSHY,  |
+BAGOT,  |  Kuningas Richardin lemmikkej‰.
+GREEN,  |
+NORTHUMBERLANDIN kreivi.
+HENRIK PERCY, h‰nen poikansa.
+Loordi ROSS.
+Loordi WILLOUGHBY.
+Loordi FITZWATER.
+CARLISLEN piispa.
+WESTMINSTERIN abotti.
+Loordi-marsalkka ja toinen loordi.
+Sir PIERCE EXTON.
+Sir STEPHEN SCROOP.
+Walesilaisen sotajoukon p‰‰mies.
+Kuningatar, kuningas Richardin puoliso.
+Glosterin herttuatar.
+Yorkin herttuatar.
+Kaksi kuningattaren hovinaista.
+Loordeja, airuita, sotaherroja, sotureita, puutarhureita,
+  vanginvartija, l‰hettil‰s, tallirenki ja seuralaisia.
+
+Tapaus eri paikoissa Englannissa ja Walesissa.
+
+
+
+
+ENSIMMƒINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Lontoo. Huone kuninkaanlinnassa.
+
+    (Kuningas Richard tulee seurueineen, Juhana Gaunt ja
+    muita ylimyksi‰ h‰nen seurassaan.)
+
+KUNINGAS RICHARD.
+Juhana Gaunt, ik‰-arvoinen Lancaster,
+Valan ja takuun mukaan toitko t‰nne
+Kopean poikas, Henrik Herefordin,
+Ajamaan tuota rˆyhk‰‰ kannettaan,
+Jot' ‰sken meill' ei ollut aikaa kuulla,
+Thomas Mowbrayta, Norfolkia vastaan?
+
+GAUNT.
+Sen olen tehnyt, armollinen herra.
+
+KUNINGAS RICHARD.
+Ja lis‰ksi, oletko tiedustellut,
+Kanteeseen syyn‰kˆ vain vanha viha
+Vai, niinkuin kelpo kansalaisell' aina,
+P‰tev‰, varma tieto petoksesta?
+
+GAUNT.
+Mik‰li tutkia ma voin, niin syyn‰
+Ei vanha viha lie, vaan ilmi vaara,
+Jonk' uhkaavan h‰n kuningasta luulee.
+
+KUNINGAS RICHARD.
+Sis‰h‰n heid‰t tuokaa. Silm‰ silm‰‰
+Ja otsa otsaa vastaan vapahasti
+Haastelkoon syytt‰j‰ ja syytetty.
+    (Muutamia seuralaisia poistuu.)
+Kopeat ovat ja, kun kuohuu veri,
+Rutot kuin tuli, kuurot niinkuin meri.
+
+    (Seuralaiset palajavat, mukanaan Bolingbroke ja Norfolk.)
+
+BOLINGBROKE.
+Mont' onnen vuotta taivas suokoon teille,
+Suurvaltias ja armollinen herra!
+
+NORFOLK.
+Lis‰tkˆˆn p‰iv‰ toisen p‰iv‰n hyv‰‰,
+Siks ett‰ taivas, maalle kateissaan,
+Kruunuunne liitt‰‰ kuolemattomuuden!
+
+KUNINGAS RICHARD.
+Suur' kiitos vaan! Mut toinen teist‰ mairii,
+Se aikeistanne n‰hd‰‰n, toisianne
+Maankavalluksesta kun syyt‰tte. --
+No, lanko Hereford, mik' on sulla kanne
+Thomas Mowbrayta, Norfolkia vastaan?
+
+BOLINGBROKE.
+Ensinkin -- todistajaks otan taivaan; --
+Nˆyr‰st‰ alamaisen rakkaudesta,
+Kuninkaan kallis onni huolenani, --
+Vapaana kaikest' ilkivihasta
+Teen kanteen t‰ss‰ ruhtinaani kuullen. --
+Nyt, Thomas Mowbray, sinun puolees k‰‰nnyn;
+Tervehdykseni huomaa: mink‰ lausun
+Ruumiini siit‰ vastaa p‰‰ll‰ maan
+Tai kirkastettu sielu taivahassa.
+Sin' olet petturi ja pilttomies,
+Siks liian hyv‰, eloon liian huono.
+Jot' ihanampi helo ilman t‰ytt‰‰,
+Sit' ilkeemmilt‰ siin‰ pilvet n‰ytt‰‰.
+Ja viel‰ kerran, tuoden tekos ilmiin,
+Sua sanon petturiksi suoraan silmiin.
+N‰in mit‰ kieli lausuu, miekka saa,
+Jos kuningas niin sallii, vahvistaa.
+
+NORFOLK.
+Puheeni kylmyys ‰lkˆˆn soimatko
+Mun kiivauttani. Ei akkasota,
+Ei kahden torakielen herjahuudot
+Voi t‰t‰ meid‰n riitaa ratkaista;
+On kuumaa veri siit‰ j‰‰hty‰kseen.
+Niin laimeaa ei malttini tok' ole,
+Ett' aivan suuttomaksi mykistyisin.
+Ensinkin majesteetin vuoks en julkee
+Kannustaa puhettani t‰yteen lentoon;
+Se kiltois, kunnes takaisin tuon suuhun
+Petoksen tyˆnt‰nyt ois kaksin kerroin,
+Kuninkaalliseen vereen katsomatta.
+Niin, jos ei valtasukua h‰n oisi,
+Ivaisin h‰nt‰, silmiin sylkisin.
+Sanoisin konnaks, salapurijaksi,
+Varmuudeks viel‰ etuvoitteen soisin
+Ja h‰net ylt‰isin, vaikk' ylˆs Alppein
+Lumiseen huippuhun mun tulis juosta
+Tai muuhun seutuun asumattomaan,
+Mihin on koskaan uskaltanut britti.
+Uskollisuuttani t‰‰ seikka tukee:
+Kautt' autuuteni, valheita h‰n lukee.
+
+BOLINGBROKE.
+Sa kalvas pelkur', tuossa kintaani!
+Kuninkaan heimouden n‰in ma hylk‰‰n
+Ja luovun veren syntyoikeudesta,
+Jot' arkoo pelkos vain, eik' arvonantos.
+Syyn kauhusta jos kunniani pantin
+Maast' ottaa viel‰ voit, niin selk‰ kˆyryyn!
+T‰‰n kautta sek‰ kaikkein muidenkin
+Ritaris-tapain, miekka vasten miekkaa,
+Todistaa tahdon, mit‰ t‰ss‰ haastan
+Tai mit‰ herjemp‰‰ viel' itse keksit.
+
+NORFOLK.
+Ma maasta otan sen ja, kautta miekan,
+Jok' olalleni ritaruuden laski,
+Sun vastaas astun jaloon kohteluun,
+Ritaristapain s‰‰nnˆt kaikki t‰ytt‰in.
+En hengiss' alas astu ratsultain,
+Jos syyst‰ petturin ma nimen sain.
+
+KUNINGAS RICHARD.
+Mut mit‰, lanko, v‰it‰t Mowbrayn syyksi!
+Sen t‰ytyy suuri olla, jos se meid‰t
+Saa h‰nest' edes aattelemaan pahaa.
+
+BOLINGBROKE.
+Min lausun, siit‰ hengell‰ni vastaan:
+Kahdeksan tuhat noobelia[1] sai h‰n
+Lainoiksi majesteetin sotureille,
+Mut ne h‰n itse halpaan toimeen k‰ytti
+Kuin ilki-petturi ja h‰ijy konna.
+Sen sanon myˆs, ja vahvistan sen miekoin
+T‰ss‰ tai miss‰ vain, maiss' ‰‰rimmiss‰,
+Mihink‰ koskaan britin silm‰ ylt‰‰,
+Ett' on se petos, mit' on t‰ss‰ maassa
+Kuustoista vuotta kudottu ja tehty,
+Kaikk', kaikki viekkaan Mowbrayn alkutyˆt‰.
+Ma v‰it‰n lis‰ksi -- ja senkin kaikki
+Tuon kehnon hengell‰ ma toteen n‰yt‰n --:
+H‰n herttua Glosterin on kuoloon syyp‰‰;
+T‰‰n herk‰t vastustajat vietellen,
+Kuin arka petturi, h‰n veri virtaan
+Upotti t‰m‰n viattoman sielun.
+Nyt veri tuo, kuin hurskaan Abelin,
+Maan kielettˆmist' onkaloista huutaa
+Ja verikostoon ankaraan mua vaatii.
+Es'is‰in kunniakkaan maineen kautta
+Sen teenkin, taikka perikˆˆn mun hauta!
+
+KUNINGAS RICHARD.
+Sen miehen rohkeus nousee pilviin asti! --
+No, Thomas Norfolk, mit‰ vastaat tuohon?
+
+NORFOLK.
+Pois majesteetin kasvot k‰‰ntykˆˆt,
+Ja hetken aikaa korvans' olkoot kuurot,
+Siks ett‰ tuolle suvun herjalle
+Ma kerron, kuinka jumalat ja hurskaat
+Moist' inhoo valhehtijaa.
+
+KUNINGAS RICHARD.
+                          Puoltamaton
+On silm‰ni ja korvani. Jos oisi
+H‰n veljeni ja vallan perillinen,
+Niin kuin h‰n nyt vain set‰ni on poika,
+Niin valtikkani arvon kautta vannon,
+Ett'ei t‰‰ pyh‰n veren heimouskaan
+Vois h‰nt‰ turvata tai oikeudesta
+V‰h‰‰k‰‰n lujaa mielt‰n' eksytt‰‰.
+Kuin sin‰, alamaiseni h‰n on,
+Siis puhu suoraan, ole pelvoton!
+
+NORFOLK.
+Siis, Bolingbroke, kavalaa kitaas myˆten
+Syd‰mmes pohjiin saakka: valehtelet!
+Calais'lle varatusta lainasta
+Kuninkaan sotureille oikein maksoin
+Kolm' osaa, loput sallittiin mun pit‰‰,
+Kosk' oli majesteetti mulle velkaa
+J‰‰nnˆksen matkalaskusta, kun h‰lle
+Kuningattaren Ranskasta ma toin.[2]
+Se valhe niele! -- Mit‰ Glosteriin,
+Niin h‰nt' en tappanut; mut h‰peekseni
+Lˆin siin‰ laimin pyh‰n teht‰v‰ni. --
+Ja, lord Lancaster, mit‰ teihin tulee,
+Vastustajani arvokkaaseen is‰‰n,
+Niin hengellenne kerran panin paulan;
+Se rikos arkaa sieluani vaivaa;
+Mut ennenkuin sain viimeks sakramentin,
+Sen tunnustin ja teilt‰ varta vasten
+Anteeksi pyysin; toivon, ett‰ sainkin.
+Siin' on mun vikani. Muut syytteet kaikki
+Ne ovat vihan kaunaa ilkimyksen,
+Katalan, ep‰suvustuneen konnan,
+Jonk' itse tahdon urhokkaasti voittaa,
+Ja vastavuoroon kintaani ma heit‰n
+Nyt jalkoihin sen korskan kavaltajan,
+Ritarikuntoni n‰in n‰ytt‰‰kseni
+Parhaissa h‰nen syd‰nveriss‰‰n.
+Jott' onni t‰m‰ pian koittais mulle, --
+M‰‰r‰tk‰‰, herra, p‰iv‰ taistelulle.
+
+KUNINGAS RICHARD.
+Vihaiset loordit, neuvoani kuulkaa,
+Se sapen huoltaa suonta iskem‰tt‰.
+En ole l‰‰k‰ri, mut tunnen kaavan:
+Syv‰ viha leikkaa liian syv‰n haavan.
+Sopikaa, anteeks suokaa, unhottakaa,
+Pois suoneniskun kielt‰‰ l‰‰k‰r' vakaa.
+Siis, set‰, rauhantekoon! Lauhtokaa
+Te poikaanne, ma tyynn‰n herttuaa.
+
+GAUNT.
+Vanhalle rauhanteko sopiikin. --
+Pois heit‰, poika, pantti Norfolkin.
+
+KUNINGAS RICHARD.
+Te, Norfolk, sama tehk‰‰.
+
+GAUNT.
+                          Henrik, mit‰?
+Nˆyr‰sti pyyd‰n, toiste en tee sit‰.
+
+KUNINGAS RICHARD.
+Pois, Norfolk, heit‰ tuo, se t‰ytyy sun.
+
+NORFOLK.
+Kuningas, jalkoihisi laskeun.
+Ma kuoloon sorrun, h‰pe‰‰n en vainen;
+Saat ottaa henkeni, mut puhtaan maineen,
+Mi kuolon kiusaks el‰‰ haudallani,
+Pelastan pilkan h‰pe‰st‰ ani.
+H‰v‰isty, petteess' olen, syyttehess‰
+Ja herjan myrkkynuoli syd‰mmess‰;
+Herjaajan syd‰nveret yksin vois
+Mua auttaa.
+
+KUNINGAS RICHARD.
+            Kiukkus voita. Pantti pois!
+Voi jalopeura leopardin suuttaa.[3]
+
+NORFOLK.
+Niin, mut sen pilkkuja ei voi se muuttaa.
+Vie h‰pe‰ni, niin saat pantinkin.
+Saasteeton nimi aarre kallihin
+On p‰‰ll‰ maan; sen puutteess' olet vainen
+Kullattu savi, tomu kiiluvainen.
+Jalo henki taatussa on povessa
+Kuin helmi kuuden lukon takana.
+On kunnia mun el‰m‰ni tyyty;
+Vie kunnia, niin el‰m‰ on myyty.
+Siis, enkˆ syyst‰ kunniaani puolla?
+Ma siin‰ elin, sille tahdon kuolla.
+
+KUNINGAS RICHARD.
+Pois ensin lanko pantin heitt‰kˆˆn.
+
+BOLINGBROKE.
+Oi, moisen synnin Herra h‰‰t‰kˆˆn!
+Is‰ni n‰hden seist‰ miehuutonna
+Ja loisen arkuudella moista konnaa
+Mun-laisen kumartaako? Ennenkuin
+N‰in loukkaan kunniaani omin suin
+Tai kielen' moisen tekee tarjon halvan,
+Sen pelkurin ma hampain rikki kalvan
+Ja paton kurjan syljen ivaten
+H‰pe‰n paikkaan, Mowbrayn silmillen.
+
+    (Gaunt menee.)
+
+KUNINGAS RICHARD.
+Ei sovi pyyt‰‰ mun, vaan k‰ske‰:
+Kun teit' en nyt voi sovittaa, niin tulkaa,
+Ja siit‰ hengell‰nne vastatkaa,
+Coventryyn pyh‰n Lamberluksen p‰iv‰ks,
+Niin siell‰ peitsi ratkaiskoon ja kalpa
+Riitanne, jota kiiht‰‰ viha halpa.
+Me oikaista kun emme saaneet v‰‰r‰‰,
+Niin ritar'ottelu nyt voiton m‰‰r‰‰.
+Marsalkka, aseairut kutsukaa
+Ohjaamaan t‰t‰ kotikahakkaa.
+
+                  (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Sama seutu. Huone Lancasterin herttuan hovilinnassa.
+
+    (Gaunt ja Glosterin herttuatar tulevat.)
+
+GAUNT.
+Ah! osallisuus vereen Glosterin
+Mua enemm‰n kuin voihkinanne kiiht‰‰
+Tuon vainaan hengen pyˆveleit‰ vastaan.
+Mut rangaistus kun rikkojan on k‰ess‰
+Ja rikost' emme me voi rangaista,
+Niin j‰‰kˆˆn asiamme taivaan haltuun.
+Se kyll‰, jahk' on maassa aika kyps‰,
+Syntisten p‰‰h‰n sataa kuuman koston.
+
+HERTTUATAR.
+Paremmin eikˆ kannusta sua veljeys?
+Vanhassa veress‰si rakkautt' eikˆ
+Niin kipin‰‰k‰‰n? Edwardin nuo pojat.
+Nuo seitsem‰n, joist' olet sin‰ yksi,
+Seitsem‰n saman pyh‰n veren maljaa,
+Seitsem‰n saman juuren kaunist' oksaa,
+Niist' osan luonto itse kuivetti,
+Ja toiset katkoi sallimus; mut Thomas,
+Mieheni, el‰m‰ni, Glosterini, --
+Edwardin pyh‰‰ verta malja t‰ysi,
+Kuninkaan juurta kukoistava oksa --
+S‰retty on ja kallis neste maassa,
+Kaadettu on, ja lehdet h‰vitt‰nyt
+Kateuden k‰si, murhan verikirves.
+Sun vertas, Gaunt, se oli; vuode, kohtu,
+V‰ki ja muotti, joka muovas sinut,
+H‰netkin loi. Vaikk' el‰t, hengitkin,
+Niin h‰ness' olet kuoliaaksi lyˆty.
+Hyv‰ksyt is‰s kuolon t‰ysin m‰‰rin,
+Jos n‰in n‰et veli-raukkas kuolevan,
+Jok' oli is‰s hengen painoskuva.
+Sit' ‰l‰ k‰rsiv‰llisyydeks sano,
+Se toivottuutta on; jos veljes surman
+N‰in k‰rsit, henkees suoran tien sa n‰yt‰t
+Ja neuvot murhaajas sua teurastamaan,
+Mik' alhaisoss' on k‰rsiv‰llisyytt‰,
+Jaloiss' on kalman kylm‰‰ pelkuruutta.
+Mit' en‰‰ puhun? Henkes parhaiten
+Sa turvaat, Glosterin jos surman kostat.
+
+GAUNT.
+Asia Herran. Taivaan valtuutettu
+Ja sijainen, sen n‰hden voideltu,
+On murhaan syyp‰‰; rikosta jos on se,
+Sen taivas kostakoon, sen palvelijaan
+En koskaan min‰ vihan k‰tt‰ nosta.
+
+HERTTUATAR.
+Mua voi! Ken sitte kuulee tuskani?
+
+GAUNT.
+Jumala, leskein auttaja ja turva.
+
+HERTTUATAR.
+Niin olkoon siis. Hyv‰sti, vanha Gaunt!
+Coventryyn menet, miss‰ Hereford-langon
+N‰et ottelevan julman Mowbrayn kanssa.
+Josp' ylj‰n kosto langon peitsess' istuis
+Ja Mowbrayn teurastaja-poveen tunkis!
+Tai jos ei ensi kiistass' enn‰ turma,
+Niin synnit painakoot niin Mowbrayn rintaa,
+Ett' orhin vaahtoavan selk‰ taittuu
+Ja itse ratsas suin p‰in syˆksyy maahan
+Ja langon armoon antautuu, kurja!
+Hyv‰sti, Gaunt! Nyt murheen kanssa yksin
+K‰y veli-vainaas vaimo k‰sityksin.
+
+GAUNT.
+Hyv‰sti, sisko! Coventryyn k‰yn min‰.
+Molemmill' olkoon onni myˆtyrin‰!
+
+HERTTUATAR.
+Ei viel‰! Suru kimmoo, kun se sattuu,
+Ei tyhj‰‰ onttouttaan, vaan raskauttansa.
+Hyv‰stelen, vaikk' alkuun tuskin sain;
+Ei suru lopu, silt‰ n‰ytt‰‰ vain.
+Terveiset veljelleni Yorkille!
+Niin, siin‰ kaikki! -- Mutta miks tuo hoppu?
+Miks kiire noin, vaikk' onkin kaikki loppu?
+Muistanpa viel‰. Pyyd‰n -- niin, mut mit‰? --
+Tykˆni Plashyyn h‰nt‰ rient‰m‰‰n.
+York-vanhus siell‰, oi, min n‰keek‰‰n?
+Vain suojat autiot ja paljaat muurit,[4]
+Varastot tyhj‰t, k‰ym‰ttˆm‰t ukset,
+Ja tervehdykseks kaikuu valitukset.
+Terveiset vain! Miks etsis vierahista
+Surua, jonka lˆyt‰‰ vaikka mist‰?
+Lohdutta, lohdutta k‰yn kuolohon;
+Viimeinen hyv‰stini kyynel on.
+
+                    (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Aukea tasanko Coventryn l‰hell‰. Aituus ja
+    valtaistuin. Airuita y.m.
+
+    (Lord-marsalkka ja Aumerle tulevat.)
+
+MARSALKKA.
+Valmisko Henrik Hereford, lord Aumerle?
+
+
+AUMERLE.
+Kiireest‰ kantaan, kutsuntaa vain vartoo.
+
+MARSALKKA.
+Ja Mowbray uljaana ja ilomielin
+Vain syytt‰j‰ns‰ ‰‰nt‰ vartoo.
+
+AUMERLE.
+Siis ovat taistelijat varusteissa,
+Kuninkaan' tuloa vain odottavat.
+
+    (Torventoitauksia. Kuningas Richard tulee ja asettuu istumaan
+    valtaistuimelle; Gaunt, Bushy, Bagot, Green ja muut ylimykset
+    asettuvat samoin paikoilleen. Torvi soi, ja siihen vastaa ulkoa
+    toinen. Airut tulee ja h‰nen j‰ljiss‰‰n Norfolkin herttua
+    t‰ydess‰ sota-asussa.)
+
+KUNINGAS RICHARD.
+Marsalkka, kysyk‰‰ tuolt' aseekkaalta,
+Miks t‰ydess' asussa h‰n t‰nne saapuu;
+Nimens‰ sanokoon ja, s‰‰nnˆn mukaan,
+Asians' oikeaksi vannokoon.
+
+MARSALKKA.
+Jumalan nimess‰ ja kuninkaan,
+Ken olet, sano, miksi t‰nne saavut
+Noin ritar'asussa ja ket‰ vastaat?
+Asias? Sano totuus, valas kautta
+Ja ritar'arvosi, niin totta kuin
+Sua taivas auttakoon ja miehuutesi!
+
+NORFOLK.
+Norfolkin herttua, Thomas Mowbray, olen,
+Ja valallani saavun -- jota taivas
+Varjelkoon ritaria rikkomasta! --
+Herefordia, mun syytt‰j‰‰ni, vastaan
+Todistamaan, ett' olen uskollinen
+Taivaalle, kuninkaalle, suvulleni.
+Ja kautta k‰den t‰‰n ja taivaan armon,
+N‰in puolustautuen, ma toteen n‰yt‰n,
+Ett' taivaan, kuninkaan ja mun h‰n petti,
+Niin totta kuin mua taivas auttakoon!
+
+    (Asettuu paikalleen.)
+
+    (Torventoitaus. Airut tulee ja h‰nen j‰ljiss‰‰n
+    Bolingbroke aseissa.)
+
+KUNINGAS RICHARD.
+Marsalkka, kysyk‰‰ tuolt' aseekkaalta, --
+Kuka h‰n on, ja miksi saapuu t‰nne
+Noin sotatamineihin puettuna;
+H‰n s‰‰teisesti, niinkuin laki k‰skee,
+Asians' oikeaksi vannokoon.
+
+MARSALKKA.
+Ken olet? Miksi t‰nne aituukseen
+N‰in Richard kuninkaamme eteen astut?
+Asias? Ket‰ vastaat? Puhu totuus,
+Niin totta kuin sua taivas auttakoon!
+
+BOLINGBROKE.
+Herefordin, Lancasterin, Derbyn Henrik
+Ma olen; aseissa nyt t‰ss‰ seison
+Ja taivaan armolla ja tarmollani
+T‰ss' aituuksessa Thomas Mowbraysta,
+Norfolkin herttuasta, toteen n‰yt‰n,
+Ett' on h‰n luimu konna, joka petti
+Jumalan, Richard kuninkaan ja minut;
+Niin totta kuin mua taivas auttakoon!
+
+MARSALKKA.
+Se kuoleman on rangaistuksen oma,
+Ken rohkee koskettaa t‰t' aituusta,
+Pait marsalkka ja t‰m‰n jalon toimen
+Valitut valvojat.
+
+BOLINGBROKE.
+                  Lord marsalkka,
+Kuninkaan k‰tt‰ suudella mun suokaa
+Ja majesteetin eteen polvistua:
+Mowbray ja min‰ t‰ss‰ olemme
+Kuin kaksi miest‰, jotk' on vannoneet
+Pyhiss‰-k‰ynnin pitk‰n, raskaan tehd‰;
+Siis juhlalliset, hell‰t j‰‰hyv‰iset
+Kummankin suokaa ottaa yst‰vilt‰‰n.
+
+MARSALKKA.
+Kaipaaja kumartaa ja j‰‰hyv‰isiks
+Kuninkaan k‰tt‰ tahtois suudella.
+
+KUNINGAS RICHARD.
+Alas astumme ja h‰nt‰ syleilemme,
+Niin totta oikea kuin asiasi,
+Niin onni taistoss' olkoon seuranasi!
+Hyv‰sti, vereni! Jos t‰n‰‰n pois
+Sa vuodat, itken, mut en kostaa vois.
+
+BOLINGBROKE.
+Jaloa silm‰‰ ‰lkˆˆn itku halpa
+H‰v‰iskˆ, jos mun kaataa Mowbrayn kalpa.
+Niin varmasti kuin haukka lintu-parkaan,
+Ma taistelussa Mowbrayn p‰‰lle karkaan. --
+    (Lord-marsalkalle.)
+Hyv‰sti sanon teille, hyv‰ herra, --
+Myˆs teille, jalo lanko, lord Aumerle; --
+En pode, vaikka kuolon kanssa taistan,
+Nuor' olen, reipas, ilon maljaa maistan.
+Kuin pitoloissa herkut p‰‰ttimeksi,
+Minultakin j‰‰ paras viimeiseksi:
+    (Gauntille.)
+Vereni kallis alkul‰hde, sin‰, --
+Nuoruutes into, minuss' uudistuen,
+Mua kahden miehen voimall' ylˆs nostaa
+Tavoittaakseni p‰‰ni p‰‰lt‰ voiton.
+Karaise rukouksillas varukseni,
+Ter‰st‰ siunauksin peitsen k‰rki,
+Ett' on kuin vahaa Mowbrayn pantsar'asu,
+Ja pojan uljas k‰ytˆs kirkkaaks silaa[5]
+Juhana Gauntin nimen uudestaan.
+
+GAUNT.
+Hankettas hyv‰‰ taivas auttakoon!
+Kuin leimaus nopsa ole toimissasi,
+Ja kaksin kahdistettuina sun iskus
+Huumaavan herranvoiman lailla syˆskˆˆt
+Tuhoisen vihamiehen kyp‰r‰‰n!
+Veresi nouskoon! Ole miesi yh‰!
+
+BOLINGBROKE.
+Avuksi oikeus ja Yrjˆ pyh‰!
+
+    (Asettuu paikalleen.)
+
+NORFOLK (nousten).
+Mink' osan Jumala tai sallimus
+Minulle suonee, t‰ss‰ el‰‰, kuolee
+Kuningas Richardille uskollisna
+Vakava, suora, kunnon ylimys.
+Ilommmin mielin vankikaan ei heit‰
+Pois kahleitaan ja avosyliin sulje
+Kultaista, vallollista vapauttaan,
+Kuin hyppelev‰ syd‰mmeni viett‰‰
+Viholliseni kanssa taiston juhlaa. --
+Mont' onnen vuotta toivotan ma teille,
+Majesteetille ja p‰‰ri-kumppaneille.
+Iloisna taistoon k‰yn kuin pitohon;
+On rehdin mielin povi pelvoton.
+
+KUNINGAS RICHARD.
+Hyv‰sti, herttua! Urhon hyveet l‰ikkyy
+Sun silmiss‰s ja miehuus niist‰ s‰ihkyy. --
+Marsalkka, toimeen! Taisto alkakoon!
+
+    (Kuningas ja loordit palajavat paikoilleen.)
+
+MARSALKKA.
+Sa, Henrik Hereford, Lancaster ja Derby,
+Tuoss' ota peitses! Taivaan olkoon oikeus!
+
+BOLINGBROKE (nousten).
+Kuin vuori vahva toivoss' aamen sanon.
+
+MARSALKKA (palvelijalle).
+Tuo peitsi Norfolkin vie herttualle.
+
+1. AIRUT.
+Nyt Henrik Hereford, Lancaster ja Derby
+Jumalan, kuninkaan ja itsens' eess‰
+T‰ss' seisovi, ja uhall', ett‰ itse
+On petturi ja konna, toteen n‰ytt‰‰,
+Ett' Thomas Mowbray, herttua Norfolkin,
+Jumalan, kuninkaan ja h‰net petti,
+Ja vaatii h‰nt‰ siit‰ miekkasille.
+
+2. AIRUT.
+T‰ss' seisoo Thomas Mowbray, herttua Norfolk,
+Ja uhall', ett' on petturi ja konna.
+Nyt puolustaikse, toteen n‰ytt‰in ett‰
+Tuo Henrik Hereford, Lancaster ja Derby
+Jumalan, kuninkaan ja h‰net petti,
+Vapaasta halusta ja rohkein mielin
+Vain vartoo merkki‰, ett' alkaa saa.
+
+MARSALKKA.
+Soi, torvi! Taistelijat valmistukoot!
+    (Soitetaan hyˆkk‰ystorvea.)
+Seis! Sauvan heitt‰‰ v‰liin kuningas.[6]
+
+KUNINGAS RICHARD.
+Pois pankoot peitsens‰ ja kyp‰rins‰
+Ja k‰ykˆˆt kumpainenkin paikoilleen.
+    (Pitk‰lt‰ kest‰v‰‰ torventoitotusta.)
+    (Molemmille taistelijoille.)
+L‰hemm‰ t‰nne astukaa, ja kuulkaa,
+Mi meid‰n on ja neuvostomme p‰‰tˆs!
+Valtamme maata ettei saastuttaisi
+Sen oma ravitsema, kallis veri;
+Ja silm‰mme kun kammoo n‰hd‰ haavaa
+Kamalaa, kansaismiekan viilt‰m‰‰;
+Ja koska n‰ytt‰‰, ett‰ korskan mielen
+Taivasta tavottava kotkan-lento
+Ja kateus, jok' ei kilpailijaa k‰rsi,
+On teit‰ yllytt‰nyt rikkomaan
+Kuninkaan rauhan, joka lapsen-untaan
+Maan kehdoss' uinuu hennoin henk‰yksin;
+Ja koska voisi rummun jylh‰ pauhu,
+R‰m‰k‰n torven pelottava r‰ikk‰
+Ja raudan vihan kalske rajoiltamme
+Sulo-rauhan kaikottaa ja saada meid‰t
+Kahlaamaan oman heimon veress‰, --
+Niin maistamme n‰in teid‰t karkoitamme. --
+Sa, lanko, hengen uhall' et saa ennen,
+Kuin kymmenen on kes‰‰ tehnyt kukkaa,
+T‰t' ihanata maata terveht‰‰,
+Vaan henkipaton vierast' uraa k‰yd‰.
+
+BOLINGBROKE.
+Tahtonne olkoon! Lohtuna on viel‰,
+Ett' aurinkoinen loistaa myˆskin siell‰;
+Sen kultasateet, jotka teihin sataa,
+Ne kultaa myˆskin pakolaisen rataa.
+
+KUNINGAS RICHARD.
+Sun, Norfolk, raskaampi on tuomiosi,
+Ja julistan sen vastenmielisesti:
+Ei hidas hetken kulku m‰‰r‰t‰
+Saa maanpakosi rajatonta ‰‰rt‰;
+N‰‰ toivottomat sanat sulle lausun:
+Uhalla henkes ‰l‰ koskaan palaa!
+
+NORFOLK.
+Se raskas tuomio on, majesteetti,
+Ja arvaamaton teid‰n lausumaksi.
+Paremman palkan kuin n‰in syv‰n herjan
+Ansainnut oisin teid‰n armoltanne.
+Nyt ‰idinkieleni mun j‰tt‰‰ t‰ytyy,
+Tuo vuotta nelj‰kymment' oppimani;
+Ei kieleni sen arvokkaampi mulle
+Kuin kielitˆn on viulu taikka harppu,
+Tai taitosoitin, jok' on lukittu,
+Tai, aukij‰tettyn‰, pantu k‰teen,
+Jok' ei sit' osaa sopusointuun sointaa,
+Mun suussani te kielen vangitsitte
+Hampaiden, huulten kaksoisteljen taa;
+Ja tyhm‰, tyls‰, tyhj‰ tiedottomuus
+On mulle vanginvartijaksi pantu.
+Mut liian olen vanha oppilaaksi,
+Niin, liian vanha imett‰j‰n vauvaks.
+Siis tuomios on mykk‰‰ kuolemaa,
+Kun kiel' ei omaa kielt‰‰n k‰ytt‰‰ saa.
+
+KUNINGAS RICHARD.
+Her‰tt‰‰ s‰‰li‰mme ‰l‰ koita;
+Sait tuomios: on myˆh‰ vaikeroita.
+
+NORFOLK.
+Pois valoisasta kotimaasta k‰‰nnyn,
+Ja iki-ˆiden synkk‰‰n varjoon n‰‰nnyn.
+
+    (Aikoo menn‰.)
+
+KUNINGAS RICHARD.
+Palaja viel‰: ota matkaan vala. --
+K‰tenne henkipatot miekallemme![7]
+Uskollisuuden kautta, jonka taivas
+On teilt‰ saapa -- oman osuuteni
+Maanpakoon teid‰n kanssa karkoitin --
+Nyt vannokaa, min sanelen: ett'ette,
+Niin totta kuin teit' auttakohon taivas,
+Syleile maanpaossa toisianne,
+Tai toisianne koskaan silmiin katso,
+Tervehdi, kirjoita, tai tyynnyttele
+Kotoisen vihan luomaa myrsky‰,
+Tai neuvosta ja sopimuksest' yhdy
+Kutomaan pahaa salajuonta meit‰
+Tai maata, kansaa, valtakuntaa vastaan.
+
+BOLINGBROKE.
+Sen vannon.
+
+NORFOLK.
+            Min‰ myˆs sen t‰ytt‰‰ tahdon.
+
+BOLINGBROKE.
+Norfolk, mik‰li vihamiehen sopii: --
+Jos kuningas ois suonut, ilmaa harhais
+Jo meist‰ toisen sielu pakosalla
+Hauraasta t‰st‰ lihahaudastaan,
+Kuin liha t‰‰ nyt pakosall' on maastaan;
+Petokses myˆnn‰ ennen l‰htˆ‰si;
+On pitk‰ sulla matka, ‰l‰ mukaan
+Vain syyp‰‰n sielun raskast' ota takkaa.
+
+NORFOLK.
+Jos pettur' olen, Bolingbroke, niin nimeni
+El‰m‰nkirjast' ottakoot, mun syˆskˆˆt
+Maanpakoon taivaastakin, niinkuin t‰‰lt‰!
+Mik' olet, taivas tiet‰‰ sen ja sin‰
+Ja min‰, pian kuningas sen tuntee. --
+Hyv‰sti, valtias! Nyt harhan kaihdan,
+Kun kotimaani maailmaan ma vaihdan.
+
+    (Menev‰t.)
+
+KUNINGAS RICHARD.
+Silm‰isi peiliss‰ ma n‰en, set‰,
+Syd‰mmen murtuneen; tuo murheen n‰ky
+Se poikasi pakovuosist' ottaa
+Pois nelj‰. -- (Bolingbrokelle.) Kuusi talvikylm‰‰ viel‰,
+Niin taasen kotiin palaat ilomiell‰.
+
+BOLINGBROKE.
+Kuin pitk‰ aika mahtuu pieneen sanaan?
+Kuninkaan henk‰ys nelj‰ talvi-rauskaa
+Pois pyyhk‰isee ja nelj‰ kes‰‰ hauskaa.
+
+GAUNT.
+Kuningas, kiitos, ett‰ is‰n t‰hden
+V‰hensit pojan pakovuodet kuuteen.
+Mut pienen hyˆdyn min‰ siit‰ saan.
+Ennenkuin n‰m‰ kuusi m‰‰r‰vuotta,
+N‰et, kuita vaihtelee ja matkan p‰‰tt‰‰,
+Mun lamppuni jo sammuu, ˆljy puuttuu, --
+Ja heikko valo ikiyˆksi muuttuu;
+Lopussa on mun kynttil‰ni p‰‰,
+Ma, kuolon sokko, poikaani en n‰‰.
+
+KUNINGAS RICHARD.
+Mont' elinvuotta viel‰ suodaan sulle.
+
+GAUNT.
+Vaan sull' ei hetke‰k‰‰n antaa mulle.
+Suruilla p‰iv‰ni voit lyhent‰‰,
+Yˆt ryˆst‰‰, vaan et huoment' ehd‰tt‰‰;
+Vakoja uurtamaan voit auttaa aikaa,
+Mut rypyn est‰miseen sull' ei taikaa;
+Sanasi valta voi mun kuolettaa,
+Mut kuollutt' ei sun valtas henkiin saa.
+
+KUNINGAS RICHARD.
+T‰ydess‰ tuumin poikas kartoitettiin,
+Ja oma kielesikin siihen suostui.
+Miks karsaat tuomiota oikeaa?
+
+GAUNT.
+Makea maistaa, karvas sulattaa.
+Mun, tuomarin, te tiedustitte mielt‰;
+Voi, etten saanut haastaa is‰n kielt‰!
+Jos vieras ois h‰n, eik‰ poika ollut,
+Niin lievemp' oisi tuomiokin tullut.
+Ma puolenpidon soimaa kaihtaa koitin,
+Ja oman henkeni n‰in tuomioitin.
+Ma katsoin, eikˆ kukaan valittais
+Kovuuttani ja sit‰ vaimentais,
+Mut te vain hyv‰ksyitte lausuntoni,
+Kun tahtomatta lausuin tuomioni.
+
+KUNINGAS RICHARD (Bolingbrokelle.)
+Hyv‰sti, serkku! -- (Gauntille.) Hyv‰stelk‰‰ te
+Kuus vuotta maanpakoa saa h‰n heti.
+
+    (Torventoitauksia. Kuningas Richard seurueineen poistuu.)
+
+AUMERLE.
+Hyv‰sti, lanko! Mit‰ nyt et malta,
+Sen kirjeess' ilmoittanet toisahalta,
+
+MARSALKKA.
+Ei viel‰ hyv‰sti; teen seuraa teille
+Niin pitk‰lle kuin maata riitt‰‰ meille.
+
+GAUNT.
+Oi, miksi sanojasi itaroit,
+Ja yst‰v‰isi hyv‰stiin et vastaa?
+
+BOLINGBROKE.
+Hyv‰stiks mull' on niit‰ liian v‰h‰n.
+Jos kieli, kunnon palvelusta tehden,
+Syd‰mmen t‰yden tuskan ilmi huokuis.
+
+GAUNT.
+Surusi on vain ajaks poistumista.
+
+BOLINGBROKE.
+Kun ilo poistuu, suru t‰ytt‰‰ paikan.
+
+GAUNT.
+Kuus vuotta kuluu pian.
+
+BOLINGBROKE.
+                        Onnekkailta;
+Mut suru tunnit tekee kymmeniksi.
+
+GAUNT.
+Kuvaile, ett' on se vain huvimatka.
+
+BOLINGBROKE.
+Syd‰mmeni huokaa, n‰in jos valehtelen,
+Kun vain se v‰kin‰ist' on vaellusta.
+
+GAUNT.
+Raskaitten askeltesi synkk‰‰ tiet‰
+Kuvaile kehykseksi, johon kerran
+Sa kotiintulos kalliin helmen liit‰t.
+
+BOLINGBROKE.
+Pikemmin joka raskaalt' askeleelta
+Ma muistan, kuinka et‰‰mm‰lle yh‰
+Vaellan rakkaimmista helmist‰ni.
+Mun t‰ytyy monta pitk‰‰ oppivuotta
+Vieraissa maissa palvella, ja vihdoin,
+Kun olen vapaa, muut' ei kerskattavaa,
+Kuin ett‰ olin surun matkalainen.
+
+GAUNT.
+Joka paikka, johon taivaan silm‰ osuu,
+Viisaalle satama on, onnen ranta.
+H‰t‰‰si neuvo p‰‰ttelem‰‰n n‰in:
+Hyvett' ei h‰d‰n vertaa. ƒl‰ p‰‰t‰,
+Ett' ajoi sun maanpakoon kuningas,
+Vaan sin‰ h‰net: raskaampi on tuska.
+Jos kantajansa heikoksi se huomaa.
+Sano, ett‰ kunniata etsim‰‰n
+Ma sinut l‰hetin, ja ettei sua
+Kuningas karkoittanut. Oleta,
+Ett' ahnas rutto taivaallamme leijuu,
+Ja ilmanalaan raittiimpaan s‰ riensit.
+Sun soittoniekkas olkoot laululinnut,
+Maan nurmi kaisloitettu juhlahuone,[8]
+Kukkaiset sulonaisia, ja kulkus
+Vain ilohyppy‰ ja karkeloa:
+Kaluva tuska, n‰et, ei kovin pure,
+Jos sille ilkut vain, etk' ylen sure.
+
+BOLINGBROKE.
+Oi, ken voi pit‰‰ tulta k‰dess‰‰n,
+Kun ajattelee j‰ist‰ Kaukasusta?
+Ken julman n‰l‰n kiihkaa vaimentaa
+Vain atrioita kuvittelemalla?
+Ken lumess' alastonna vieri‰
+Ja luulla kes‰helteess' olevansa?
+Ei, ei! Tuo hyv‰n kuvittelu tekee
+Vain pahan tunteen kahta suuremmaksi.
+Enemm‰n suru tuima kirvelee,
+Jos kalvaa vain se, mut ei haavaa tee.
+
+GAUNT.
+Pois! Sua seuraan. Noin jos nuori oisin,
+Ja moinen syy, kuink' aikailla ma voisin?
+
+BOLINGBROKE.
+Englannin tanner, hyv‰st' armas manner,
+Emo, vaalija, jok' yh‰ mua kannat!
+Jos minne k‰yn, n‰in aina kerskaankin:
+Maanpaossakin poika Englannin!
+
+                    (Menev‰t.)
+
+
+
+
+TOINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Coventry. Huone kuninkaanlinnassa.
+
+    (Kuningas Richard, Bagot ja Green tulevat toisesta ovesta,
+    Aumerle toisesta.)
+
+KUNINGAS RICHARD.
+Kyll' oivalsimme. -- No, Aumerle, kuin kauas
+Saatoitte Herefordin, tuon valtamiehen?
+
+AUMERLE.
+Herefordin, niin sanotun valtamiehen,
+Vein valtatielle saakka, siihen heitin.
+
+KUNINGAS RICHARD.
+Ja varmaan ero-itkut itkettiin?
+
+AUMERLE.
+En suinkaan min‰; kenties pohjatuuli,
+Jok' ihan oli kasvot meilt‰ polttaa,
+Her‰tti nuhan uinuvan ja ehk‰
+Kyynelin kasti kuivat erojaiset.
+
+KUNINGAS RICHARD.
+Ja mit‰ sanoi lanko erotessaan?
+
+AUMERLE.
+                                Hyv‰sti.
+Mut kosk' ei syd‰n suonut kieleni
+H‰v‰ist‰ tuota sanaa, niin mua viekkaus
+Opetti teeskelem‰‰n tuskaa mointa,
+Kuin oisi sanat niellyt surun hauta.
+Jos hyv‰steist‰ viivynt‰‰ ois tullut
+Ja ajan lis‰‰ lyhyeen maanpakoon,
+Niin ois h‰n saanut niit‰ kirjan t‰yden;
+Vaan nyt ei multa saanut yht‰k‰‰n.
+
+KUNINGAS RICHARD.
+H‰n lanko, lanko on; mut ep‰ilemme,
+Kun aika h‰net maanpaosta kutsuu,
+Palaako lanko yst‰v‰ins‰ t‰hden.
+Me itse, Bushy, Bagot myˆs ja Green
+N‰imme, kuinka liehakoi h‰n kansaa,
+Kuink' alhaisella, nˆyr‰ll' imarteella
+Sen syd‰mmeen h‰n tahtoi sukeltaa;
+Kuink' orjiin tuhlas kohteliaisuutta,
+Tyˆmiehet voitti imartelutyˆll‰,
+Ja kantoi nˆyr‰st' osaansa, ik‰‰nkuin
+Maanpakoon heid‰n suosionsa veisi.
+Osteri-muijaakin h‰n lakittelee;
+Ajuri "Herran rauhaa" toivottaa
+Ja palkakseen saa polvenkoukistuksen
+Ja "kiitos, maamies, rakas yst‰v‰!"
+Kuin oikeus ois h‰ll‰ Englantiimme,
+Ja h‰n sen alamaisten ylin toivo.
+
+GREEN.
+H‰n tiess‰‰n on ja juonet h‰nen kanssaan. --
+Nyt kapinaan, jok' Irlannissa kiehuu!
+Rivakat toimet, ettei lis‰ viipy
+Tois heille lis‰‰ apuneuvoja
+Eduksi itselleen ja haitaks teille.
+
+KUNINGAS RICHARD.
+Menemme itse mukaan t‰h‰n sotaan. --
+Mut kosk' on kirstu liian auliuden
+Ja hovinpidon vuoksi hiukan kevyt,[9]
+Niin pakko pantata on valtakunta;
+Ne tulot meille ensik‰teen riitt‰‰.
+Jos siit' ei kyllin, niin me sijaisille
+J‰t‰mme t‰ytett‰v‰ks kirjekaavat;
+Jos rikkaaks jonkun huomaavat, niin niihin
+Panevat t‰m‰n nimiin aimo summat
+Ja laittavat ne meille tarpeisiimme;
+Sill' Irlantiin nyt menn‰‰n viipym‰tt‰.
+    (Bushy tulee.)
+Mit' uutta, Bushy?
+
+BUSHY.
+Gaunt vanhus heikkona on sairaana,
+Poteutui ‰kin, lentoviestin laittoi
+Anomaan luokseen teid‰n armoanne.
+
+KUNINGAS RICHARD.
+Miss' on se sairas?
+
+BUSHY.
+                    Ely-house'ssa.
+
+KUNINGAS RICHARD.
+Jumala l‰‰k‰rille mieleen tuokoon,
+Ett' auttais h‰net viipym‰tt‰ hautaan:
+Lippaansa sisustus se t‰ss‰ sodass'
+Ois tarpeen p‰‰llysvaatteiks sotureille. --
+Pois tulkaa h‰nen luokseen! Suokoon luoja,
+Ett' oisi t‰m‰ kiire liian myˆh‰!
+
+                       (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Lontoo. Huone Ely-house'ssa.
+
+    (Gaunt leposijalla; Yorkin herttua ja muita
+    seisoo h‰nen ymp‰rill‰‰n.)
+
+GAUNT.
+No, mit‰? Tuleeko se kuningas,
+Niin ett‰ viime henk‰ykseni huokuis
+Nuorelle liehakolle viisaan neuvon?
+
+YORK.
+Noin ‰lk‰‰ tuskailko ja ponnistelko:
+Neuvoille h‰nen korvansa on kuuro.
+
+GAUNT.
+Sanovat, ett‰ kuolevaisen kieli
+Se valtaa kuulon niinkuin syv‰ soitto.
+Kun puhe niukkaa on, se korvaan ottaa:
+Ken haastaa vaivalla, se haastaa totta.
+Enemm‰n kuullaan kielt‰, kohta mykk‰‰.
+Kuin lˆrpp‰‰, jossa tyhj‰ ilo sykk‰‰.
+Parasta el‰m‰ on loppuessaan;
+Laskeissaan p‰iv‰, soitto tauotessaan,
+Kuin herkun j‰lkimaku, muistoon j‰‰.
+Kun mielest' aikaisemmat h‰vi‰‰.
+Jos Richard el‰v‰n ei kuullut mielt‰,
+Nyt ehk‰ kuulee kuolevaisen kielt‰.
+
+YORK.
+Sen korvan tukkii toiset maire‰‰net:
+Nuo loiston ylistykset; tyhm‰t viisut
+Ja rivot laulut, joiden myrkky‰‰niin
+On nuorukaisen korva aina herkk‰;
+Jutelmat Italian muodeista,
+Joit' apinoiva, k‰hl‰s kansamme
+J‰littelee ja nilkutellen matkii.
+Jos mailma p‰‰st‰‰ jonkin tyhmyyden --
+Viis siit‰, kuinka huonon, kun vain uuden --
+Niin joutuun sit‰ korvaan toitotellaan.
+On neuvo myˆh‰, haihtuu niinkuin vahto,
+Kun j‰rjen kanss' on kapinassa tahto.
+Ken tiet‰‰ tiens', on neuvo sille turhaa,
+Se hengen haukkojalta hengen murhaa.
+
+GAUNT.
+Profeetan henki minussa nyt nousee,
+N‰in kuolevana h‰nest' ennustan:
+Ei pysyv‰‰ tuo hurjan himon lieska,
+Pian raivo tuli, n‰et, tyhjiin palaa;
+Vihus‰‰ kest‰‰, vaan ei raju-ilma;
+Jot' ‰kin kannustat, se ‰kin uupuu;
+Ken ruokaa ahmii, ruokaan tukehtuu;
+Hepakka turhuus, pohjaton tuo ahma,
+Muut syˆty‰ns‰, raataa itse‰‰n.
+Kruunattu saari t‰‰, t‰‰ valtain paikka,
+T‰‰ majesteetin maa, t‰‰ Marsin istuin,
+Eedeni toinen, puoli-paratiisi,
+Linnoitus, luonnon itsellens‰ luoma
+Niin ruttoa kuin sodan k‰tt‰ vastaan,
+T‰‰ onnen asutus, t‰‰ pienoismailma,
+T‰‰ helmi, upotettu hopeamereen,
+Jok' on sen vartijana niinkuin muuri
+Tai vallihauta, joka kodin suojaa
+V‰hemm‰n onnellisten kateudelta;
+T‰‰ Englanti, t‰‰ maa, t‰‰ pyh‰ paikka,
+Emo ja imett‰j‰ kuningasten
+Suurvoimaisten ja synnylt' ylev‰in,
+Jotk' ovat ristin ritareina kuulut
+Et‰‰lle hautaan saakka, miss‰ lep‰s
+Maailman lunnas, pyh‰n neitseen poika,
+Tuoll' uppiniskaisessa Juudan maassa;
+T‰m‰kˆ kallihitten kallis maa,
+Maineeltaan kallis kautta maailmoiden,
+Nyt pantataan -- ma kuolen, kun sen lausun --
+Kuin mik‰ vuokramaa tai torpantila?
+Englanti, jonka ylv‰ meri nivoo
+Ja jonka vuorirannat luotaan tyˆnt‰‰
+Tuon kateen, kostean Neptunin tyrskyt,
+H‰pe‰‰n nivotaan ja mustet‰pliin
+Ja lahon pergamentin siteisiin.
+T‰‰ Englanti, jok' ennen voitti muita,
+Nyt itsest‰‰n on kehnon voiton saanut.
+Oi, henkeni jos vois sen herjan pest‰,
+Kuink' autuaana menisinkin hautaan!
+
+    (Kuningas Richard, kuningatar, Aumerle, Bushy,
+    Green, Bagot, Ross, Willoughby tulevat.)
+
+YORK.
+Kuningas tulee; h‰nen nuoruuttaan
+Pidelk‰‰ lempe‰sti: nuoren varsan
+Jos raivoon saatat, enemm‰n se raivoo.
+
+KUNINGATAR.
+Kuin jaksaa jalo lankomme, Lancaster?
+
+KUNINGAS RICHARD.
+Rohkeutta, mies! Kuin voitte, vanha Gaunt?
+
+GAUNT.
+Oi, kuinka tilaani se nimi sopii!
+Gaunt, se on: laiha; vanhuutt' olen laiha.
+Minussa suru piti pitk‰n paaston,
+Ja paastoava laihtuu. Mua kauan
+Englanti nukkuva on valvotellut,
+Ja valvova se heikontuu ja laihtuu.
+Isonnut olen, mik‰ monen is‰n
+On ravintona, katsett' oman lapsen,
+Mun sill‰ paastoll' olet laihaks saanut.
+Hautaankin laiha, laiha niinkuin hauta,
+Jonk' ontto vatsa ruoaks saa vain luita.
+
+KUNINGAS RICHARD.
+Noin nimest‰‰nkˆ tekee pilkkaa sairas!
+
+GAUNT.
+Ei, kurjuus vain se itse‰‰n n‰in ilkkuu;
+Minussa nimeni kun tappaa aiot,
+Niin nime‰ni ilkun maireeks sulle.
+
+KUNINGAS RICHARD.
+Siis kuolevatko mairii el‰vi‰?
+
+GAUNT.
+Ei, el‰v‰t ne kuolevia mairii.
+
+KUNINGAS RICHARD.
+Sa, kuoleva, mua mairit, sanoit sin‰.
+
+GAUNT.
+Ei, sin‰ kuolet, vaikk' oon sairas min‰.
+
+KUNINGAS RICHARD.
+Terveen‰ hengin ja sun sairaaks n‰en.
+
+GAUNT.
+Sun min‰ sairaaks n‰en, sen Luoja tiet‰‰,
+Sairaana itse ja kun sun n‰en sairaaks.
+Ei kuolinvuotees v‰hempi kuin maasi,
+Joss' itse mainettasi sairastat;
+Ja varomaton potilas kun olet,
+Niin p‰‰si voidellun sa annoit hoitoon
+Sen l‰‰k‰rin, jok' itse iski haavan.
+Tuhansin kruunuus mahtuu mairijoita.
+Ja suuremp' ei sen piiri kuin sun p‰‰si,
+Ja vaikka sullotut noin pieneen alaan,
+Ne koko maasi sulta peijaavat.
+Oi, jos ois esi-is‰s aavistanut,
+Kuin pojanpoika tuhoo poikiaan,
+Ylett‰m‰ttˆmiin h‰n h‰pe‰si
+Ois korjannut, sun istuimeltas syˆsnyt
+Jo ennen nousuas, sun, joka siihen
+Vain nousit itses siit‰ syˆst‰ksesi!
+Oi, lanko, maailman jos oisit herra,
+H‰pe‰ ois pois maasi vuokrata!
+Nyt kun t‰‰ maa on koko maailmasi,
+On h‰pe‰t‰ h‰pe‰mp‰‰ sit‰
+N‰in h‰v‰ist‰. Nyt Englannissa olet
+Vain tilanhaltija, et kuningas;
+Lain valtaherra lain on orja vain.
+
+KUNINGAS RICHARD.
+Ja sin‰, mieletˆn, kuuhullu hˆlmˆ,
+Kuumeesi etuoikeuteen luottain,
+Uskallat viluisilla neuvoillasi
+Vaalentaa poskeni ja valtaveren
+Pois raivon ajaa kotipaikoiltaan.
+Kautt' ylv‰‰n majesteetti-istuimeni,
+Jos Edward suuren et ois veljenpoika,
+Niin kieli tuo, mi p‰‰ss‰si nyt pyˆrii,
+P‰‰n pyˆritt‰is sun, konnan, harteiltasi.
+
+GAUNT.
+Mua ‰l‰ s‰‰st‰, Edward-veljen poika:
+Vaikk' is‰ns' Edwardin ma olin poika!
+Sen veren olet, niinkuin pelikaani,
+Jo kuiviin juonut, siit‰ p‰ihtynytkin.
+Veljeni Gloster, jalo, puhdas sielu --
+H‰n autuaitten rauhaa nauttikoon! --
+On hyv‰ todistus ja merkki siit‰,
+Ett' Edwardin et verta kaataa kammo.
+Tee liitto t‰m‰n sairauteni kanssa;
+Kovuutes olkoon niinkuin k‰yr‰ vanhuus,
+Jok' aikaa kuihtunehen kukan katkoo.
+Sa h‰pe‰ss‰s el‰ nyt ja aina:
+N‰‰ kirouksen sanat mielees paina!
+Nyt vuoteeseen, ja sitten hautaan vainen!
+Se el‰kˆˆn, kell' arvo on ja maine!
+
+    (Palvelijat kantavat pois h‰net.)
+
+KUNINGAS RICHARD.
+Ja kuolkoon, ken on vanha, juonikkainen;
+Sin' olet kumpaakin, siis kuole vainen.
+
+YORK.
+Sanansa anteeks suokaa, majesteetti:
+Se vanhuutt' on ja taudin k‰rtyisyytt‰;
+H‰n teit‰ lempii, uskokaatte pois,
+Kuin Henrik Hereford, jos h‰n t‰ss‰ ois.
+
+KUNINGAS RICHARD.
+Niin, oikein! Niinkuin Hereford! Yht‰ syv‰
+Mun lempeni on myˆs, ja sill‰ hyv‰.
+
+    (Northumberland tulee.)
+
+NORTHUMBERLAND.
+Gaunt kuningasta terveht‰‰.
+
+KUNINGAS RICHARD.
+                            Ja sanoo?
+
+NORTHUMBERLAND.
+Ei mit‰‰n; kaikk' on loppuun puhuttu.
+Kuin soitin kieletˆn nyt on sen kieli,
+Lopussa kaikki, puhe, henki, mieli.
+
+YORK.
+Ja kohta Yorkille k‰y samoin aivan:
+On tuoni kˆyh‰, vaan se p‰‰tt‰‰ vaivan.
+
+KUNINGAS RICHARD.
+T‰yskyps‰ ensin putoo; p‰‰tt‰nyt
+H‰n kulkuns' on, ja meid‰n alkaa nyt.
+Se siit‰. -- Ja nyt sodast' Irlannissa.
+Nuo raa'at, puup‰‰t jurrit taittaa t‰ytyy,
+Ne el‰v‰t kuin k‰‰rmeet, miss‰ muuten
+Ei k‰‰rmeill' ole oikeutta el‰‰.[10]
+Ja koska t‰m‰ suurtyˆ hiukan maksaa,
+Niin avuks itsellemme anastamme
+Hopeat, rahat, saatavat ja kalut,
+Niin, kaikki, mik' on Gauntin omaa ollut.
+
+YORK.
+Kuin kauan tuota kest‰n? Kuinka kauan
+V‰‰ryytt‰ siet‰‰ arka alamaisuus?
+Ei surina Glosterin, ei Gauntin herjuu,
+Ei Herefordinkaan karkoitus, ei v‰‰ryys,
+Jonk' Englanti on k‰rsinyt, ei myˆsk‰‰n
+Bolingbroke-raukan naimisliiton kielto,[11]
+Ei oma h‰p‰isy mua koskaan saanut
+Pienint‰ kasvoin juonta muuttamaan
+Tai nen‰‰ nyrpist‰m‰‰n kuninkaalle.
+Edwardin jalon pojist' olen nuorin,
+Is‰si, Walesin prinssi, oli vanhin;
+Sodass' ei raivo leijona niin hurja,
+Ei s‰isy lammas rauhassa niin lauha,
+Kuin t‰m‰ nuori prinssi-ylimys.
+H‰nen on muoto sulla; tuolta n‰ytti,
+Kun sinun ik‰vuotesi h‰n t‰ytti:
+Mut Ranskalle vain rypisteli otsaa,
+Eik' yst‰villeen; jaloin k‰sin voitti
+Mink' antoi pois, eik' antanutkaan pois
+Mink' is‰n voitollinen k‰si voitti;
+Ei k‰tt‰‰n suvun veret punanneet,
+Vaan suvun verivihollisten veret.
+Oi, Richard! Liiaks suru Yorkin valtaa,
+H‰n muuten ei ois vertailuja tehnyt.
+
+KUNINGAS RICHARD.
+Mit‰, lanko?
+
+YORK.
+             Ruhtinaani, anteeks suokaa,
+Jos tahdotte; jos ette, niin en min‰
+Anteeksi tahdo; tyydyn muutenkin.
+Ryˆst‰‰kˆ aiotte ja valloin ottaa
+Herefordin, maastaan syˆstyn, oikeudet?
+Gaunt eikˆ kuollut? Eikˆ Hereford el‰?
+Gaunt eikˆ rehti, Henrik uskollinen?
+Gaunt eikˆ perillisen arvoinen,
+Ja Henrik eikˆ pojan arvollinen?
+Herefordilt' oikeus ota, ajalt' ota
+Pois etuudet ja vanhat nauttimukset;
+T‰‰n p‰iv‰n j‰lkeen huoment' ‰l‰ salli;
+ƒl' ole, mik‰ olet; kuningashan
+Olet vain lain perimyksen kautta.
+Jos -- kautta taivaan -- varjelkoon sen taivas!
+Herefordin oikeudet sa anastat,
+Per‰yt‰t armokirjat, joilla voi h‰n
+Pid‰tt‰‰ l‰‰nitykset itselleen,
+Ja h‰lt' et kunnioitust' ota vastaan,
+Niin tuhat vaaraa ker‰‰t p‰‰si p‰‰lle,
+Tuhansin kelpo syd‰mmi‰ hukkaat,
+Ja hell‰n maltin kiihd‰t mietteisiin,
+Joit' ei sais alamainen mietiskell‰.
+
+KUNINGAS RICHARD.
+Sa mieti, mit‰ mietit. Hopeat
+Ma otan, kullat, maat ja tavarat.
+
+YORK.
+Hyv‰sti, herra! Min en vain k‰y mukaan.
+Mik‰ on seuraus, ei tied‰ kukaan;
+Mut sen ma tied‰n, ett‰ huono tie
+Ei koskaan onnelliseen loppuun vie.
+
+    (Menee.)
+
+KUNINGAS RICHARD.
+Wiltshiren kreivin luokse joutuun, Bushy,
+Ja k‰ske, ett‰ tulee Ely-houseen
+Sopimaan asiasta. Huomen-aamull'
+Irlantiin matkaamme; jo onkin aika.
+Poiss'oloajaksemme m‰‰r‰‰mme
+York sed‰n sijaishallitsijaksemme,
+H‰n nuhteeton on mies ja harras meihin. --
+Tule, kuningatar! Huomenn' erotaan;
+T‰‰ lyhyt aika viel‰ iloitaan.
+
+    (Torventoitauksia. Kuningas, kuningatar, Bushy, Aumerle.
+    Green ja Bagot poistuvat.)
+
+NORTHUMBERLAND.
+Niin, loordit, herttua Lancaster on kuollut.
+
+ROSS.
+Ja el‰‰: nyt on herttuana poika.
+
+WILLOUGHBY.
+Niin kyll‰ nimeen, vaan ei hyˆtyyn n‰hden.
+
+NORTHUMBERLAND.
+Kumpaankin kyllin, jos sais oikeus vallan.
+
+ROSS.
+T‰ys syd‰n on; vait'olost' ennen k‰tkee,
+Kuin sit‰ kevent‰‰ saa vapaa kieli.
+
+NORTHUMBERLAND.
+Puhu pois, ja ij‰ks vaietkoon sen kieli,
+Ken matkii puhettas sua turmellakseen.
+
+WILLOUGHBY.
+Herefordin herttuaako puhees koskee?
+Jos niin on, sano rohkeasti pois,
+H‰nest‰ korva mielin kuulee hyv‰‰.
+
+ROSS.
+Ei hyv‰‰, jota voisin h‰lle tehd‰,
+Jos teist' ei hyv‰‰ sit‰ s‰‰litell‰,
+Ken peruistaan on puti puhtaaks pantu.
+
+NORTHUMBERLAND.
+H‰pe‰, Jumal' avita, on siet‰‰
+V‰‰ryytt‰ moista h‰nt‰, prinssi‰,
+Ja monta muuta jalomusta kohtaan
+T‰ss' onnettuuden maassa. Oma itsens'
+Ei ole kuningas, vaan halvat liehit
+H‰nt' ohjaavat, ja mit‰ n‰m‰ kielii
+Vihasta jotakuta vastaan meist‰,
+Sen s‰‰litt‰ h‰n panee meiss‰ toimeen
+Ja meilt‰ hengen, lapset, suvun tuhoo.
+
+ROSS.
+Kansalta nylkenyt on raskaat verot
+Ja vieroittanut n‰in sen syd‰mmen;
+Kostellut aatelille vanhat vihat
+Ja vieroittanut senkin syd‰mmen.
+
+WILLOUGHBY.
+Ja joka p‰iv‰ hankkeess' uudet keinot:
+Pakotuslainat, lahjat ja ties mitk‰.
+Mut mihin, Herran nimess‰, ne joutuu?
+
+NORTHUMBERLAND.
+Ei suinkaan sotiin; sotia h‰n ei k‰y;
+H‰n kurjiin sopimuksiin haaskaa vain,
+Mink' esi-is‰t miekoin hankki. Rauha
+Enemm‰n h‰lt‰ vie kuin sota heilt‰.
+
+ROSS.
+Wiltshire on valtakunnan vuokramies.
+
+WILLOUGHBY.
+Kuningas h‰vinnyt on kauppasaksa.
+
+NORTHUMBERLAND.
+Tuho ja h‰v‰istys nyt h‰nt‰ uhkaa.
+
+ROSS.
+Irlannin sotahan on rahaa tarvis,
+Vaikk' onkin verot raskaat; sen vuoks t‰ytyy
+Maanpakolainen ryˆst‰‰.
+
+NORTHUMBERLAND.
+                        Oma lanko:
+Mik' ep‰jalo kuningas! Mut, loordit,
+Tuon myrskyn havinan me kuulemme,
+Vaan emme etsi suojaa tuulisp‰‰lt‰;
+Purjeita tuuli pingoittaa, mut niit‰
+Ei lasketa, vaan tieten hukutaan.
+
+ROSS.
+N‰emme haaksirikkoon joutuvamme,
+Ja vaara se on v‰ist‰m‰tˆn nyt,
+Kun haaksirikon syyt n‰in suvaitsemme.
+
+NORTHUMBERLAND.
+Ei, kuolon kuoppasilm‰ss‰ m‰ huomaan
+El‰m‰n siinnon, mut en virkkaa tohdi,
+Kuin l‰hell‰ on lohdun sanoma.
+
+WILLOUGHBY.
+Mietteesi sano; meid‰n mietteet tunnet.
+
+ROSS.
+Puhu suoraan vaan, Northumberland: me kolme
+Olemme yht‰ me; ja mit‰ haastat,
+Se mietteeksi vain j‰‰; siis sano suoraan.
+
+NORTHUMBERLAND.
+No siis: -- ma Port le Blanc'ist' olen saanut,
+Bretagnen satamasta, tiedon, ett‰
+Herefordin herttua, Reginald Lord Cobham, --
+Richardin, Arundelin kreivin, poika,
+Jok' Exeterin hylk‰s, -- t‰m‰n veli,
+Entinen Canterburyn arkkipiispa,
+Sir Thomas Erpingham, sir Robert Waterton,
+John Norbery, sir John Ramston, Francis Quoint,
+Joill' on Bretagnen herttuan varustamaa
+Kuus laivaa sek‰ kolmetuhat miest‰,
+Nyt t‰nne kiirein rient‰v‰t ja kohta
+Kai ovat pohjoisrannikolle nousseet;
+Siell' oisivatkin jo, mut odottavat
+Kuninkaan Irlantihin l‰htˆ‰.
+Jos silloin ikeen poistaa tahdomme,
+Sulittaa maamme rikkouneen siiven,[12]
+Panttauksen herjast' ostaa vapaaks kruunun,
+Tomusta pest‰ valtikkamme kullan
+Ja tehd‰ majesteetin n‰kˆisekseen,
+Niin seuratkaa mua heti Ravenspurgiin.
+Mut pelko jos saa teid‰t ep‰ilyksiin,
+Niin j‰‰k‰‰, vaietkaa, ma menen yksin.
+
+ROSS.
+Ratsaille pois! Ei pelko saa meit' est‰‰.
+Siell' ensin olen jos vain ratsu kest‰‰.
+
+                              (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Lontoo. Huone kuninkaanlinnassa.
+
+    (Kuningatar, Bushy ja Bagot tulevat.)
+
+BUSHY.
+Surette liikaa, rouva kuningatar.
+Kuninkaast' erotessa lupasitte
+Unohtaa kaikki pahoittavat huolet
+Ja iloisella mielin olla aina.
+
+KUNINGATAR.
+Kuninkaan mieliks tein sen; omiks mieliks
+En sit‰ voi; mut muut' en syyt‰ tied‰,
+Miks tuskaa vieraakseni terveht‰isin,
+Kuin ett‰ hyv‰sti m‰ j‰tin vieraan
+Niin rakkahan kuin rakkaan Richardin.
+Mut sent‰‰n joku syntym‰tˆn suru,
+Helmoissa onnettaren kypsynyt,
+Mua l‰hestyv‰n n‰ytt‰‰; syd‰mmeni
+Vavahtaa tyhj‰‰; jokin muu sit' ahtaa
+Kuin ero miehest‰ni.
+
+BUSHY.
+                     Joka tuskall'
+On kaksikymment' eri kuvajaista,
+Jotk' ovat niinkuin tuska, vaan ei tuskaa.
+Kyynelten kiillottama surun silm‰
+Moneksi muuttaa yhden esineen.
+Kuin hairakuva, joka suoraan n‰hden
+On sekavaa, mut viistoon katsottuna
+Jo hahmon saa: niin tekin, arvon rouva,
+Katsellen viistoon eroanne, n‰ette
+Vain tuskan kuvan, tuskaa synkemm‰nkin,
+Jok' oikein katsoen on oleetonta
+Vain varjoa. Siis, rouva armiaisin,
+Kaikk' eron syy on, siin' ei muuta laisin.
+Se surun silm‰n hairaust' on vaan,
+Totena itkee turhaa luuloaan.
+
+KUNINGATAR.
+Voi olla niin, mut syd‰n sanoo mulle,
+Ett' onkin toisin. Oli miten oli,
+Mut raskas mull' on mieli, synk‰n raskas;
+Ja vaikk' ei tyhj‰n ajatus mua paina,
+Niin raskas tyhjyys mua vaivaa aina.
+
+BUSHY.
+Vain hourehia, armollinen rouva.
+
+KUNINGATAR.
+Ei v‰hint‰k‰‰n; hourehien is‰
+On aina kaiho; niin ei minun laita:
+T‰‰ jokin kaiho tyhj‰st‰ on siinnyt,
+Tai jotain on se tyhj‰ jota kaihon;
+Sen omistus on odotteessa viel‰,
+Mut mit‰ on se, sit' en tunnekaan,
+Se tuska nimetˆn on, tied‰n vaan.
+
+    (Green tulee.)
+
+GREEN.
+Jumalan rauha kuningattarelle! --
+Huomenta, herrat! -- Kuningas, ma toivon,
+Matkalla viel' ei lie.
+
+KUNINGATAR.
+                       Miks sit‰ toivot?
+Pikemmin toivo, ett‰ matkall' oisi:
+Hankkeensa vaatii kiirett‰ ja kiire
+Taas toivoa; miks toivot siis, ett' ei h‰n
+Matkalla oisi?
+
+GREEN.
+               Siks, ett‰ h‰n, maan toivo,
+Palauttaisi joukkonsa ja saisi
+Toivottomuudeks vihamiehen toivon,
+Joll' on jo luja jalansija maassa.
+Bolingbroke purki itse maanpakonsa
+Ja ehe‰n‰ saapui Ravenspurgiin,
+K‰dess‰ miekka.
+
+KUNINGATAR.
+                Herra varjelkoon!
+
+GREEN.
+Se liian totta on. Pahempaa viel‰:
+Northumberland ja nuori Henrik Percy,
+Ross, Beaumont, Willoughby on h‰nen luokseen
+Paenneet mahtavine puolueineen.
+
+BUSHY.
+Miks ette julistaneet pettureiksi
+Northumberlandia ja koko laumaa?
+
+GREEN.
+Sen teimme: mutta kreivi Worcester silloin
+Sauvansa taittoi, marsalkkuuden heitti,[13]
+Ja koko hovikunta h‰nen kanssaan
+Pakeni Bolingbroken luo.
+
+KUNINGATAR.
+                         N‰in, Green,
+Mun tuskani sa olet k‰tilˆin,
+Ja Bolingbroke kipuni kurja poika.
+Nyt sielu ep‰luomansa on luonut,
+Ja min‰, haukkovainen lapsivaimo,
+Surua suruun lis‰‰n, tuskaa tuskaan.
+
+BUSHY.
+Ei toivoa saa heitt‰‰.
+
+KUNINGATAR.
+                       Ken sen est‰‰?
+Ma toivon heit‰n, vihaa sille kannan:
+Se petturi on, imartaja, norkko
+Ja kuolon pid‰tt‰j‰, t‰‰ kun tahtoo
+El‰m‰n siteet hell‰st' irroittaa,
+Jonk' ‰‰rettˆmiin lykk‰‰ v‰‰r‰ toivo.
+
+    (York tulee.)
+
+GREEN.
+Kas, t‰ss‰ tulee Yorkin herttua!
+
+KUNINGATAR.
+Ij‰kk‰‰n hartioilla sodan merkit.
+Oi, katse t‰ynn‰ huolekasta tointa!
+Jumalan t‰hden, set‰, lohdun sana!
+
+YORK.
+Niin toista puhuisin, kuin ajattelen.
+Taivaassa lohtu on, me p‰‰ll‰ maan.
+Miss' on vain tuskaa, huolta, k‰rsimist‰.
+Miehenne kauas pelastajaks l‰ksi,
+Sill' aikaa toiset kodin tuhoo h‰lt‰:
+Ja min‰ pantu maata auttamaan,
+Jok' olen heikko tueks itselleni.
+Nyt seuraa juomingeita huono vointi;
+Nyt tutaan liehakoivat yst‰v‰t.
+
+    (Palvelija tulee.)
+
+PALVELIJA.
+Poiss' oli, herra, poikanne, kun saavuin.
+
+YORK.
+Vai poissa! -- Hyv‰! -- K‰ykˆˆn kuinka k‰y! --
+Paennut aateli on, kansa kylm‰‰,
+Se yhtyy Herefordiin, ma pelk‰‰n. -- Poika,
+K‰y Plashyyn, Gloster-sisareni luo!
+H‰lt' oiti mulle hanki sata puntaa.
+Tuoss' ota sormus tuo!
+
+PALVELIJA.
+Unohdin haastaa teid‰n armollenne,
+Ett' olin t‰n‰‰n siell‰ ohimennen;
+Mut rikon mielenne, jos lis‰‰ kerron.
+
+YORK.
+Mit' on se? Sano, poika.
+
+PALVELIJA.
+                         Tiimaa ennen
+Kuin sinne saavuin, herttuatar kuoli.
+
+YORK.
+Jumal' armahtakoon! Mik‰ tuskain tulva
+Yht'aikaa syˆksee t‰h‰n tuskain maahan!
+En neuvoa nyt tied‰. -- Suokoon taivas,
+Ett' oisi -- omasta ei syyst‰ toki --
+P‰‰ multa viety milloin veljelt‰ni. --
+Kuin? Viestit viel' ei matkall' Irlantiin? --
+Mitenk‰ saada rahaa t‰h‰n sotaan?
+Tule; sisko, -- anteeks: k‰ly, tarkoitin. --
+    (Palvelijalle.)
+Mies, kotiin kiiruhda ja hanki vaunut,
+Tuo, mit' on siell‰ aseita. --
+    (Palvelija menee.)
+                               Te, herrat
+Pit‰k‰‰ sotav‰en katselmus! --
+Jos tied‰n, miten j‰rjest‰‰ n‰‰ toimet,
+K‰siini sotkuisina viskatut,
+Niin ‰lk‰‰ uskoko mua en‰‰ koskaan. --
+Molemmat ovat sukuani: toinen
+Kuningas, jota velvoitus ja vala
+Mun k‰skee varjella, ja toinen lanko,
+Kuninkaan loukkaama, jot' omatunto
+Ja heimous k‰skee minun puolustaa.
+Jotakin t‰ytyy tehd‰. -- Tulkaa, k‰ly,
+Ma teist‰ pid‰n huolen. -- Katselmukseen
+Nyt menk‰‰, herrat; sielt‰ Berkley-linnaan
+Heti tulkaa. -- Plashyynkin mun pit‰is menn‰,
+Mut aika sit' ei salli. -- Kaikk' on nurin,
+Ja koko maailma on hullun kurin.
+
+    (York ja kuningatar menev‰t.)
+
+BUSHY.
+Irlantiin myˆt‰tuuli viestit vie,
+Mut mit‰‰n sielt' ei tuo se. Koota voima,
+Jok' oisi vihollisen vertainen,
+On meid‰n mahdotonta.
+
+GREEN.
+                      Sit‰ paitse
+Kuninkaan lemmen likeiset myˆs liki
+On niiden vihaa, jotk' ei h‰nt‰ lemmi.
+
+BAGOT.
+Niin, h‰‰lyv‰isen kansan, jonka lempi
+On kukkaro; min verran se on vajaa,
+Sen verran syd‰n t‰ys on verivihaa.
+
+BUSHY.
+Siit' yleisesti syyn saa kuningas.
+
+BAGOT.
+Jos tuomio heid‰n on, syyn saamme mekin,
+Kuninkaan alituiset seuralaiset.
+
+GREEN.
+Pakoni otan Bristol-linnaan min‰,
+Ja heti; kreivi Wiltshire on jo siell‰.
+
+BUSHY.
+Mukaanne tulen min‰: v‰h‰n hyv‰‰
+Voi vihaiselta kansalt' odottaa:
+Vain meit‰ raatelevat niinkuin koirat. --
+Tulette mukaan kai?
+
+BAGOT.
+                    En, Hyv‰sti!
+Kuninkaan luokse menen Irlantiin.
+Jos oikein aavistan, niin viimeiset
+Me t‰ss‰ sanomme j‰‰hyv‰iset.
+
+BUSHY.
+Kenties, jos York saa Herefordista voiton.
+
+GREEN.
+Oi, raukkaa herttuaa! H‰n tyˆkseen ottaa
+Lukea hiekat, meren tyhjent‰‰;
+Tuhannet luopuu pois, jos yksi j‰‰.
+
+BUSHY.
+Hyv‰sti ij‰ksi ja kerrassaan!
+
+GREEN.
+Me viel‰ tavataan.
+
+BAGOT.
+                   Ei p‰‰ll‰ maan.
+
+                        (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Salomaa Glostershiressa.
+
+    (Bolingbroke ja Northumberland tulevat sotajoukkoineen.)
+
+BOLINGBROKE.
+Kuin pitk‰ t‰st' on matka Berkley'iin, loordi?
+
+NORTHUMBERLAND.
+Mua, hyv‰ herra, uskokaa,
+T‰‰ll' olen Glostershiress' aivan outo.
+Koluiset tiet ja suuret, jylh‰t vuoret
+Ik‰v‰ks venytt‰v‰t peninkulman,
+Vaikk' armas haastelunne sokeroitsi
+Ja makeutti muikeankin matkan.
+Mut arvaan, kuinka Willoughbyn ja Rossin
+On kulku pitk‰ Ravenspurgista
+Cotswaldiin asti teid‰n seuraa vailla,
+Jok' on, sen takaan, paljon huventanut
+Minulta matkan vastukset ja vaivat;
+Mut n‰iden matkaa sulostuttaa toivo
+Etuisuus saavuttaa, jok' on jo mulla,
+Ja ilon toivo ei sen v‰hemp' ilo
+Kuin saavutettu toivo; t‰m‰ heilt‰
+Lyhent‰‰ matkan, niinkuin mulle tehnyt
+On ilo saada seurassanne olla.
+
+BOLINGBROKE.
+V‰hemm‰n arvoinen on seurani
+Kuin teid‰n hyv‰t sananne. Ken tuossa?
+
+    (Henrik Percy tulee.)
+
+NORTHUMBERLAND.
+Poikani, Henrik Percy: veli Worcester
+On h‰net l‰hett‰nyt, tiesi mist‰. --
+No, Henrik, kuinka set‰si on laita?
+
+PERCY.
+Ma sit‰ toivoin kuulla teilt‰, is‰.
+
+NORTHUMBERLAND.
+Kuningattaren luona siis ei en‰‰?
+
+PERCY.
+Ei, is‰, virkasauvansa h‰n taittoi
+Ja l‰ksi hovista ja hajoitti
+Kuninkaan huonekunnan.
+
+NORTHUMBERLAND.
+                       Mist‰ syyst‰?
+Ei silt‰ kuulunut, kun viimein n‰htiin.
+
+PERCY.
+Siks ett‰ teid‰t tehtiin petturiksi.
+H‰n meni Ravenspurgiin tarjomaan
+Herefordin herttualle palvelustaan,
+Ja l‰hetti mun Berkley'iin tiedustamaan,
+Kuin suuren joukon siell‰ York on koonnut,
+Ja siit‰ viem‰‰n tiedon Ravenspurgiin.
+
+NORTHUMBERLAND.
+Herefordin herttuan unhotitko, poika?
+
+PERCY.
+En, is‰ hyv‰; sit' en unhottanut,
+Mist' ik‰n‰ en tiennyt: tiet‰‰kseni
+En ole el‰iss‰ni h‰nt‰ n‰hnyt.
+
+NORTHUMBERLAND.
+Nyt tuntemaan h‰nt' opi; t‰ss' on herttua.
+
+PERCY.
+Arvoisa herra, apuani tarjoon:
+Se viel' on nuori, uusi, avuton,
+Mut auttavammaksi ja taatummaksi
+Sen ik‰ kypsent‰‰ ja vakaannuttaa.
+
+BOLINGBROKE.
+Sua kiit‰n, jalo Percy; usko pois,
+En mist‰‰n tunne onnea niin suurta
+Kuin siit‰ ett‰ yst‰v‰ni muistan;
+Ja onneni jos lempes kanssa kypsyy,
+Niin on se palkitseva hartaan lempes;
+Sen liiton syd‰n solmii, k‰si kiint‰‰.
+
+NORTHUMBERLAND.
+Kuink' et‰‰ll‰ se Berkley on, ja mit‰
+York-vanhus siell‰ joukkoineen nyt puuhaa?
+
+PERCY.
+Puuryhm‰n keskell‰ on siell‰ linna,
+Ja linnueena kolmetuhat miest‰.
+Sis‰ll‰ siell‰ York on, Berkley, Seymour,
+Ei muuta s‰‰ty- eik‰ arvomiest‰.
+
+    (Ross ja Willoughby tulevat.)
+
+NORTHUMBERLAND.
+Kas tuossa loordit Ross ja Willoughby,
+Veriss‰ kannus, kiireen hehkoss' otsa.
+
+BOLINGBROKE.
+Terveeksi, loordit! Lempenne, ma huomaan,
+Maanpakolaista petturia seuraa.
+Mun aarteeni se viel‰ n‰kym‰tˆn
+On kiitos vain, mut kun se rikastuu,
+Niin lempenne ja vaivanne se korvaa.
+
+ROSS.
+N‰kˆnne, herra, meid‰t rikastuttaa.
+
+WILLOUGHBY.
+Ja ylenkyllin korvaa kaikki vaivat.
+
+BOLINGBROKE.
+Ainainen kiitos, se on kˆyh‰n maksa;
+Se velastani vastaa, kunnes kypsyy
+Mun nuori onneni. Ken tulee tuossa?
+
+    (Berkley tulee.)
+
+NORTHUMBERLAND.
+Lord Berkley on se, arvatakseni.
+
+BERKLEY.
+Lord Hereford, l‰hetykseni on teille.
+
+BOLINGBROKE.
+Sanokaa silloin: Lancasterille;
+T‰t' etsin nime‰ nyt Englannissa,
+Ja kielelt‰nne mun se lˆyt‰‰ t‰ytyy,
+Ennenkuin mit‰‰n puheeseenne vastaan.
+
+BERKLEY.
+Te erehdytte; mull' ei aikomusta
+Sanaakaan arvonimist‰nne poistaa.
+Mun teille -- mik‰ lienettek‰‰n loordi --
+L‰hetti t‰‰n maan kuulu hallitsija,
+York herttua, kysym‰‰n, miks sijaisuutta
+K‰yt‰tte hyv‰ksenne, nurjin asein
+Kotoisen rauhan meilt‰ s‰ikytt‰in.
+
+    (York tulee seurueineen.)
+
+BOLINGBROKE.
+Sanani viej‰ksi ei teit‰ tarvis;
+Tuoss' itse tulee herttua. -- Jalo set‰!
+
+    (Polvistuu.)
+
+YORK.
+Syd‰mmen n‰yt‰ nˆyryytt', ‰l‰ polven,
+Jonk' alamaisuus viekastaa ja pett‰‰.
+
+BOLINGBROKE.
+Oi, armollinen set‰!
+
+YORK.
+                     Vaiti, vaiti?
+Sen sinnekin nuo sed‰t ja nuo armot!
+En set‰ ole petturin; ja armo
+On armottoman suussa h‰v‰istyst‰.
+Miks uskaltaa maanpakolainen jalkas
+Koskettaa synnyinmaasi tomuakaan?
+Ja viel‰kin: miks rauhan poveaan
+Penikulmittaisin polkea sa tohdit,
+Ja inhain aseittesi komeudella
+Peloittaa kalvaat kyl‰t? Sikskˆ ett‰
+Sun voideltu on kuninkaasi poissa?
+Ei, poika hupsu! Kuningas on t‰‰ll‰,
+Vakaassa t‰ss‰ povess' on sen valta.
+Jos viel' ois mulla sama nuoren into,
+Kuin milloin is‰s, uljas Gaunt, ja min‰
+Mars-jumalan, mustan prinssin, pelastimme
+Tuhanten ranskalaisten saarroksesta.
+Oi, kuinka sukkelaan t‰‰ k‰si, jonka
+Nyt halpaus kahlitsee, sua kurittaisi
+Ja antais virhist‰si vitsaa sulle!
+
+BOLINGBROKE.
+Vikani, hyv‰ set‰, ilmaiskaa,
+Se mik‰ on ja mit‰ laatua!
+
+YORK.
+Se kaikkein pahinta on laatua?
+Petosta inhaa, kurjaa kapinaa.
+Maanpakolaisena sa tulet t‰nne,
+Ennenkuin lopussa on m‰‰r‰aika,
+Ja asevoimin valtaherraas uhkaat.
+
+BOLINGBROKE.
+Kun menin maasta, menin Herefordina,
+Kun tulen nyt, Lancasterina tulen.
+Suvaitkaa, jalo set‰, rikostani
+Katsella silmin puoltamattomin.
+Is‰ni olette: minusta n‰ytt‰‰
+Gaunt vanhus teiss‰ el‰v‰n; siis, is‰,
+N‰in sallitteko minut tuomittavan
+Maankulkuriksi, maat ja oikeudet
+K‰sist‰ viet‰v‰n ja annettavan
+Hupaille nousukkaille? Miksi synnyin?
+Jos lanko Englannin on kuningas,
+Ma Lancasterin herttuaksi tahdon.
+On teill‰ poika, serkkuni Aumerle;
+Te ensinn‰ jos olisitte kuollut,
+Ja h‰nt‰ n‰in ois poljettu, niin is‰n
+Gaunt-sed‰st‰‰n h‰n saanut ois, jok' oisi
+V‰‰ryydet henkiheittoon ajanut.[14]
+Hakea en saa l‰‰nityksi‰ni,
+Jonk' armokirjat mulle myˆnt‰v‰t.
+Is‰ni maat ne ryˆstet‰‰n ja myyd‰‰n,
+Ja n‰‰ ja kaikki turhiin k‰ytet‰‰n.
+Mit' oisi tehd‰? Alamainen olen,
+Vetoan lakiin: valtamiest' ei suoda,
+Siks itseni mun t‰ytyy vaatia
+Omani, synnynn‰inen perintˆni.
+
+NORTHUMBERLAND.
+Liiaksi herttuaa on nujerrettu.
+
+ROSS.
+H‰nt' oikeuteensa tulee teid‰n auttaa.
+
+WILLOUGHBY.
+Katalat hyˆtyneet on h‰nen maistaan.
+
+YORK.
+Englannin loordit, suvaitkaahan kuulla:
+Nuo langon solvaukset hyvin tunsin,
+Ja koin, min voin, h‰nt' auttaa oikeuteensa.
+Mut tulla t‰nne noin ja uhka-asein
+Eteens‰ ottaa, kaikki tielt‰‰n kaataa,
+V‰‰ryydell' oikeus saada, -- se ei k‰y!
+Ja te, jotk' yllytitte, kapinaa
+N‰in suositte ja itse kapinoitte.
+
+NORTHUMBERLAND.
+Mut herttuahan vannoi, ett‰ etsi
+Vain omaansa; ja h‰nt‰ auttaaksemme
+Me kalliin valan kaikki vannoimme.
+Ken rikkoo sen, ei n‰e ilon p‰iv‰‰.
+
+YORK.
+Hyv‰! Ma n‰en, mit' asehenne t‰ht‰‰,
+Mut, sit' en muuttaa voi, sen tunnustan:
+On heikko voimani, ja kaikki nurin.
+Mut jos vain voisin, kautta sen, ken loi mun,
+Ma teid‰t tempaisin ja taivuttaisin
+Kuninkaan ehdottoman tahdon alle.
+Mut kun en voi, niin teille ilmoitan,
+Ett' olen puolueeton. Hyv‰sti;
+Jos ette kenties tahdo tulla linnaan
+Ja siell‰ t‰t‰ yˆt‰ lev‰ht‰‰.
+
+BOLINGBROKE.
+Sen tarjon, set‰, vastaan otamme.
+Mut meid‰n t‰ytyy teid‰t Bristol-linnaan
+Mukaamme saada; sit‰ hallussaan
+Bagot ja Bushy pit‰‰ joukkoinensa,
+Nuo yhteiskunnan toukat, jotka vannoin
+Perata pois ja maasta h‰vitt‰‰.
+
+YORK.
+Kentiesi tulen; kunhan tuumataan:
+Maan lakia en loukkaa. Terve vaan,
+Ei vihamiehin‰, ei yst‰vin‰!
+Mit' ei voi auttaa, sit' en sure min‰.
+
+                            (Menev‰t.)
+
+
+
+
+KOLMAS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Leiri Walesissa.
+
+    (Salisbury ja muudan sotap‰‰llikkˆ tulevat.)
+
+PƒƒLLIKK÷.
+Jo kymmenen on p‰iv‰‰ odotettu
+Ja vaivoin joukot koossa pidetty,
+Ja viel' ei mit‰‰n kuninkaasta kuulu;
+Siis hajotkaamme kaikki. Hyv‰sti!
+
+SALISBURY.
+Viel' yksi p‰iv‰, kunnon walesilainen!
+Kuningas kokonansa sinuun luottaa.
+
+PƒƒLLIKK÷.
+Luulevat h‰nen kuolleen; emme j‰‰.
+Kaikk' kuihtuneet on maassa laakerpuut,
+Ja ilmaraanat t‰hti‰kin uhkaa,
+Verisn‰ maahan katsoo kalvas kuu,
+Tuhoa kuiskaa k‰lpeet ennustajat,
+Kamaltuu rikkaat, rosvot tanssii, telmii,
+Nuo peloissaan, ett' ilonsa he hukkaa,
+N‰‰ sodasta ja ryˆstˆst' iloissaan.
+Kuningasten surmaa taikka kukistusta
+T‰‰ tiet‰‰. -- Hyv‰sti! Kaikk' karkaavat,
+Kuninkaan kuolleeksi kun luulevat.
+
+                          (Menee.)
+
+SALISBURY.
+Ah, Richard! Raskaan mielen silmill‰
+N‰en kunniasi, t‰hden lennon lailla,
+Putoovan taivaalt' alhaisehen maahan,
+Sun p‰iv‰s l‰nteen laskee itkustellen,
+Tuhoista myrskyilmaa ennustellen.
+Vihollisleiriin yst‰v‰si k‰‰ntyy.
+Ja itse onni sulle nurjaks v‰‰ntyy.
+
+                           (Menee.)
+
+
+Toinen kohtaus.
+
+    Bolingbroken leiri Bristolissa.
+
+    (Bolingbroke, York, Northumberland, Percy, Willoughby,
+    Ross; per‰ll‰ Bushy ja Green vankeina.)
+
+BOLINGBROKE.
+Nuo miehet esiin tuokaa! -- Green ja Bushy,
+En tahdo sielujanne kiduttaa --
+Kosk' ovat ruumiist' eri‰v‰t kohta --
+Paheksimalla kurjaa el‰m‰‰nne:
+Se armotonta ois; mut k‰sist‰ni
+Verenne pest‰kseni, tahdon t‰ss‰
+Selitt‰‰ julki kuolemanne syyt.
+Kuninkaan, jalon prinssin, eksytitte;
+Suvulta, muodolt' onnellisen miehen
+Te onnettomaks teitte, rumensitte;
+Te syntihetkin‰nne rikoitte
+H‰nen ja h‰nen puolisonsa v‰lin;
+Kuninkaanvuoteen rauhan h‰iritsitte;
+Kuningattaren armaan suloposket
+Te sokaisitte kyyneleill‰, joita
+Pakotti ilmi oma ilkityˆnne.
+Ma itse, sukuoikeudelta prinssi,
+Kuninkaan yst‰v‰ ja heimolainen, --
+Siks kunnes saitte minut ep‰ilt‰v‰ks, --
+Kumarsin sorrollenne niskani,
+Vieraisiin pilviin huokaukseni huo'uin,
+Maanpaon leip‰‰ syˆden katkeraa,
+Te alusmaillani kun m‰ss‰sitte,
+Puritte puistot, mets‰t kaasitte,
+Revitte vaakunani ikkunoista
+Ja mielilauseeni, -- ei mit‰‰n j‰‰nyt,
+Pait l‰mmin vereni ja maineheni,
+Mailmalle aateluuttan' osoittamaan.
+N‰‰ syyt ja enemm‰n, niin enemm‰nkin,
+Kuin n‰m‰ kaksittuina, kuoloon teid‰t
+On tuominneet. -- Te, herrat, teloitukseen
+Ja surman kouriin toimittakaa heid‰t.
+
+BUSHY.
+Minulle tervetulleemp' isku surman
+Kuin Englannille Bolingbroke. -- Hyv‰sti!
+
+GREEN.
+Vie taivas sielumme, se mulla lohtu,
+Mut v‰‰ryys piinaan joutuu helvettiin.
+
+BOLINGBROKE.
+Nyt toimeen tuomio, Northumberland!
+    (Northumberland y.m. poistuvat, Bushy ja Green mukanaan.)
+Kuningatar siis luonanne on, set‰?
+Pidelk‰‰, Herran t‰hden, hyvin h‰nt‰.
+L‰het‰n h‰lle nˆyr‰t terveiset,
+Te perille ne viek‰‰ huolekkaasti.
+
+YORK.
+T‰‰lt' ylimyksen laitoin viem‰‰n kirjeen,
+Joss' yst‰vyytenne ma tarkkaan kerroin.
+
+BOLINGBROKE.
+Suur' kiitos, jalo set‰! -- Taistoon nyt
+Glendoweria ja kumppaneitaan vastaan!
+Hetkeksi tyˆhˆn, sitten juhlanpitoon!
+
+                           (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Walesin rannikko. Et‰‰ll‰ linna.
+
+    (Torventoitauksia ja sotasoittoa. Kuningas Richard,
+    Carlislen piispa, Aumerle ja sotamiehi‰ tulee.)
+
+KUNINGAS RICHARD.
+Barkloughly-linnako se tuo on, niinkˆ?
+
+AUMERLE.
+Niin, herra. Milt‰ teist‰ tuntuu ilma,
+Kun meren hyˆkylaineet ovat ohi?
+
+KUNINGAS RICHARD.
+Hyv‰lt‰ tieten: itken ilosta,
+Kun valtakunnassani taaskin seison. --
+Maa kallis, k‰si t‰‰ sua terveht‰‰,
+Kun kapinoivat ratsun kavioilla
+Sua haavoittaa! Kuin ‰iti, joka lastaan
+Taas pitk‰st' aikaa kohtaa, sit‰ itkein
+Ja hymyellen hyv‰ilee, niin min‰i
+Hymykyynelin sua, maani, tervehd‰n
+Ja valtak‰sin hivelen. Maa armas,
+Kuninkaas vihamiest‰ ‰l‰ ruoki,
+Sen rosmomielt' ‰l‰ maireell' ilahuta,
+Vaan lukit, jotka myrkyn sinust' imee,[15]
+Ja hitaat sammakot sen laita tielle
+Haitaksi kavaltaja-jalalle,
+Jok' askelin sua polkee v‰kin‰isin.
+Vihollistani polta nokkosilla,
+Ja jos h‰n poveltasi kukkaa tapaa,
+Sen pane vartijaksi luihu kyy,
+Min kaksoiskielen kuolettava pisto
+Kuninkaas vihamiehiin surman syˆksee. --
+Manaust' ‰lk‰‰ tyhj‰ks ilkkuko:
+On t‰ll‰ maalla tunto, ja nuo kivet
+Sotureiks ennen asestuu, kuin kaatuu
+Kapinan miekkaan syntyvaltias.
+
+PIISPA.
+Rohkeutta, vain! Se valta, joka teid‰t
+Kuninkaaks loi, myˆs kuningasta suojaa.
+Apua taivaan tulee meid‰n k‰ytt‰‰,
+Ei hylki‰; jos, n‰et, taivas tahtoo,
+Mut emme me, niin silloin taivaan tarjon
+Ja avun hylk‰‰mme ja pelastuksen.
+
+AUMERLE.
+H‰n tarkoittaa, ett' ollaan liian veltot:
+T‰‰ huolettomuus Bolingbrokelle
+Vain hankkii apua ja yst‰vi‰.
+
+KUNINGAS RICHARD.
+Sa, lohtumaton lanko! Etkˆ tied‰:
+Kun taivaan urkkivainen silm‰ piilee
+Maapallon taa, valaisten alamailmaa,
+Niin varkaat, rosvot t‰‰ll‰ n‰kym‰tt‰
+Ryˆstˆn ja murhan verhoissa liikkuu;
+Mut kun se t‰m‰n maisen k‰yr‰n takaa
+Tulestaa id‰n honkain ylv‰‰t latvat
+Ja s‰teen heitt‰‰ rikoksien pesiin,
+Niin murha, petos, inha synti siin‰
+Alasti seisoo, kammoks itsellens‰,
+Yˆn verho harteilta kun riuhtaistaan.
+Niin Bolingbroke, tuo petturi ja varas, --
+Jok' yˆss‰ m‰ss‰nnyt on kaiken aikaa,
+Kun antipoodeissa me oleksimme, --
+Kun n‰kee meid‰n id‰n istuimelle
+Nyt nousevan, niin otsallansa petos
+Punastuu eik‰ p‰iv‰n silm‰‰ kest‰,
+Vaan itsekammost' ilkitˆit‰‰n s‰ikkyy.
+Ei kaikki ‰rjyn meren vedet voi
+Voidetta pest‰ voidellusta p‰‰st‰;
+Ei kuolevaisen henk‰ys luovuttaa
+Jumalan valikoimaa edusmiest‰;
+Jokaista kohti, joka kultakruunuun
+K‰skyst‰ Bolingbroken miekoin koskee,
+On taivaan Jumalalla palkoissansa
+Richardin suojaks kirkas enkeli;
+Eik' enkeleille kest‰ lapset maan:
+Oikeutta taivas turvaa ainiaan.
+    (Salisbury tulee.)
+Terveeksi! L‰hell‰kˆ joukkonne?
+
+SALISBURY.
+Ei l‰hell‰, ei myˆsk‰‰n kauempana
+Kuin heikko k‰si t‰‰. Kielt' ohjaa harmi
+Ja ep‰toivost' yksin haastaa k‰skee.
+Yks p‰iv‰ liian myˆh‰, varon min‰,
+Pimitti kaikki maisen onnes p‰iv‰t.
+Palauta eilisp‰iv‰, k‰‰nn‰ aika,
+Ja kaksitoistatuhat sull' on miest‰!
+Tuo liian myˆh‰ p‰iv‰, p‰iv‰ hallan,
+Vei yst‰v‰s ja ilon, onnen, vallan.
+Kun walesilaiset kuuli sinun kuolleen,
+Het' yhtyiv‰t he Bolingbroken puoleen.
+
+AUMERLE.
+Huoletta, valtias! Miks noin kalpenette?
+
+KUNINGAS RICHARD.
+Kakskymmentuhantisen joukon veri
+Heloitti poskillain; nyt on se pois.
+Ja kunnes poski taas sen veren perii,
+Mull' eikˆ syyt‰ kalvistua ois?
+Ken tahtoo pelastua, pakoon nyt!
+Mun loistoni on aika ryˆtt‰nyt.
+
+AUMERLE.
+Rohkeutta! Muistakaa, ken olette.
+
+KUNINGAS RICHARD.
+Niin, unohduin: kuningas enkˆ ole?
+Her‰‰, s‰ hidas majesteetti! Nukut.
+Kuninkaan nimi hyvin satatuhat
+On nime‰. Ylˆs, ylˆs, nimeni!
+Sun kirkkauttas halpa alamainen
+Tavoittelee. -- Kuninkaan suosikit,
+Ylˆs katse maasta! Korkeit' olemme;
+Siis korkeit' aatelkaamme! Kyllin vahva
+York-set‰ meit' on auttamaan. -- Ken tuossa?
+
+    (Scroop tulee.)
+
+SCROOP.
+Enemm‰n kuninkaalle onnea.
+Kuin mit‰ tuo t‰‰ surunvoipa kieli?
+
+KUNINGAS RICHARD.
+Avoin on korvani ja syd‰n valmis;
+Sanasi pahin maallinen on kato.
+Vied‰‰nkˆ valtani? Se toi vain huolta,
+Ja katoako huolist' olla vapaa?
+Bolingbroke yht‰ suureks yritt‰‰kˆ
+Kuin mekin? Suuremmaks ei voi h‰n tulla.
+Jos Jumalaa h‰n palvelee, niin samoin
+Teen min‰kin, ja siin‰ ollaan yht‰.
+Kapinass' onko maa? Sit' en voi auttaa;
+Se rikkoo Jumalaa ja meit‰ vastaan.
+Kirousta huuda, hukkaa, h‰vityst‰!
+Pahint' on kuolo, mutta t‰yttymyst‰.
+
+SCROOP.
+N‰en ilolla, ett' olette niin valmis
+Tuhonne sanomia kuulemaan,
+Kuin myrskyp‰iv‰ ajaton, jok' ajaa
+Hopeavirrat term‰ns' upottamaan,
+Ik‰‰nkuin mailma liukeis kyyneliksi,
+Niin rajains' yli Bolingbroken raivo
+Myˆs paisuu, peitt‰in pelj‰styneen maanne
+Kovalla raudalla ja syd‰mmill‰
+Rautaakin kovemmilla. Halliparta
+Kiireens‰ kaljun kuninkuuttas vastaan
+Kyp‰riin pukee; poika tyttˆ‰‰nt‰‰n
+Karaisee, hennot j‰senens‰ puuttain
+Ter‰kseen j‰ykk‰‰n kruunuasi vastaan;
+Papitkin kuolettavast' elfenpuusta
+Viritt‰‰ jousta valtakuntaas vastaan;
+Naiskehr‰‰j‰kin ruosteist' iskee peist‰
+Valtikkaas vastaan; kaikki kapinoi,
+Pahemmin k‰y kuin kertoakaan voi.
+
+KUNINGAS RICHARD.
+Noin pahaa kerrot liian, liian hyvin.
+Mut miss' on kreivi Wiltshire? Miss‰ Bagot?
+Ja kuink' on Bushyn laita? Miss‰ Green?
+-- kun verivihollisen sallivat
+Mitata h‰irim‰tt‰ rajojamme.
+Jos voitamme, niin menee heilt‰ p‰‰.
+Sopivat varmaan Bolingbroken kanssa.
+
+SCROOP.
+Niin, totta, majesteetti, sopivat.
+
+KUNINGAS RICHARD.
+Oi, konnat, k‰‰rmeet, iki-kirotut!
+Oi, koirat, jotka h‰ntii joka miest‰!
+Kyyt, jotka syd‰nverin l‰mmitetyt,
+Syd‰nt‰n' ‰imii! Kolme Juudasta,
+Kolmasti kukin h‰ijympi kuin Juudas!
+Vai rauhan? Siit‰ horna sotaa k‰ykˆˆn
+Riettaita heid‰n sielujansa vastaan!
+
+SCROOP.
+Kun lempi armas vaihtaa luonnett',
+Vihaksi verisimm‰ksi se muuttuu.
+Kirous peruuttakaa; rauhan solmi
+P‰‰, eik‰ k‰si; kiroomanne nuo jo
+Tuiminta kalman turmaa kokivat:
+Maan alla kuopattuina makaavat.
+
+AUMERLE.
+Siis kuolleet Bushy, Green ja kreivi Wiltshire?
+
+SCROOP.
+Niin, kaikki Bristolissa mestatut.
+
+AUMERLE.
+Miss' is‰ herttua on joukkoineen?
+
+KUNINGAS RICHARD.
+V‰h‰t siit‰; lohdusta ei sanaakaan!
+Vain haudat, madot, ristit juttunamme!
+Paperiks tomua, ja kyynelsilm‰
+Maan povelle nyt surun piirt‰kˆˆn!
+Mut puhutaanpa testamentista,
+Valitaan toimimiehet: -- ei, ei toki! --
+Mit' oisi meill‰ testamentattavaa,
+Pait virkaheitto ruumis maaemolle?
+Henkemme; maamme, kaikk' on Bolingbroken;
+Ei muuta meill‰ omaa, kuin vain kuolo
+Ja t‰m‰ pieni muru kuivaa maata,
+Jok' on vain multak‰‰re luillemme.
+Mut, Herran t‰hden, istukaamme maahan
+Hokemaan kuningasten kuolemasta
+Satuja surkeita: ken hukkui sotaan,
+Ken syˆstiin vallastansa, ket‰ syˆstyn
+Vainoili haamu, kuka myrkkyjuoman
+Sai vaimoltaan, ken unessa sai surman, --
+Tapetut kaikki; sill‰ kruunussa
+Tuoss' ontelossa, joka kuolevaisen
+Kuninkaan otsaa kiert‰‰, kuolemalla
+On hovinsa; se koirus siin‰ istuu,
+Kuninkaan valtaa nauraa, komeutt' ilkkuu;
+Henk‰yksen ajan h‰nen valtiasta
+Suo n‰ytell‰, pelottaa, katsein tappaa;
+Her‰tt‰‰ turhan h‰ness' itseluulon,
+Ett' on tuo liha, hengen saartovalli,
+Lujinta vaskea; n‰in kujeiltuaan,
+Se vihdoin tulee, neulasella murtaa
+Tuon linnan ja -- hyv‰sti, kuningas!
+P‰‰t peittoon! Juhlamenoin ivaatteko
+Lihaa ja verta? Pois, pois kunnioitus,
+Tavat ja muodot, arvon osoitukset!
+Minusta kaiken aikaa erehdyitte;
+Kuin tekin, leiv‰st' el‰n, puutteen tied‰n,
+Surua tunnen, yst‰vi‰ kaipaan.
+Noin alamaistuneina, kuinka voitte
+Mua pit‰‰ kuninkaana?
+
+PIISPA.
+                      Viisas, tietk‰‰,
+Tuhosta kohdanneest' ei huoliin vaivu,
+Vaan huolell' est‰‰ tuhon kohtaamasta.
+Vihollispelko, joka voiman lamaa,
+Nulona lis‰‰ vihollisen voimaa,
+Ja oma tyhmyys k‰‰ntyy teit‰ vastaan.
+Tuhoks on pelko; pahempaa ei taisto:
+Ken taistoon kuolee, kuolon kuolettaa,
+Mut kuolon pelko kuoloon orjuuttaa.
+
+AUMERLE.
+Is‰ni voima k‰skek‰‰tte tuoda,
+J‰senest' yritt‰k‰‰ ruumis luoda.
+
+KUNINGAS RICHARD.
+Se moite sattui. -- Bolingbroke, ma viel‰
+Sun kanssas iskun vaihdan elon tiell‰.
+Nuo pelon kuumeenv‰reet tuuli vie.
+Omansa j‰lleen voittaa helppo lie. --
+Scroop, miss‰ set‰ joukkoineen nyt on?
+Puhu iloks, vaikk' on katsees iloton.
+
+SCROOP.
+Tavataan taivaan v‰rist' ennustaa,
+Millaiset nousevan on p‰iv‰n tavat;
+Niin synkk‰ katseenikin ilmoittaa.
+Ett' yh‰ synk‰t mull' on kerrottavat.
+Osoitan mestaajaa, kun viime hetkeen
+Pahimman sanottavani ma s‰‰st‰n:
+Set‰nne yhtynyt on Bolingbrokeen;
+Pohjoiset linnat antauneet on kaikki;
+Etel‰ss' aateli on varusteissa
+Ja h‰nen puoltaan.
+
+KUNINGAS RICHARD.
+                   Kylliks olen kuullut.
+Kirottu lanko, joka pois mun johdit
+Tuolt' ep‰toivon ihanalta tielt‰!
+Mit‰ nyt sanot! Mik‰ nyt j‰‰ lohduks?
+Sit' ij‰ti ma vihaan, jumal'auta,
+Ken viel‰ mulle lohdutusta tarjoo.
+Flint-linnaan surut hautaan; murheen valta
+Se valtaveron vaatii valtialta.
+V‰keni menkˆˆn, kotiin rient‰kˆˆn!
+Ken viljaa toivoo, maata kynt‰kˆˆn!
+Minull' ei mit‰‰n. -- Turha soittaa suuta;
+Ei mitk‰‰n neuvot p‰‰tˆst‰ni muuta.
+
+AUMERLE.
+Sananen vain!
+
+KUNINGAS RICHARD.
+              Se kahdesti mun sokaa,
+Ken minuun viel‰ syyt‰‰ maireen lokaa.
+Erille joukot! Yˆst‰ Richardin
+Pois Bolingbroken p‰iv‰npaisteihin!
+
+                         (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Wales. Flint-linnan edustalla.
+
+    (Bolingbroke sotajoukkoineen, liehuvin lipuin ja
+    helisevin soitoin, York, Northumberland y. m. tulevat.)
+
+BOLINGBROKE.
+T‰st' urkinnasta n‰emme siis, ett' ovat
+Hajalla walesilaiset, ett‰ Salisbury
+On kuningasta vastassa, jok' ‰sken
+Harvoine yst‰vineen maalle nousi.
+
+NORTHUMBERLAND.
+Hyvi‰, ihania uutisia:
+P‰‰ Richardin l‰hell‰ t‰ss‰ piilee.
+
+YORK.
+Sanoa sopisi Northumberlandin:
+Kuningas Richardin! -- Voi tuhon p‰iv‰‰,
+Kun voidellunkin p‰‰n n‰in t‰ytyy piill‰!
+
+NORTHUMBERLAND.
+Te erehdyitte; lyhyt ollakseni,
+Typistin arvon.
+
+YORK.
+                Ennen aikaan oisi
+Typistys moinen tehnyt sen, ett' oisi
+Lyhy'in puhumin h‰n typist‰nyt
+P‰‰n teilt‰ moisen p‰‰ttˆmyyden vuoksi.
+
+BOLINGBROKE.
+Otatte hairaan enemm‰n kuin tulis.
+
+YORK.
+Te hairaan otatte, jos enemm‰n
+Te otatte kuin tulee. Taivas kostaa!
+
+BOLINGBROKE.
+Sen tied‰n; siksi tahtoansa vastaan
+En asetukaan. -- Vaan ken tulee tuossa?
+    (Percy tulee)
+Kah! Terve, Henrik! Eikˆ antau linna?
+
+PERCY.
+Kuninkaallinen siin' on varustus,
+Jok' est‰‰ p‰‰syn.
+
+BOLINGBROKE.
+                   Kuninkaallinenko?
+Ei kuningasta siell‰?
+
+PERCY.
+                      On kuin onkin,
+Kuningas siell‰ on: kuningas Richard
+Kivi- ja kalkkikeh‰ss' asuu siin‰
+Ja h‰nen kanssaan Salisbury, Aumerle
+Ja Stephan Scroop, lis‰ksi er‰s pappi,
+Arvoisa mies, en saanut tiet‰‰, kuka.
+
+NORTHUMBERLAND.
+Carlislen piispa varmaan.
+
+BOLINGBROKE (Northumberlandille).
+                          Jalo loordi,
+Tuon vanhan linnan ruottaa l‰hestyk‰‰,
+Sen rauenneeseen korvaan vaskitorvest'
+Ajakaa rauhan henk‰ys, sanoen:
+Bolingbroke k‰tt‰ Richard-kuninkaan
+Polvillaan suutelee ja valtiaalleen
+Vasalliutta tarjoaa ja nˆyr‰‰
+Uskollisuutta; h‰nen jalkoihinsa
+Ma tulin miekan laskemaan ja vallan,
+Jos maanpaon h‰n peruuttaa ja mulle
+Takaisin maani est‰m‰tt‰ antaa;
+Jos ei, niin ylivoimaani ma k‰yt‰n
+Ja kes‰n tomut kastan verivirroin,
+Joit' itkee lyˆtyin brittil‰isten haavat.
+Kuink' onkin Bolingbroken mielt‰ vastaan
+Noin purppuraiseen tulvaan upottaa
+Richardin kauniin vallan vehmas kohtu,
+Sen nˆyr‰ kunnioitukseni n‰ytt‰‰.
+Se viek‰‰ ilmoitus; me sill‰ aikaa
+T‰‰n kent‰n ruohovaipall' astelemme.
+    (Northumberland l‰hestyy linnaa, torvensoittaja mukana.)
+Pois rummun uhkap‰rin‰ nyt j‰‰kˆˆn,
+Niin ett‰ linnan torniin ruhjottuun
+ƒlytt‰is rehellinen tarjouksemme.
+Kuninkaan ja mun yhdynt‰mme varmaan
+Ois yht‰ hirmuinen kuin elementtein,
+Tulen ja veden, kun ne jyryll' yhtyy,
+Rev‰isten halki taivaan valjut posket.
+H‰n olkoon tuli, min‰ sulja vesi;
+H‰n jyr‰hdelkˆˆn, min‰ vain kun maahan
+Sateeni valan, maahan, enk‰ h‰neen. --
+Mars! Tarkatkaa, mik' ilme kuninkaalla.
+
+    (Torvi kutsuu keskusteluun, johon linnasta toinen torvi
+    vastaa. Muureille ilmestyv‰t kuningas Richard, Carlislen
+    piispa, Aumerle, Scroop ja Salisbury.)
+
+BOLINGBROKE.
+Kas, kas! Kuningas Richard tulee itse,
+Kuin p‰iv‰, joka id‰n tuliportist'
+Esiintyy, vihan puna otsallaan,
+Kun huomaa, miten kateet pilvet tahtoo
+Sen loiston himment‰‰ ja soata
+Sen heloisata tiet‰ l‰nnen maille.
+
+YORK.
+Kuninkaalt' yh‰ n‰ytt‰‰; n‰hk‰‰s, silm‰
+Kuin kotkan kirkas on, ja majesteetin
+Se voimaa salamoi. Voi surkeaa!
+Noin kauniin n‰yn tuska tummentaa!
+
+KUNINGAS RICHARD (Northumberlandille).
+Me kummastumme; seisoimme jo kauan,
+Odottain polves arkaa notkistusta,
+Kosk' olen kai lain mukaan kuninkaasi.
+Jos olen, kuinka tohtii j‰senesi
+Unohtaa maksaa mulle velkaisuuttaan?
+Ja jos en ole, n‰yt‰ Herran k‰si,
+Jok' erottaa mun hallituksestani.
+Ei k‰si, joka verta on ja luuta,
+Voi valtikkani pyh‰‰n kahvaan k‰yd‰,
+Pait varkain, h‰v‰isten tai v‰kivalloin.
+Jos luulet, ett‰ kaikki, niinkuin sin‰,
+Minusta kieroin mielin kiertyy pois,
+Ja tyhj‰ks j‰‰n ja yst‰vi‰ vaille,
+Niin tied‰: kaikkivoipa taivaan Herra
+Pilviss‰ katsoo ruttolaumojaan
+Avuksi meille; n‰iden isku kohtaa
+Sen lapsiin syntym‰ttˆmiin, ken nostaa
+Vasallik‰tt‰ valtiasta vastaan
+Ja kalliin kruunun kirkkautta uhkaa.
+Sano Herefordille -- tuossa kai h‰n seisoo --
+Ett' ilkipetosta on joka askel,
+Mink' astuu t‰‰ll‰. Avaamaan h‰n tuli
+Verisen sodan punatestamentin;
+Mut kunnes kruunu rauhass' istuu p‰‰ss‰‰n.
+Tuhannen ‰idin pojan p‰‰t ne verin
+Rumentaa maamme kukoistavat kasvot
+Ja immenkalvaan rauhan muodon muuttaa
+Punaiseks vihaksi ja kedon ruohon
+Kostuttaa verill' aimo brittil‰isten.
+
+NORTHUMBERLAND.
+Kuningas taivaan meit‰ varjelkoon
+Kansallis-asein ep‰kansallisin
+Kuningastamme uhkaamasta! Lankos,
+Tuo kolminkerroin jalo Henrik Hereford,
+Nˆyr‰sti k‰tt‰s suutelee ja vannoo
+Kunniakkaan haudan kautta, jossa lep‰‰
+Kuninkaallisen kantais‰s luut,
+Kummankin teid‰n valtaveren kautta,
+Samasta l‰hteest' alun saaneen virran,
+Kautt' uljaan Gauntin k‰den haudatun,
+Kautt' oman arvonsa ja kunniansa,
+Jok' enemp' on kuin kaikki valat yhteen:
+Ett' ei h‰n t‰nne tullutkaan muun vuoksi,
+Kuin perioikeuttansa valvomaan
+Ja polvin rukoillakseen vapauttansa.
+Jos t‰h‰n kuninkaallisesti suostut,
+Aseensa kirkkaat ruostumaan h‰n panee,
+Heponsa uljaan seimeen, syd‰mmens‰
+Alttiiseen majesteetin palvelukseen.
+Sen vannoo h‰n, niin totta kuin on prinssi,
+Ja min‰ ylimyksen‰ sen takaan.
+
+KUNINGAS RICHARD.
+Northumberland, t‰‰ kuninkaan on vastuu:
+On jalo lanko t‰nne tervetullut,
+Ja kaikki kohtuvaatimuksensa
+On vastaan sanomatta t‰ytett‰v‰t.
+Puhujalahjaas suloisinta k‰ytt‰in,
+Vie hell‰t terveiseni armaan korvaan.
+    (Northumberland palajaa Bolingbroken luo.)
+    (Aumerlelle.)
+On alentavaa meille, -- eikˆ totta, --
+Noin kurja k‰ytˆs ja noin nˆyr‰ puhe.
+Takaisin kutsunko Northumberlandin,
+Ja konnan haastan taisteluun ja kuolen?
+
+AUMERLE.
+Ei, ‰lk‰‰; sulosanoin taistelkaamme,
+Siks kunnes yst‰vilt‰ avun saamme.
+
+KUNINGAS RICHARD.
+Oi, taivaan herra! ett‰ t‰m‰ kieli,
+Jok' ankaraan maanpakoon tuomitsi
+Tuon korskan miehen, mairitellen pyˆrt‰‰
+Nyt sanansa! Josp' oisin yht‰ suuri
+Kuin tuskani, tai pienemp' arvoani!
+Tai unhottaa jos voisin, mit‰ olin,
+Tai olla muistamatta, mit‰ nyt
+Mun t‰ytyy olla! Paisut, ylv‰ syd‰n!
+Vapaasti lyˆ vain, koska vihamieskin
+Vapaasti sua lyˆd‰ saa ja mua.
+
+AUMERLE.
+Northumberland Herefordin luota palaa.
+
+KUNINGAS RICHARD.
+Mit‰ kuninkaan nyt tulee? Nˆyrty‰kˆ?
+Sen tekee kuningas, Vai heitt‰‰ valta?
+Kuningas taipuu. Kuninkaanko nimi
+Myˆs menett‰‰? No, menkˆˆn, Herran nimeen!
+Ma kruunun helmet ruusunauhaan vaihdan,
+Erakon majaan uljaat hovilinnat,
+Komean puvun kerj‰l‰isen mekkoon,
+Puukuppiin korkokuvalliset maljat,
+Pyhiss‰k‰yj‰n-sauvaan valtikkani,
+Alamaiseni pariin pyh‰n kuvaan
+Ja laajan valtakunnan pieneen hautaan,
+Niin, pieneen, pieneen, maineettomaan hautaan.
+Ei! Vallan tielle minut haudatkaa,
+Suurliikkeen tielle, miss‰ kansa aina
+Saa valtiaansa p‰‰t‰ polkea.
+Syd‰nt‰ni se polkee nyt, kun el‰n,
+Miks ei siis p‰‰t‰ni, kun haudass' olen? --
+Aumerle, sa itket, s‰‰liv‰inen lanko.
+Hylyt kyyneleemme luokoot rankkasateen,
+Lamatkoot huokaustemme kanssa viljat
+Ja n‰l‰n tuokoot kapinoivaan maahan!
+Tai leikimmekˆ tuskaa, lyˆden veikkaa,
+Ken paras meist' on kyynelmies! Es'merkiks:
+Kyynelt‰ tiputamme yhteen kohtaan,
+Siks kunnes siihen syˆpyy kaksi hautaa,
+Ja kirjoitamme: "T‰ss‰ lep‰j‰‰
+Langokset; silm‰t kaivoi haudat n‰‰."
+Tuo paha eikˆ hyv‰‰? -- Houkka vaan
+Ma, n‰emm‰, olen: mua pilkataan. --
+Ylev‰ prinssi, lord Northumberland,
+Mit‰ sanoo kuninkaamme Bolingbroke?
+Salliiko majesteetti, ett‰ Richard
+Saa el‰‰, kunnes Richard hautaan tyˆntyy?
+Hassaatte jalkaa, Bolingbroke siis myˆntyy.
+
+NORTHUMBERLAND.
+H‰n teit‰ alapihass' odottaa.
+Suvainnettehan tulla alas sielt‰?
+
+KUNINGAS RICHARD.
+Alas, alas tulen, niinkuin Phaeton,
+Joit' ohjat ryˆst‰‰ huimat hevoskaakit.
+    (Northumberland palajaa takaisin Bolingbroken luo.)
+Alapihaan? Siell‰ vallat alentuvat,
+Ja konnain eess‰ nˆyrin kumartuvat.
+Alapihaan! Alas, kuningas ja hovi!
+Ei huuhkaan huutoon leivon laulu sovi.
+
+    (Astuvat alas muurilta.)
+
+BOLINGBROKE.
+Mit‰ sanoo kuningas?
+
+NORTHUMBERLAND.
+                     Syd‰mmen suru
+Sekoittaa h‰net. Haastaa niinkuin hullu.
+Mut tuossa tuleekin h‰n.
+
+    (Kuningas Richard seurueineen tulee n‰ytt‰mˆlle.)
+
+BOLINGBROKE.
+                         Kaikki syrj‰‰n,
+Ja kunnioitus majesteetille! --
+Kuningas armollisin --
+
+    (Polvistuu.)
+
+KUNINGAS RICHARD.
+                        Hyv‰ lanko,
+Noin prinssin polvi halventuu, ja pˆyhk‰ks
+K‰y halpa maa, kun sit‰ suutelee.
+Mieluummin syd‰n soisi tuta lemmen,
+Kuin silm‰ n‰hd‰ tyhj‰‰ mairitusta.
+Oi, nouse! Hyvinkin n‰in korkealla
+    (Osoittaen p‰‰t‰‰n)
+On mieles, vaikk' on polves matalalla.
+
+BOLINGBROKE.
+Kuningas suuri, omani vain tahdon.
+
+KUNINGAS RICHARD.
+Omasi sun on, min‰ sun, ja kaikki.
+
+BOLINGBROKE.
+Sen verran mun, kuin uskollinen tyˆni
+Ansaitsee kuninkaani rakkautta.
+
+KUNINGAS RICHARD.
+Ansaitsee hyvin; ansaitsee sen saada,
+Joll' uljuutt' on ja rohkeutta ottaa, --
+K‰tenne, set‰! Ei, ei kyyneleit‰?
+Ne s‰‰liv‰t, mut eiv‰t auta meit‰. --
+    (Bolingbrokelle.)
+Min' olen liian nuori is‰ks sulle,
+Mut sin‰ perim‰‰n mua kyllin vanha.
+Min tahdot, sen ma annan itsealta;
+T‰ytyyh‰n tehd‰, mit‰ vaatii valta. --
+Siis Lontooseen? Vai mit‰?
+
+BOLINGBROKE.
+                           Sinne tie.
+
+KUNINGAS RICHARD.
+Ei mulla siihen kieltovaltaa lie.
+
+    (Torventoitauksia. Menev‰t.)
+
+
+Viides kohtaus.
+
+    Langley. Yorkin herttuan puutarha.
+
+    (Kuningatar ja kaksi hovinaista tulevat.)
+
+KUNINGATAR.
+Minlaisin huvituksin koittaisimme
+Karkoittaa murheen mustat ajatukset?
+
+1. HOVINAINEN.
+Lyˆk‰‰mme keili‰.
+
+KUNINGATAR.
+                  N‰in muistuis mieleen,
+Kuin t‰ynn‰ maailma on syv‰nteit‰
+Ja kuinka kaltoin pyˆrii onnen pyˆr‰.
+
+1. HOVINAINEN.
+No, tanssikaamme.
+
+KUNINGATAR.
+                  Tahdin suhtaa jalka
+Ei iloss' osaa pit‰‰, kun ei syd‰n
+Voi suhtaa pit‰‰ murheessa. Siis tytˆt,
+Ei tanssia, mut muuta huvitusta.
+
+1. HOVINAINEN.
+Jos kertoisimme.
+
+KUNINGATAR.
+                 Iloa vai tuskaa!
+
+1. HOVINAINEN.
+Kumpaakin, rouva.
+
+KUNINGATAR.
+                  Kumpaakaan ei, tyttˆ;
+Sill' ilo, jota olen aivan vailla,
+Mua murheesta vain lis‰‰ muistuttaisi;
+Ja tuska, jota olen aivan t‰ysi,
+Vain ilon vajavuutta murhein lis‰is.
+Ei tarvis toistaa, mit‰ on jo mulla,
+Ja turha valittaa, mit' olen vailla.
+
+1. HOVINAINEN.
+Siis laulanko?
+
+KUNINGATAR.
+               Se tee, jos sull' on syyt‰.
+N‰kisin mieluummin, ett' itkisit.
+
+1. HOVINAINEN.
+Kyll' itkisinkin, jos se teit‰ auttais.
+
+KUNINGATAR.
+Ja min‰ laulaisin, jos auttais itku,
+Ja sult' ei tarvis lainaks kyynelt' ottaa.
+Mut vait!' Puutarhurit jo tulee. Piiloon,
+Pois puiden varjoon! --
+    (Puutarhuri ja kaksi puutarharenki‰ tulee.)
+                        Neulakirjaa vastaan
+Suruni panen vetoon, ett‰ puhe
+On valtiosta. Muutteissa se uho
+On yleinen. K‰y tuhon eell‰ tuho.
+
+    (Kuningatar ja hovinaiset vet‰ytyv‰t syrj‰‰n.)
+
+PUUTARHURI.
+Nuo sitokaa, nuo veltot aprikoosit,
+Jotk' alas rehev‰ll‰ raskaudellaan
+Is‰‰ns‰ painavat kuin pahat lapset,
+Ja pˆnkitt‰k‰‰ oksat notkuvat. --
+Ja sin‰, teloittajan lailla latvo
+Nuo ylen runsaat versot, jotka liikaa
+Kohottaa p‰‰t‰‰n tasavallassamme:
+T‰‰ll' olla t‰ytyy kaikki yht‰l‰ist‰. --
+Sill' aikaa min‰ k‰yn ja juurin kitken
+Pois inhan lauhan, joka hyˆdytˆnn‰
+Maan mannon terveilt' imee kukkasilta.
+
+1. RENKI.
+Miks tarhapiiriss‰mme noudattaa
+Lakia, muotoja ja sopusuhtaa
+Ja tehd‰ siit‰ luja mallivalta,
+Kun maamme, meren ymp‰rˆim‰ tarha,
+On lauhaa t‰ynn‰, kukat l‰k‰htyneet,
+Puut latvomatta, pensasaidat kuivat,
+Lamassa lavat, terveelliset yrtit
+Matoja kiehuvat?
+
+PUUTARHURI.
+                 Vait, vaiti siit‰!
+Ken t‰m‰n laaduttoman kev‰‰n salli,
+Nyt itse n‰ki lehden l‰htev‰n;
+Tuon lauhan, jota laajat lehv‰t kaihti,
+Ja joka uurti, tukevan kun n‰ytti,
+Sen Bolingbroke pois kitki juurineen,
+Tarkoitan: Bushyn, Wiltshiren ja Greenin.
+
+1. RENKI.
+Ne onko kuolleet?
+
+PUUTARHURI.
+                  On, ja Bolingbroke
+Kuninkaan aulin vallannut. -- Oi, s‰‰li,
+Ett' ei h‰n maataan laittanut niin ruokkoon,
+Kuin t‰m‰n tarhan me! N‰et, m‰‰r‰ajoin
+Me marjapuiden kuoreen haavan teemme,
+Ett' ydyst‰ ja voimast' eiv‰t paisuis
+Ja liikaa rehevyytt‰‰n lahoaisi;
+Jos n‰in h‰n suurten tehnyt ois ja pˆyhk‰in,
+N‰‰ alamaisen hedelm‰‰ nyt kantais
+Ja h‰n sais sit‰ maistaa. N‰lk‰vesat
+Me katkomme, ett' el‰is viljaoksat;
+Jos niin ois tehnyt h‰n, niin p‰‰ss‰‰n ois
+Nyt kruunu, jonka turhuus syyti pois.
+
+1. RENKI.
+Siis kuningasko kukistetaan, niinkˆ?
+
+PUUTARHURI.
+Jo nutistettu on, ja kukistetaan
+Piankin. Viime yˆn‰ tuli kirje
+York-herttualta yst‰v‰lle t‰nne;
+Pahoja tiesi se.
+
+KUNINGATAR.
+                 T‰‰ vaitiolo
+Tukeuttaa mun.
+    (Astuu esiin.)
+               Sa kuva Aatamin,
+T‰‰n tarhan pantu hoitajaks, kuin julkee
+Noin karvaan sanan haastaa karkas kieles?
+Mik' Eeva, mik‰ k‰‰rme sinut johti
+Kirottuun toiseen syntiinlankeemukseen?
+Richardko kukistettu? Uskallatko,
+Parempi tuskin maata, ennustaa
+Moist' alennusta? Milloin, miss‰, kuinka
+Sait moiset tiedot? Puhu, kurja raukka!
+
+PUUTARHURI.
+Anteeksi, rouva: pieni ilo sit‰
+On kertoa; mut totta, mink‰ sanon.
+Kuningas Richard Bolingbroken vahvass'
+On turvassa; nyt vaa'assa on onni;
+Miehenne kupissa on vain h‰n itse
+Ja joku h‰nt‰ kevent‰v‰ tyhmyys;
+Mut suuren Bolingbroken kupissa,
+Pait h‰nt‰, kaikki Englannin on p‰‰rit,
+Ja n‰ill‰ Richardin h‰n painaa ylˆs,
+Lontooseen menk‰‰, niin te n‰ette sen:
+Ma haastan, mink‰ tiet‰‰ jokainen.
+
+KUNINGATAR.
+Kopea turma, jalalt' aina virkku,
+Mua eikˆ koske sanomas? Ja min‰
+Saan viimeksi sen tiet‰‰? Viimeks aiot
+Mua terveht‰‰, siks ett‰ kauimmin
+Ma povessani surus s‰ilytt‰isin! --
+Pois, naiset, Lontooseen, pois, katsomaan
+Nyt Lontoon kuningasta murheessaan!
+Niin onko k‰yp‰, ett‰, katse maassa,
+Bolingbroken saatoss astun voitokkaassa? --
+Mies sin‰, noista tuskan sanoistasi
+Kaikk' ymppipuut sun kuolkoot tarhassasi!
+
+    (Kuningatar ja hovinaiset poistuvat.)
+
+PUUTARHURI.
+Voi, raukka! Jos ei pahemmin k‰y sun,
+Kiroukses sattukoon vain minuhun. --
+Kyynelp‰ tuohon valui. Paikkaan tuohon
+Ma itkulehden kylv‰n, karvasruohon;
+Kun mullasta se p‰‰t‰‰n ylent‰‰,
+Kuningatarta muistan itkev‰‰.
+
+                   (Menev‰t.)
+
+
+
+
+NELJƒS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Lontoo. Westminster-Hall.
+
+    (Hengelliset loordit oikealla puolen valtaistuinta,
+    maalliset vasemmalla; yleisˆ alempana. Bolingbroke,
+    Aumerle, Surrey, Northumberland, Percy, Fitzwater,
+    er‰s toinen loordi, Carlislen piispa, Westminsterin
+    abotti ja seuralaisia. Per‰ll‰ Bagot, oikeudenpalvelijain
+    vartioimana.)
+
+BOLINGBROKE.
+Esille Bagot! -- Bagot, sano suoraan,
+Glosterin kuolemasta mit‰ tied‰t.
+Ken kuningasta yllytti? Ken teki
+Tuon verimurhan ennenaikaisen?
+
+BAGOT.
+Silm‰ini eteen tuokaa lord Aumerle.
+
+BOLINGBROKE.
+Esille, lanko; katso tuohon mieheen.
+
+BAGOT.
+Kielenne rietas, lord Aumerle, se varmaan
+Halveksii kielt‰‰, mit‰ kerran lausui.
+Kun kalmankamalassa yˆss‰ surmaa
+Tuumailtiin Glosterille, kuulin teid‰n
+Sanovan n‰in: "K‰s'varteni on pitk‰;
+Englannin rauhanhovista se ylt‰‰
+Calais'hen saakka set‰-ukon p‰‰h‰n."
+Muun ohessa ma teid‰n samaan aikaan
+Myˆs kuulin sanovan, ett' ette soisi
+Sadastatuhannesta kruunustakaan
+Englantiin Bolingbroken palaavan,
+Lis‰ten, ett‰ maalle siunaus oisi
+Tuo langon surma.
+
+AUMERLE.
+                  Prinssit, jalot loordit!
+Kurjalle tuolle mit‰ vastata?
+Niin t‰hte‰ni h‰v‰ist‰kˆ,[16] ett‰
+Ma h‰nt‰ vertaisena rankaiseisin?
+Mut t‰ytyy, tai tuon kurjan riettaat huulet
+Mun kunniani tahraa. -- Tuossa pantti,
+Se kuolon k‰sisinetti, mi leimaa
+Sun hornan omaksi! Sa valehtelet,
+Sen sanon ma ja syd‰nverell‰si
+Sen todistan, vaikk' on se liian halpaa
+Ritarin miekanter‰‰ tahraamaan.
+
+BOLINGBROKE.
+ƒl' ota, Bagot; pantin anna olla.
+
+AUMERLE.
+Ma soisin, ett‰ t‰ss‰ seurass' oisi
+Parasta l‰hin se, ken n‰in mua loukkaa.
+
+FITZWATER.
+Jos miehuutesi etsii vertaistaan,
+Niin tuossa pantti panttiasi vastaan!
+Kautt' auringon, mi n‰ytt‰‰, miss‰ seisot,
+Sun kuulin sanovan ja kerskaavankin,
+Ett' olit Glosterin sa surmaan syyp‰‰.
+Sadasti valehtelet, jos sen kiell‰t;
+Ja miekank‰rjell‰ni petoksesi
+Sen tekopaikkaan tyˆnn‰n, syd‰mmeesi.
+
+AUMERLE.
+Et tohdi, raukka, sit‰ p‰iv‰‰ n‰hd‰.
+
+FITZWATER.
+Kautt' autuuteni, nyt sen n‰hd‰ tahdon.
+
+AUMERLE.
+Fitzwater, helvettiin sa silloin menet.
+
+PERCY.
+Valetta! Kunniansa t‰ss‰ kohden
+Niin puhdas on, kuin sin‰ saastainen;
+Se ett‰ olet, siit‰ pantti tuossa!
+Viimeiseen hengenvetoon saakka todeks
+Sanani n‰yt‰n. Nosta pois, jos tohdit.
+
+AUMERLE.
+Jos sit' en tee, niin kuihtukoon t‰‰ k‰si.
+Ik‰n‰ koston kalpaa iskem‰tt‰
+Viholliseni kiiltokyp‰r‰‰n.
+
+LOORDI.
+Aumerle, sa valapatto, min‰i vannon
+Ja kannustan sua yht‰ monin "valhein",
+Kuin mit‰ auringosta aurinkoon
+Voi kavaltajan korvaan huutaa. Tuossa
+On kunniani pantti, nosta pois
+Ja ryhdy kaksintaisteluun, jos tohdit!
+
+AUMERLE.
+Ken viel‰? Kaikki voitan, jumal'auta!
+Tuhat eloa t‰‰ yksi povi k‰tkee,
+Ne vastaa satatuhat teid‰nlaista.
+
+SURREY.
+Fitzwater, hyvin muistan hetken, milloin
+Aumerlen kanssa haastoitte.
+
+FITZWATER.
+                            Niin oikein,
+L‰sn' olitte ja voitte todistaa,
+Ett' on t‰‰ kaikki totta.
+
+SURREY.
+                          Jumal' auta,
+Niin v‰‰r‰‰, kuin on Jumal' itse totuus!
+
+FITZWATER.
+Valetta, Surrey!
+
+SURREY.
+                 Kunniaton vesa!
+Tuo vale miekallani valahtaa
+Ja koston p‰‰h‰s valaa, kunnes sin‰,
+Valetten valaja, valeines maahan
+Niin vaiti valahdat kuin is‰s kallo.
+Tuoss' ota kunniani pantti siit‰
+Ja ryhdy kaksintaisteluun, jos tohdit!
+
+FITZWATER.
+Hupelo, kannustelet virmaa varsaa.
+Jos hengitt‰‰ ma tohdin, syˆd‰, juoda,
+Niin kohdata myˆs Surreyn er‰maassa
+Ja h‰neen sylke‰ ja julki huutaa:
+Valetta ajat, valetta, valetta!
+Tuoss' sanani on pantti, rangaistuksen
+Se lupaa sulle ankaran. Niin totta
+Kuin minun hyvin k‰ykˆˆn maailmassa,
+Miss' olen vasta tulokas, niin totta
+Aumerle on tosisyytˆkseeni syyp‰‰.
+Maanpakolainen Norfolk lis‰ks sanoi,
+Aumerle, sun l‰hett‰neen kaksi miest‰
+Calais'hen herttuata surmaamaan.
+
+AUMERLE.
+Ken hyv‰ kristitty nyt lainaa kintaan?
+Valheita ajaa Norfolk; tuossa pantti,
+Jos kutsutaan h‰n kotiin vastaamaan!
+
+BOLINGBROKE.
+T‰‰ riita j‰‰kˆˆn pantin varaan, kunnes
+Saa Norfolk kotiin kutsun; sen h‰n saa,
+Ja, vaikk' on vihamieskin, kaikki j‰lleen
+Myˆs maansa saa ja arvonsa. Kun palaa,
+Niin otteluun Aumerlen kanssa k‰ykˆˆn.
+
+PIISPA.
+Se mainep‰iv‰ se j‰‰ n‰kem‰tt‰.
+Mont' ylev‰‰ on pyh‰‰ sotaa k‰ynyt
+Kristuksen eest‰ henkipatto Norfolk
+Ja, ristin lippu k‰ess‰, karkoittanut
+Pakanat mustat, turkit, saraseenit;
+Sodasta uupuneena vet‰ytyi
+Italiaan; Venetiassa siell‰
+Sen kauniin seudun maalle ruumiins' antoi
+Ja puhtaan sielun Kristus-p‰‰llikˆlleen,
+Jonk' alla ik‰ns' oli taistellut.
+
+BOLINGBROKE.
+Mit‰, piispa? Onko Norfolk kuollut?
+
+PIISPA.
+                                     On,
+Niin totta kuin ma el‰n.
+
+BOLINGBROKE.
+                         Vieno rauha
+Saatelkoon h‰nen vienon sielunsa
+Tuon vanhan, hyv‰n Abrahamin helmaan
+Riitanne, loordit, pantin varaan j‰‰kˆˆn,
+Siks kunnes taistop‰iv‰n m‰‰r‰‰mme.
+
+    (York tulee seurueineen.)
+
+YORK.
+Lord Lancaster, mun hˆyhennetty Richard
+L‰hetti t‰nne; perij‰kseen suostuu
+Sun ottamaan, ja mahtivaltikkansa
+K‰teesi kuninkaalliseen nyt laskee.
+Valt'istuimelle j‰lkeisen‰‰n nouse:
+El‰kˆˆn Henrik, nelj‰s nime‰‰n!
+
+BOLINGBROKE.
+Valt'istuimelle Herran nimeen nousen.
+
+PIISPA.
+Ei, Herra siit‰ varjelkoon? -- Vaikk' olen
+Puhujaks moiseen valtaseuraan halpa,
+Niin parhain sopii minun haastaa totuus.
+Jos t‰ss‰ jalossa ois seurass' ykskin
+Kyll‰ksi jalo oikein tuomitsemaan
+Jalon Richardin, niin tosi jalous h‰nt‰
+Moist' ilkityˆt‰ kavahtamaan neuvois.
+Alamainen kuninkaanko tuomariksi?
+Ken t‰ss‰ Richardin ei alamainen?
+Varast' ei kuulematta tuomita,
+Vaikk' oiskin rikoksensa p‰iv‰nselv‰;
+Mut taivaan majesteetin kuvanko,
+Sen valtamiehen, sijaisen, jo ammoin
+Voidellun, kruunatun ja istutetun,
+Tuomitsee alamaisen halpa ‰‰ni
+Poissaolevana? Taivas varjelkoon
+Puhdasten mielet kristityss‰ maassa
+Noin inhaa, mustaa tyˆt‰ tekem‰st‰!
+Ma, alamainen, alamaisille
+Nyt puhun Herran her‰tt‰m‰n‰
+N‰in rohkeasti eest‰ voideltunsa.
+Lord Hereford, t‰m‰ teid‰n kuninkaanne
+Herefordin kuninkaan on kavaltaja;
+Jos h‰net kruunaatte, niin ennustan:
+T‰t' inhaa tyˆt‰ tulevaisuus voihkaa,
+Maan poikain veri omaa maata hˆyst‰‰,
+Pakanain, turkkein luona rauha uinuu,
+Ja t‰ss‰ rauhan maassa suku suvun
+Ja heimo heimon sotatulin tuhoo.
+Sekaannus, kauhu, pelko, kapina
+T‰‰ll' asustaa, ja maamme nimekseen
+P‰‰kallopaikan saa ja Golgathan.
+Oi, huonetta jos vastaan huone nousee,
+Niin syntyy surkein riita, mit‰ maa
+T‰‰ kironalainen on koskaan n‰hnyt.
+Moist' est‰k‰‰tte, muuten lapset maan
+Ja lastenlapset teit‰ kiroo vaan.
+
+NORTHUMBERLAND.
+Sep' oiva saarna! Vaivastanne teid‰t.
+Maankavaltajana nyt vangitsemme. --
+Lord Westminster, on teid‰n teht‰v‰nne
+Tutkintop‰iv‰ks h‰nt‰ tallettaa. --
+No, loordit, suostutteko kansan pyyntˆˆn?
+
+BOLINGBROKE.
+Tuokaatte Richard, ett‰ kansan n‰hden
+H‰n luopukoon, niin ep‰luulon kaunaa
+Ei meihin j‰‰.
+
+YORK.
+               Ma h‰net t‰nne saatan.
+
+    (Menee.)
+
+BOLINGBROKE.
+Te, loordit, jotka t‰ss‰ vangitsimme,
+Vastaamaan tulostanne tuokaa takuu.
+    (Piispalle.)
+Kehnosti yst‰vyytt‰ osoititte,
+Ja kehnoa me varroimmekin teilt‰.
+
+    (York palajaa, seurassaan kuningas Richard ja virkamiehi‰,
+    jotka kantavat kruunua ja muita hallitsijan arvonmerkkej‰.)
+
+KUNINGAS RICHARD.
+Kuninkaan eteen miksi minut tuodaan,
+Ennenkuin heit‰n kuninkuuden aatteet,
+Joill' olen hallinnut? Viel' osaan tuskin
+Kumartaa, mairia ja liukastella.
+Oi, surun suokaa hetken viel‰ nˆyryytt'
+Opettaa mulle! Noiden miesten kasvot
+Ma hyvin muistan: olivathan minun,
+Ja huusivathan usein "terve" mulle
+Kuin Juudas Kristukselle; t‰ll' ykstoista
+Kahdestatoist' ol' uskollista mulla
+Kahdestatoistatuhannest' ei yht‰‰n. --
+El‰kˆˆn kuningas! Ei aamenta.
+Olen pappi siis ja lukkari? Siis, aamen!
+El‰kˆˆn kuningas! En ole sit‰,
+Mut: aamen! Ehk‰ taivas sin‰ pit‰‰.
+Mihink‰ teht‰v‰‰n mua t‰nne tuodaan?
+
+YORK.
+Tekem‰‰n, mit‰ vapaast' ehdostasi
+V‰synyt majesteetti sua k‰skee:
+Niin, Henrik Bolingbrokelle nyt valta
+Ja kruunu luovuttamaan.
+
+KUNINGAS RICHARD.
+                        Kruunu t‰nne! --
+No, lanko, tartu kruunuun; tuohon, lanko:
+Sun k‰tes tuohon puoleen, minun t‰h‰n!
+Nyt kultakruunu on kuin syv‰ kaivo,
+Sen kaksi sankoa ne toistaan t‰ytt‰‰;
+Ilmassa toinen, tyhj‰, tanssii, toinen
+Maan alla, n‰kym‰tt‰, t‰ynn‰ vett‰;
+Alainen, kyynelinen olen min‰,
+Juon tuskaani, mut sin‰ nouset, sin‰.
+
+BOLINGBROKE.
+Mut luopumaanhan altis olitten.
+
+KUNINGAS RICHARD.
+Niin, kruunusta, mut tuskistani en.
+Voit kruunut ottaa, arvot valtahas.
+Et tuskaani, sen olen kuningas.
+
+BOLINGBROKE.
+Ma kruunun kanssa otan huoles sun.
+
+KUNINGAS RICHARD.
+Sun huoles nousee, silt' ei laske mun.
+Mun huoleni on vanhat huolet voittaa,
+Sun huolesi on uutta huolta koittaa.
+J‰‰ huoli mulle, vaikka pois sen annan,
+Se kruunuun kuuluu, vaan sit' yh‰ kannan.
+
+BOLINGBROKE.
+Siis mieluista on teille j‰tt‰‰ kruunu!
+
+KUNINGAS RICHARD.
+On, ei, -- ei, on; -- vaan mit‰ minusta!
+Ei, ei't‰ ei! Ma riipun sinusta.
+Nyt n‰hk‰‰s, kuinka itseni ma tyhj‰‰n: --
+Pois raskaan taakan annan p‰‰st‰ni,
+Pois k‰dest‰ni j‰yk‰n valtikan,
+Pois vallan kopeuden syd‰mmest‰.
+Voiteeni huuhdon omin kyynelin,
+Pois kruununi ma omin k‰sin annan,
+Pyh‰n arvoni ma omin kielin kiell‰n,
+Lupaukset, valat omin suin ma p‰‰st‰n.
+Pois vannon kaiken majesteetin loiston,
+Maat, saatavat ja verot luovutan,
+Epuutan k‰skyt, s‰‰nnˆt, asetukset.
+Jumal'anteeks petto, mik' on tehty mulle!
+Lujemmat valat vannottakoon sulle!
+Mua, tyhj‰‰, pelkk‰ tyhjyys huolettaa;
+Sua, kyll‰ist‰, sua kaikki onnistaa.
+Richardin valtikkaa sa kanna kauan!
+Ja Richard pian povess' olkoon hauan!
+Kuningas Henrik, el‰, Richard sanoo,
+Ja valtaheitto sulle siunaust' anoo. --
+No, joko riitt‰‰?
+
+NORTHUMBERLAND (ojentaen h‰nelle paperin).
+                  Riitt‰‰, kun vain luette
+N‰‰ kanteet rikoksista, joita itse
+Olette tehnyt, taikka k‰tyrinne,
+Maan etua ja yhteishyv‰‰ vastaan.
+Ne tunnustettuanne tiet‰‰ kaikki,
+Ett' olette te syyst‰ luovutettu.
+
+KUNINGAS RICHARD.
+Vai se mun t‰ytyy? Tyhmyyteni kuteet
+Itsekˆ purkaa? Oi, Northumberland,
+Sun rikokses jos olisi kirjaan pantu,
+Niit' etkˆ h‰pe‰isi luetella
+N‰in kaikkein kuullen? Jos sa tarkastaisit,
+Tapaisit siin‰ yhden ruman kohdan,
+Mi koskee karkoitusta kuninkaan
+Ja vahvaks tehdyn valan rikkomista,
+Mi taivaan kirjoissa on kirottuna
+Mustaksi merkitty. -- Niin, kaikki te,
+Te, jotka nyt mua t‰ss‰ katselette,
+Kun kurjuus mua h‰rn‰‰, vaikka jotkut
+Pesette k‰tenne kuin Pilatus,
+Teeskellen s‰‰li‰, -- te, Pilatukset,
+Olette antaneet mun ristinpuuhun,
+Ja vesi pois ei huuhdo synti‰nne.
+
+NORTHUMBERLAND.
+Lukekaa joutuun, herra, kannekohdat.
+
+KUNINGAS RICHARD.
+On silm‰t kyyneliss‰, en voi n‰hd‰.
+Mut niin ei niit‰ suola sokaa, ett'en
+N‰kisi t‰t‰ petturien laumaa.
+Niin, silm‰ni jos itseeni ma k‰‰nn‰n,
+Niin huomaan itsenikin petturiksi,
+Kun mielin myˆntyvin ma annoin riist‰‰
+Kuninkaan ruumiilta sen koristukset,
+Tein halvaks loiston, orjaks kuninkuuden
+Ja majesteetin alamaiseksi
+Ja talonpojaks itse valtakunnan.
+
+NORTHUMBERLAND.
+Mun herrani --
+
+KUNINGAS RICHARD.
+               En sinun herras ole,
+Kopea narri; kenenk‰‰n en herra;
+Ei mulla nime‰, ei arvoa,
+Ja sekin, mink‰ kastehessa sain,
+On multa riistetty. -- Oi, tuskan p‰iv‰‰!
+Niin monet olen talvet tarsinut,
+Ja nyt en tied‰, mik‰ nimi mulla.
+Oi, leikkikuningas jos lumest' oisin
+Ja paisteess' auringon, tuon Bolingbroken,
+Pois saisin sulaa vesipisaroiksi! --
+Hyv‰, suuri kuningas, et suurin hyv‰!
+Sanasi jos viel' Englanniss' on k‰yp‰‰,
+Niin k‰skekˆˆn se heti t‰nne peilin,
+Niin ett‰ n‰en, millainen mull' on muoto,
+Nyt kun sen majesteettius on mennyt.
+
+BOLINGBROKE.
+Joku se t‰nne peilin noutakoon.
+
+    (Palvelija menee.)
+
+NORTHUMBERLAND.
+Tuo lukekaa sill' aikaa.
+
+KUNINGAS RICHARD.
+                         Paholainen,
+Mua kiusaat ennen jo kuin helvetiss‰!
+
+BOLINGBROKE.
+Mylord Northumberland, ei en‰‰ tuota.
+
+NORTHUMBERLAND.
+Mut sill' ei ole kansa tyydytetty.
+
+KUNINGAS RICHARD.
+Se tyydytet‰‰n; tarpeeks asti luen,
+Kun oikean n‰en kirjan, miss' on kaikki
+Mun syntini, ja se -- ma olen itse.
+    (Palvelija palajaa, tuoden peilin.)
+Tuo t‰nne peili; siit‰ nyt ma luen. --
+Viel' enkˆ kurttuisempi? Niinkˆ monta
+On lyˆm‰‰ suru kasvoihini lyˆnyt,
+Eik' ole haavoittanut syvemp‰‰? --
+Sa, imartava lasi, mua pet‰t
+Kuin onnenp‰ivilt‰ni kumppanit.
+Tuo sekˆ katse, joka kattons' alla
+Komensi tuhansia joka p‰iv‰?
+Tuo sekˆ katse, joka katsojalta
+Kuin aurinkoinen silm‰t h‰ik‰isi?
+Tuo katseko se katsoi sivu houkat
+Ja nyt on Bolingbroken katseen alla?
+On heikko loisto tuossa katseessa,
+Ja katsekin on heikko kuin sen loisto.
+    (Paiskaa peilin maahan.)
+Tuoss' on se tuhansina sirpaleina!
+Vait olet, kuningas; pilass' on mielt‰;
+Noin valeen suru muodon h‰vitti.
+
+BOLINGBROKE.
+Surunne varjo vain on h‰vitt‰nyt
+Muotonne varjon.
+
+KUNINGAS RICHARD.
+                 Sano viel‰ kerran!
+Suruni varjo? Katsokaamme; -- Oikein:
+Mun kaikki tuskani ne sis‰ss' asuu,
+Ja t‰m‰ surun ulkonainen ilme
+Vain varjo n‰kym‰ttˆm‰n on tuskan,
+Mi hiljaa paisuu sieluss' ahdetussa;
+Siell' on sen juuri. Kiitos, kuningas.
+Suuresta armosta, kun annat syyt‰
+Valittaa mun ja lis‰ks neuvot keinon,
+Mitenk‰ valittaa! Vain yht‰ pyyd‰n;
+Pois sitten k‰yn ja en‰‰ en sua vaivaa.
+Suostutko?
+
+BOLINGBROKE.
+           Sanokaa se, hyv‰ lanko.
+
+KUNINGAS RICHARD.
+Hyv‰ lanko? Suuremp' olen kuningasta;
+Kun olin kuningas, vain alamaiset
+Mua mairivat; nyt olen alamainen,
+Ja nyt mua mairii itse kuningas.
+N‰in suurena ei kerj‰t‰ mun tarvis.
+
+BOLINGBROKE.
+Anokaa sent‰‰n.
+
+KUNINGAS RICHARD.
+                Saanko sen?
+
+BOLINGBROKE.
+                            Sen saatte.
+
+KUNINGAS RICHARD.
+Siis anna minun menn‰.
+
+BOLINGBROKE.
+                       Minne?
+
+KUNINGAS RICHARD.
+                              Minne
+Vain tahdot, kun sua n‰kem‰st‰ p‰‰sen.
+
+BOLINGBROKE.
+Pois h‰net tulee laittaa Toweriin.
+
+KUNINGAS RICHARD.
+Vai laittaa? Hyvin laittaa osaatte;
+Kuningas kaatuu ja te nousette.
+
+    (Kuningas Richard menee vartijoiden saattamana.)
+
+BOLINGBROKE.
+Ens' keskiviikon kruunausp‰ivaksemme
+Me m‰‰r‰‰mme; siks olkaa valmiit, loordit.
+
+    (Kaikki poistuvat, paitse abotti, Carlislen piispa ja Aumerle.)
+
+ABOTTI.
+Olemme n‰hneet kurjan n‰ytelm‰n.
+
+PIISPA.
+Vast' alkaa kurjuus. Vasta-syntyviss‰
+T‰‰n p‰iv‰n pistos tuntuu ytimiss‰.
+
+AUMERLE.
+Te, hengen miehet, mill‰ keinoin vois
+T‰‰n tahran valtiosta pest‰ pois?
+
+ABOTTI.
+Ennenkuin mieleni ma suoraan lausun,
+Luvatkaa, pyh‰n sakramentin kautta,
+Hankkeeni haudata, mut toimeen panna.
+Mink' ik‰n‰ns‰ min‰ tuuman keksin.
+N‰en, ett' on pilvess' aivan otsanne,
+Surussa syd‰n, silm‰ kyyneleiss‰.
+Nyt iltaiselle! Keinon keksin teille,
+Mitenk‰ koituu onnen p‰iv‰t meille.
+
+                         (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Lontoo. Toweriin johtava katu.
+
+    (Kuningatar tulee hovinaisineen.)
+
+KUNINGATAR.
+Kuningas t‰st‰ k‰y: tie kulkee t‰st‰
+Kamalaan torniin Julius Caesarin;[17]
+Piipoveen sen on ylv‰ Bolingbroke
+Mies-poloiseni vangiks tuominnut.
+Lep‰‰mme t‰ss‰, jos t‰‰ vainon maa
+Suo levon kuninkaansa puolisolle.
+    (Kuningas Richard tulee vartijain saattamana.)
+Vait! Katsokaa! Ei, ‰lk‰‰ katsoko
+Ruusuni kuihtumista! Toki n‰hk‰‰,
+S‰‰list‰ ett‰ kasteeks sulaisitte
+Ja lemmen-itkunne h‰nt' elvytt‰isi. --
+Sa autio, miss' ennen Troja seisoi,
+Sa arvon t‰hde, kuninkaan vain hauta,
+Etk' en‰‰ kuningas, sa kaunein maja,
+Miks inha suru sinuss' asustaa
+Ja ilo vain on olutmajan vieras?
+
+KUNINGAS RICHARD.
+ƒl' yhdy suruun, ‰l‰, kaunis vaimo;
+N‰in loppuani joudutat. Oi, armas,
+Vain entis-oloamme ihanaksi
+Kuvaile uneks, josta her‰nnein‰
+Nyt n‰emme, mit‰ todest' olemme.
+Vihaisen pakon valakumppani
+Min' olen; sen kanss' olen kuoloon asti
+Ruvennut liittoon. Mene sin‰ Ranskaan,
+Siell' yhdy hengelliseen sisarkuntaan.
+Taivaassa elo hurskas kruunun voittaa,
+Min t‰‰ll‰ maailman turhuus vahingoittaa.
+
+KUNINGATAR.
+Kuin? Mielelt‰ ja muodolt' onko Richard
+Hervonnut, heikennyt? Bolingbroke onko
+ƒlysi vienyt, syd‰mmeesi mennyt!
+Kuollessaan leijonakin kyntt‰‰n n‰ytt‰‰,
+Ja, jos ei muuta, haavoittaa se maata
+Vihoissaan, kun on voitettu; mut sin‰
+Kuin lapsi s‰isyst' otat kurituksen
+Ja vitsaa suutelet ja raivon eess‰
+Kuin halpa orja ryˆmit, ja tok' olet
+Sa leijona, el‰inten olet herra.
+
+KUNINGAS RICHARD.
+El‰inten herra! Jos en sit' ois ollut,
+Niin viel‰ oisin ihmisien herra.
+Viraton kuningatar, mene Ranskaan,
+Mua kuolleeks aattele ja ett‰s otat
+Nyt kuolevalta iki-j‰‰hyv‰iset.
+Talv'illlat pitk‰t pes‰n loisteess' istu,
+Kuunnellen vanhan kansan taruja
+Surkeista ajoista, jo ammoisista;
+Ja ennenkuin teet hyv‰n yˆn, niin palkaks
+Mun s‰‰litt‰v‰ tarinani kerro
+Ja saata kuulijasi itkein lepoon;
+Hiiletkin tunnottomat s‰ist‰v‰t
+Suruisen kieles synkk‰‰ s‰vellyst‰,
+S‰‰list‰ itkein tulen sammuksiin
+Ja surren tuhassa ja mustissansa
+Kuninkaan perinn‰isen kukistusta.
+
+    (Northumberland tulee seurueineen.)
+
+NORTHUMBERLAND.
+Mylord, Bolingbroke muuttanut on mielt‰:
+Pomfretiin matka nyt, ei Toweriin. --
+Myˆs teist‰, rouva, pidetty on huolta:
+Kiireinen tulee teille l‰htˆ Ranskaan.
+
+KUNINGAS RICHARD.
+Northumberland, sa porras, jota myˆten
+Bolingbroke nousi valtaistuimelle,
+Ei monta tiimaa aika vanhene,
+Kun inhan synnin m‰rk‰p‰‰ jo kypsyy
+Ja m‰t‰isyytt‰‰n puhkee. Sin‰ luulet,
+Vaikk' antais puolet vallastaan h‰n sulle,
+V‰h‰ksi sen, kun h‰lle kaiken hankit;
+H‰n luulee, ett‰ sin‰, joka osaat
+Asettaa v‰‰r‰n kuninkaan, myˆs osaat
+V‰himm‰st‰kin syyst‰ h‰net syˆst‰
+P‰istikkaa laittomalta istuimeltaan.
+Pahojen rakkaus k‰‰ntyy peloksi,
+Ja pelko vihaksi, ja viha syˆksee
+Vaaraan tai surmaan kummankin tai toisen.
+
+NORTHUMBERLAND.
+Syy minun p‰‰h‰ni, ja sill‰ hyv‰!
+Nyt hyv‰stit ja erot vain, ja oiti!
+
+KUNINGAS RICHARD.
+Siis kaksois-ero! Kaksois-avion
+Puratte, h‰ijyt: mun ja kruununi,
+Ja sitten mun ja puolisoni v‰lin. --
+Pois suutelen nyt valan v‰lilt‰mme:
+En toki; suutelollahan se tehtiin. --
+Northumberland, tee ero: minut Pohjaan,
+Miss' ilmaa v‰ristys ja taudit painaa,
+Ja puolisoni Ranskaan, mist‰ tuli
+Komeillen kauneissaan kuin armas Vappu
+Ja jonne nyt kuin kurja Kekri palaa.
+
+KUNINGATAR.
+Siis erotako? Eikˆ mik‰‰n est‰?
+
+KUNINGAS RICHARD.
+K‰dest‰ k‰si, syd‰n syd‰mmest‰.
+
+KUNINGATAR.
+Kuninkaan kanssa minut karkoittakaa.
+
+NORTHUMBERLAND.
+Niin neuvoo lempi, vaan ei j‰rki vakaa.
+
+KUNINGATAR.
+Mun suokaa menn‰ h‰lle seuraajaksi.
+
+KUNINGAS RICHARD.
+Yks suru on, vaikk' yhdess' itkee kaksi.
+Mua siell‰ itke, ma sua itken t‰ss‰;
+Parempi poiss' kuin l‰ss‰, eik‰ l‰ss‰.
+Tiet‰mme mitelk‰‰mme huokauksilla.
+
+KUNINGATAR.
+Tie kell‰ pisin, pisin huokaus sill‰.
+
+KUNINGAS RICHARD.
+Jok' askeleelta huokaan kaksi kertaa,
+Pitent‰in v‰h‰‰ matkaa toista vertaa.
+Ken tuskaa kosii, ei saa vitkastella;
+On aika pitk‰ viel‰ nainehella.
+Yks muisku suumme sulkee, sun ja mun,
+Ma syd‰mmeni annan, otan sun.
+
+    (Suutelevat.)
+
+KUNINGATAR.
+Mun anna pois; ei tapaa yst‰vitten
+Syd‰nt‰s tallettaa ja tappaa sitten.
+    (Suutelevat taaskin.)
+Omani sain; nyt olet matkaan vapaa;
+Nyt sit‰ koitan huokauksin tappaa.
+
+KUNINGAS RICHARD.
+T‰‰ hupsu viipy tuskaa kiiht‰‰ vaan,
+Hyv‰sti! Loput suru kertokaan!
+
+                    (Menev‰t.)
+
+
+
+
+Viides N‰ytˆs.
+
+
+Ensimm‰inen kohtaus.
+
+    Lontoo. Huone Yorkin herttuan hovilinnassa.
+
+    (York ja herttuatar tulevat.)
+
+HERTTUATAR.
+Mylord, sanoitte lopun kertovanne,
+Tulosta lankojemme Lontooseen,
+Kun itku keskeytti kertomuksen.
+
+YORK.
+Mihink‰ j‰ink‰‰n?
+
+HERTTUATAR.
+                  Siihen kurjaan kohtaan.
+Kun ilkik‰det ikkunoista heitti
+Kuninkaan p‰‰h‰n tˆrky‰ ja likaa.
+
+YORK.
+Niin, kuten sanoin, suuri Bolingbroke
+Sel‰ss‰ tulisen ja huiman orhin,
+Jok' ylv‰n ratsastajan hyvin tunsi,
+Eteni verkalleen ja arvokkaasti,
+Ja kaikki huusi: "Terve, Bolingbroke!"
+Ja onpa niinkuin haastais ikkunatkin, --
+Niin monen, nuoren, vanhan ahnas silm‰
+Niist' iskee h‰neen kaipuun katseitaan, --
+Ja niinkuin kirjoverhoin koristetut
+Talojen sein‰t[18] huutais yhteen ‰‰neen:
+"Bolingbroke, terve! Siunatkoon sua Kristus!"
+Mut h‰n vain puoleen sek‰ toiseen k‰‰ntyy,
+P‰‰ paljas alempana ratsun harjaa,
+Ja heille lausuu: "Kiitos, kansalaiset!"
+Ja sit‰ tiet‰‰n menee edelleen.
+
+HERTTUATAR.
+Oi, Richard-raukkaa! Miss‰ kulki h‰n!
+
+YORK.
+Niinkuin teaterissa kansan silm‰t,
+Kun poistunut on lempin‰yttelij‰,
+Hitaasti k‰‰ntyy j‰lkeen-tulijaan,
+T‰lt' oottain pelkk‰‰ turhaa jaaritusta,
+Niin hekin, ehk‰ viel‰ hylkiv‰mmin,
+Vilhuivat Richardiin; ei kukaan huuda:
+Jumala varjelkoon! Ei ilon ‰‰ni
+H‰nelle lausu: tervetullut kotiin!
+Vihittyyn p‰‰h‰n syyt‰v‰t vain lokaa;
+H‰n vienon suruisena pois sen puisti,
+Ja kasvoiss' itku taisteli ja hymy,
+Nuo k‰rsiv‰isyyden ja tuskan ilmeet,
+Niin ett‰, jos ei suuriin teht‰viin
+Koventais Luoja ihmissyd‰mmi‰,
+Niin sulaneet ne oisi pakostakin
+Ja itse julmuus h‰nt‰ s‰‰litellyt.
+Mut t‰m‰ s‰‰t‰m‰‰ on taivaan vallan;
+On meid‰n tahto korkeamman alla.
+Vannoimme Bolingbroken kuninkaaksi,
+Ja arvoonsa h‰n j‰‰k‰ˆn ainiaaksi.
+
+    (Aumerle tulee.)
+
+HERTTUATAR.
+Kah, poikani Aumerle!
+
+YORK.
+                      Aumerle h‰n oli,
+Mut, yst‰v‰n‰ Richardin, ei en‰‰;
+Nyt h‰nen nimens‰ on pelkk‰ Rutland.[19]
+Vakuutin parlamentiss' ett‰ on h‰n
+Uudelle kuninkaalle kuuliainen.
+
+HERTTUATAR.
+Terveeksi! Keit‰ on ne orvokit.
+Joit' uuden kev‰‰n vehmas helma tuottaa?[20]
+
+AUMERLE.
+En tied‰, rouva; onkin mulle yht‰,
+Olenko niist‰ yksi, vaiko en.
+
+YORK.
+Mut niin s‰ kev‰‰n karehessa toimi,
+Ett' eiv‰t ennen kukintaa sua poimi.
+Mit' Oxfordissa? Siell‰ turnataanko?
+
+AUMERLE.
+Niin luulen.
+
+YORK.
+             Sinne halaat, min‰ luulen.
+
+AUMERLE.
+Jos taivas siit' ei est‰, sinne aion.
+
+YORK.
+Mik‰ sinetti se povestasi riippuu?
+Sa kalpenetko? T‰nne kirjoitus!
+
+AUMERLE.
+Vain joutavaa.
+
+YORK.
+               Jos joutavaa, niin n‰yt‰.
+Ma vaadin; kuule, t‰nne kirjoitus!
+
+AUMERLE.
+Anteeksi, armollinen is‰, suokaa;
+Se turhanp‰iv‰inen on asia,
+Mut jot' en min‰ syyst‰ tahdo n‰ytt‰‰.
+
+YORK.
+Mut jota min‰ syyst‰ tahdon n‰hd‰.
+Ma varon, pelk‰‰n --
+
+HERTTUATAR.
+                     Mit‰ pelj‰t‰?
+Vain pelkk‰ sitoumus, jonk' on h‰n tehnyt
+Saadakseen siev‰n puvun naamiaisiin.
+
+YORK.
+Sitoumus? Itselleenkˆ? Mik‰ sitoo
+Sitoumus h‰nt‰? Olet hupsu, vaimo. --
+No, poika, anna t‰nne kirjoitus!
+
+AUMERLE.
+Ahteeksi suokaa, sit' en n‰ytt‰‰ tahdo.
+
+YORK.
+Ma vaadin, kuule; anna t‰nne, sanon!
+    (Tempaa h‰nelt‰ paperin ja lukee.)
+Petosta! Ilki-kavallusta! -- Konna!
+Petturi! Orja!
+
+HERTTUATAR.
+               Mik‰ on, mylord?
+
+YORK.
+Hoi! T‰nne joku!
+    (Palvelija tulee.)
+                 Satuloitse ratsu!
+Jumal' armahtakoon! Mik‰ kavallus!
+
+HERTTUATAR.
+Voi, mit‰? Mik' on asia, mylord?
+
+YORK.
+Saappaani t‰nne! Satuloitse ratsu!
+    (Palvelija menee.)
+Kautt' el‰m‰n ja kunnian ja valan,
+Sen konnan ilmi annan!
+
+HERTTUATAR.
+                       Mit‰ sanot?
+
+YORK.
+Vait, hupsu vaimo!
+
+HERTTUATAR.
+                   Min' en ole vaiti, --
+Mik' asia, Aumerle!
+
+AUMERLE.
+                    Oi, tyyntyk‰‰;
+Ei, ‰iti hyv‰, muuta, kuin mit' aikoo
+Mun kurja p‰‰ni maksaa.
+
+HERTTUATAR.
+                        P‰‰si maksaa?
+
+YORK.
+Saappaani t‰nne! Kuninkaan nyt luokse.
+
+    (Palvelija palajaa, tuoden saappaat.)
+
+HERTTUATAR.
+Aumerle, lyˆ h‰nt‰! -- ƒllistyth‰n poika! --
+    (Palvelijalle.)
+Pois konna! Ij‰ks silmist‰ni pois!
+
+    (Palvelija menee.)
+
+YORK.
+Saappaani t‰nne, sanon!
+
+HERTTUATAR.
+Mit' aiot, York? Omaistes virhett‰kˆ
+Et aio peitt‰‰? Onko toista poikaa
+Tai toisen pojan toivettakaan meill‰?
+Hedelm‰n aika on jo mennyt multa,
+Ja armaan pojan aiot multa vied‰?
+Ja ‰idin sulonimen multa riist‰‰?
+H‰n eikˆ n‰kˆisesi? Vertas eikˆ?
+
+YORK.
+Hupakko, hullu vaimo! Tahtoisitko
+Salata t‰m‰n mustan salaliiton?
+Kakstoista heist' on saanut sakramentin
+Ja tehnyt kirjallisen sopimuksen
+Kuninkaan Oxfordissa murhata.
+
+HERTTUATAR.
+H‰n ei saa muass' olla; t‰‰ll‰ h‰net
+Me pid‰mme. Siis mit‰ h‰nen siihen?
+
+YORK.
+Pois, hupsu vaimo! Olkoon kymmenesti
+H‰n poikani, niin ilmi h‰net annan.
+
+HERTTUATAR.
+Jos h‰nen t‰htens' oisit tuskaillut
+Kuin min‰ olen, s‰‰lisitp‰ h‰nt‰.
+Mut arvaan mielesi: sa varot varmaan,
+Ett' olin vuoteellesi uskoton,
+Ja ett' on ‰p‰r‰ h‰n, eik‰ poikas.
+York armas, armas ylk‰, pois se aatos!
+Niin on h‰n n‰kˆisesi kuin ei kukaan,
+Ei tule minuun h‰n, ei sukuhuni,
+Ja sent‰‰n h‰nt‰ lemmin.
+
+YORK.
+                         Tielt‰, huima!
+
+    (Menee.)
+
+HERTTUATAR (Aumerlelle).
+J‰lest‰! Ratsu ota, kannust' anna,
+Luo kuninkaan sa lenn‰ ennen h‰nt‰,
+Ja ano anteeks, ennenkuin h‰n syytt‰‰.
+Sua heti seuraan; vaikka olen vanha
+Niin yht‰ v‰leen ratsastan kuin York;
+Ja maasta min' en nouse ennen, kuin
+Saan anteeks Bolingbrokelta. Pois joutuun!
+
+                                (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Windsor. Huone kuninkaanlinnassa.
+
+    (Bolingbroke kuninkaana; Percy ja muita loordeja.)
+
+BOLINGBROKE.
+Hurjasta pojastani onko kuultu?
+Kuukauteen kolmeen h‰nt' en ole n‰hnyt.
+H‰n meille vitsaus on, h‰n, jos mik‰‰n.
+Ma soisin h‰net lˆydett‰v‰n, loordit.
+Kyselk‰‰ Lontoosta, sen kapakoista;
+K‰y, kuulemma, h‰n niiss‰ joka p‰iv‰
+Rivojen, hurjain pukarien kanssa,
+Sellaisten, jotka ahtaill' asuu teill‰
+Ja ryˆst‰‰ matkaajat ja vahdit pieksee;
+Ja nuori, riehakas ja hento poika
+H‰n pit‰‰ kunnianaan kannattaa
+Mokomaa roistoseuraa.
+
+PERCY.
+                      Armon herra,
+Ma kaksi p‰iv‰‰ sitten prinssin n‰in
+Ja kerroin h‰lle juhlist' Oxfordissa.
+
+BOLINGBROKE.
+Ja mit‰ sanoi huimap‰‰?
+
+PERCY.
+H‰n vastas, ett‰ aikoi menn‰ saunaan,
+Alttiimman nartun ottaa hansikkaan
+Ja sit‰ kantaa muistona ja sill‰
+Upeimman ratsaan satulasta syˆst‰.
+
+BOLINGBROKE.
+Yht' irstas, kuin on hurja! Kummassakin
+Paremman toivon h‰iv‰‰ toki n‰en,
+Jost' ehk‰ vanhemmiten hyv‰‰ koituu.
+Ken tulee tuossa?
+
+    (Aumerle tulee.)
+
+AUMERLE.
+                  Miss‰ kuningas?
+
+BOLINGBROKE.
+Miks, lanko, jylh‰ katsees on ja arka?
+
+AUMERLE.
+Jumalan armo teille! Kahdenkeskist'
+Anoisin haastelua, majesteetti.
+
+BOLINGBROKE.
+Pois menk‰‰, kahden meid‰t j‰tt‰k‰‰.
+    (Percy ja loordit menev‰t.)
+No, mit' on langollamme sanomista?
+
+AUMERLE.
+Ij‰ksi polvi maahan juurtukoon
+Ja kieli lakeen tarttukoon, jos nousen
+Tai puhun, ennenkuin saan anteeks teilt‰.
+
+BOLINGBROKE.
+Oliko rikos aikomus vai teko?
+Jos aikomus, niin, vaikk' ois kuinka musta,
+Sen anteeks suon, jos sill‰ lempes voitan.
+
+AUMERLE.
+Siis suokaa minun v‰‰nt‰‰ lukko kiinni,
+Ett' yksik‰‰n ei sis‰‰n p‰‰se, kunnes
+Kaikk' olen kertonut.
+
+BOLINGBROKE.
+                      Tee tahtosi.
+
+    (Aumerle lukitsee oven.)
+
+YORK (ulkoa).
+Kavahda, kuningas, ja etees katso!
+On kavaltaja siell‰ luonasi.
+
+BOLINGBROKE.
+Katala, sulle n‰yt‰n!
+
+    (Paljastaa miekkansa.)
+
+AUMERLE.
+                      Koston k‰tt‰s
+Pid‰t‰ vain! Ei sulla syyt‰ pelkoon.
+
+YORK (ulkoa).
+Kuningas varma, tuhmanrohkee, avaa!
+Lemmest‰ vasten silmi‰kˆ t‰ytyy
+Sua herjata? Ovi auki, tai sen murran!
+
+    (Bolingbroke avaa oven.)
+    (York tulee)
+
+BOLINGBROKE.
+Mik' asiana, set‰? Hengit‰h‰n,
+Ja sano, kuinka l‰hell‰ on vaara,
+Ett' asein voisimme sen torjua.
+
+YORK.
+Tuo kirje lue, niin n‰et omin silmin,
+Mit' en voi kiireess' itse saada ilmi.
+
+AUMERLE.
+Mut lukiessas muista lupaukses;
+Ma kadun; ‰l‰ nime‰ni lue;
+K‰teni kanss' ei liitoss' ollut syd‰n.
+
+YORK.
+Olipa, konna, tuon kun k‰tes piirsi;
+Povesta kavaltajan sen ma riistin;
+Pelosta katuu h‰n, ei rakkaudesta.
+Kuningas, s‰‰li pois! Se s‰‰li siitt‰‰
+Voi k‰‰rmeen, joka syd‰mmeen sua pist‰‰.
+
+BOLINGBROKE.
+Mik' inha, rohkea ja h‰ijy petos! --
+Sa kunnottoman pojan kunnon is‰!
+Hopeal‰hde tahraton ja puhdas,
+Jost' alkoi virta t‰‰, mut likateille
+Pois poikkesi ja tuli saastaiseksi!
+Pahaksi k‰‰ntyi liika hyvyytesi;
+Mut t‰m‰ hyv‰n tulva huuhtoo pois
+Tuon hairahtaneen poikas veritahran.
+
+YORK.
+N‰in tulee kunto paheen parittajaks:
+H‰n h‰pe‰ll‰‰n haaskaa kunniani,
+Kuin auli poika saidan is‰n, kultaa.
+J‰‰ kunnia henkiin, h‰pe‰n jos surmaat;
+Jos sit' et tee, niin kunniani turmaat;
+Ma kuolen, jos h‰n el‰‰; armo tee,
+Niin kunto kaatuu, petos riemuitsee.
+
+HERTTUATAR (ulkoa).
+Kuningas, ovi auki, Herran t‰hden!
+
+BOLINGBROKE.
+Mik' anoja niin kimakasti kirkuu?
+
+HERTTUATAR.
+Suurvaltias, se nainen on, sun mummos.
+Oi, kuule mua, s‰‰li anoavaa,
+Jok' ensi kertaa kerj‰‰, ovi avaa.
+
+BOLINGBROKE.
+N‰ytelm‰ ivaks muuttuu vakavasta:
+Nyt se on "kerj‰‰j‰‰ ja kuningasta". --[21]
+No, julma lanko, avaa ‰idillesi:
+Sun t‰htes tulee h‰n, sun rikoksesi.
+
+YORK.
+Jos, vaikka kuka pyyt‰is, anteeks suot,
+Niin sill‰ lis‰‰ pahennusta luot.
+Pois m‰t‰ tuo, niin ruumis parantuupi;
+Jos sit‰ s‰‰st‰t, kaikki turmeltuupi.
+
+    (Herttuatar tulee.)
+
+HERTTUATAR.
+ƒl' usko, herra, armotonta moista;
+Ken vihaa itse‰‰n, ei lemmi toista.
+
+YORK.
+Sa hupsu vaimo, mit‰ t‰‰ll‰ kuokit?
+Yh‰kˆ rinnoistasi konnaa ruokit?
+
+HERTTUATAR.
+York hyv‰, tyynny! Herra, kuulkaa mua!
+
+    (Polvistuu.)
+
+BOLINGBROKE.
+Oi, t‰ti, nouskaa!
+
+HERTTUATAR.
+                   En; rukoilen sua.
+Ij‰ksi t‰h‰n polvilleni j‰‰n,
+En pyyd‰ onnen p‰iv‰‰ n‰hd‰k‰‰n,
+Ennenkuin ilon, lohdun mulle kannat
+Ja pojalleni erheens' anteeks annat.
+
+AUMERLE.
+Mun polveni se ‰idin pyyntˆˆn taipuu.
+
+    (Polvistuu.)
+
+YORK.
+Mun polveni se vastapyyntˆˆn vaipuu.
+
+    (Polvistuu.)
+
+HERTTUATAR.
+Puhuuko totta? Katsokaahan vain:
+Ei itke silm‰, suotta vain h‰n uhuu,
+Suu h‰ll‰ vain, mut meill‰ syd‰n puhuu.
+H‰n heikost' anoo, kieltoa h‰n halaa,
+Mut meiss‰ syd‰n, sielu, mieli palaa.
+H‰n nousis mielell‰‰n, kun polvi puutuu,
+Mut meilt‰ polvi kiinni maahan juutuu.
+H‰n teeskelee ja valhett' ajaa takaa,
+Mut meid‰n rukous harras on ja vakaa.
+Suurempi meid‰n rukouksess' on tarmo,
+Siis rukoustemme palkaks anna armo!
+
+BOLINGBROKE.
+Oi, nouskaa, t‰ti!
+
+HERTTUATAR.
+                   ƒl‰ sano: nouskaa,
+Vaan ensin armo, sitten sano: nouskaa!
+Jos ammas oisin, kielt‰s johtaa saisin.
+Niin ensi sanaks armon opettaisin.
+Niin haluttu ei sana koskaan mulle;
+Sano: armo; kuin, sen s‰‰li neuvoo sulle.
+Lyhyt on sana, vaan sit' ihanampi;
+Ei mik‰‰n kuninkaalle sopivampi.
+
+YORK.
+Siis sano ranskaksi: pardonnez-moi.
+
+HERTTUATAR.
+N‰in armon k‰sket armon kukistaa.
+Oi, tyly ylk‰, syd‰mmetˆn miesi,
+Mi sanaa vastaan sanan panna tiesi!
+Ei, sano: armo; se on ‰idinkielt‰,
+Ei tuossa Ranskan sotkuss' ole mielt‰.
+Jo silm‰s puhuu, puhu myˆskin suulla,
+Syd‰mmes ‰‰nt‰ anna korvas kuulla;
+Kun t‰t‰ valitus ja parku kohtaa,
+Niin s‰‰li mieleen armon sanan johtaa.
+
+BOLINGBROKE.
+T‰ti, nouskaa!
+
+HERTTUATAR.
+               Pyyt‰m‰tt‰ osaan tuon,
+Mut armoa nyt pyyd‰n.
+
+BOLINGBROKE.
+                      Armon suon,
+Niin totta kuin mua armahtakoon Luoja!
+
+HERTTUATAR.
+T‰‰ polven polvistus mik' onnen tuoja!
+Mut varon, pelk‰‰n: tˆist‰h‰n tuo armo;
+Kahdesti lausutuss' on kahden tarmo,
+Se vahvistaa sen.
+
+BOLINGBROKE.
+                  Syd‰mmest‰ni
+Ma armon suon.
+
+
+HERTTUATAR.
+               Jumala lienetki.
+
+BOLINGBROKE.
+Mit' abottiin ja lanko-hyv‰‰n tulee[22]
+Ja muihin t‰m‰n soman liiton miehiin,
+Niin hukka heit‰ kantap‰ill‰ vainuu. --
+V‰ke‰, set‰ hyv‰, l‰hett‰k‰‰
+Oxfordiin, taikka miss‰ ovatkaan,
+Ne petturit ma laitan p‰‰lt‰ maan;
+Kun pes‰n tied‰n, kyll‰ saaliin saan.
+Hyv‰sti, set‰! -- Lanko, sanasi
+Sa pid‰; ‰itis hyvin rukoili.
+
+HERTTUATAR.
+Jumal' uusikoon sun, vanha poikani!
+
+                         (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    (Sir Pierce Exton ja palvelija tulee.)
+
+EXTON.
+Kuulithan, mit‰ sanoi kuningas?
+"Mull eikˆ yst‰v‰‰, ken pelastaisi
+Mun t‰st‰ el‰v‰st‰ pelosta?"
+Niin kai se oli?
+
+PALVELIJA.
+                 Niin ne kuului sanat.
+
+EXTON.
+"Ei yst‰v‰‰?" h‰n sanoi kaksi kertaa,
+Ja kaksi kertaa painolla sen toisti.
+Niin, eikˆ totta?
+
+PALVELIJA.
+                  Totta, niin h‰n teki.
+
+EXTON.
+Ja puhuessaan katsoi tarkkaan minuun,
+Kuin sanoisi: josp' oisit sin‰ se,
+Tuon hirmun poveltani poistaja,
+Tarkottain kuningasta Pomfretissa.
+Pois! Yst‰v‰ ma olen kuninkaan,
+Sen vihamiehet korjaan p‰‰lt‰ maan.
+
+                         (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Pomfret. Linnan vankila.
+
+    (Kuningas Richard tulee.)
+
+KUNINGAS RICHARD.
+Ma t‰ss‰ mietin, miten vertailin
+Maailmaan t‰t‰ tyrm‰‰, miss‰ el‰n;
+Mut koska maailma on v‰kirikas,
+Ja t‰‰ll' ei muuta luotua kuin min‰,
+En sit‰ voi, -- mut valmiiks sen ma haudon.
+Ajuni tulee vaimoks sielulleni
+Ja sielu is‰ksi: ne siitt‰‰ sitten
+Alati lis‰‰ntyv‰n aatossarjan,
+Jok' asuttaa t‰‰n pienoismaailman
+Oikuilla mailman lasten tapaisilla,
+Kosk' aatokset ei mitk‰‰n tyydy. Parhaat,
+Jumalisetkin aatokset, n‰et, usein
+Sekoittaa ep‰ilys, jok' itse sanan
+Asettaa sanaa vastaan; esimerkiks:
+"Sallikaa lasten tulla"; sitten taas:
+"Niin tyˆl‰s taivaan valtakuntaan menn‰,
+Kuin kameelin on neulansilm‰n l‰pi."
+Ne, jotka t‰ht‰‰ kunniaa, ne kummaa
+Kutovat: kuinka n‰m‰ heikot kynnet
+Tuon kivikovan mailman kylkiluiden,
+Tuon tyrm‰n sein‰in kautta raivais tiens‰;
+Kun eiv‰t voi, niin ylpeytt‰‰n ne kuolee.
+Ne, jotka mielen tyyneytt‰ t‰ht‰‰,
+Sill' ailakoivat itse‰‰n, ett'eiv‰t
+He ole ensimm‰iset onnen orjat,
+Ei viimeisetk‰‰n; niinkuin kurja hˆlmˆ.
+Mi jalkapuussa herjan peitt‰‰ sill‰,
+Ett' on niin k‰ynyt ja on k‰yp‰ monen,
+Ja t‰ss‰ aatoksessa lohdun lˆyt‰‰,
+S‰lytt‰in vaurionsa niiden selk‰‰n,
+Jotk' ennen h‰nt‰ k‰rsineet on samaa.
+Niin min‰i olen monena, mut koskaan
+En tyytyv‰. Kuningas olen joskus,
+Mut tulee kapina, ja silloin toivon,
+Ett' oisin kerjuri, ja niin se olen;
+Mut sitten julma puutos uskottelee,
+Ett' oli paremp' olla kuninkaana;
+Taas olen kuningas; mut pian huomaan,
+Ett' ottaa kuninkuuden Bolingbroke,
+Ja tyhj‰ olen taas. -- Jos mit‰ lienen,
+En min‰, eik‰ mik‰‰n ihmislapsi,
+Mihink‰‰n tyydy, ennenkuin h‰n tyyntyy
+Tyhj‰ksi tultuaan. -- (Soitantoa.) Haa! Soittoa!
+Pit‰k‰‰ tahti! -- Sulosoitto vihloo,
+Jos suhta rikotaan ja ajan mitta.
+Niin ihmisel‰m‰nkin soiton laita.
+Nyt korvani on herkk‰ moittimaan,
+Jos harhassa ei kieli mittaa nouda,
+Mut aikani ja valtakunnan soinnuss'
+Ei rikottua mittaa korva kuullut.
+Ma ajan hukkasin, nyt se mun hukkaa,
+Ja minust' on nyt lyˆm‰kellon tehnyt;
+Minuutteja on mietteet, huokauksin
+Ne merkkii hetket silm‰n kellotauluun,
+Johonka viisarina sormi yh‰
+Osoittaa, kuivaten ne kyynelist‰.
+Se ‰‰ni, joka tuntim‰‰r‰t kolkkaa,
+On syd‰nt‰ni lyˆp‰ tuskan huuto.
+Huokaukset, tuskat, kyyneleet n‰in n‰ytt‰‰
+Minuutit, hetket, tunnit. Vaan mun hetkeni
+Bolingbroken riemusaaton eell‰ laukkaa,
+Ja min‰ narri olen kelloukko.[23]
+Vait, soitto! Vait! Se hulluksi mun saattaa;
+Vaikk' on se hullut j‰rkiins' auttanut,
+Minusta vain se viisaalta vie j‰rjen.
+Siunattu syd‰n, joka teki mulle
+T‰‰n rakkauden! N‰et, rakkaus Richardiin
+On outo koru vihan maailmassa.
+
+    (Tallirenki tulee.)
+
+TALLIRENKI.
+Terve, majesteetti!
+
+KUNINGAS RICHARD.
+                    Kiitos, p‰‰ri suuri!
+Ei toinen toista paremp' ole juuri.
+Ken olet sa? Ja miksi tulet t‰nne,
+Miss' ei k‰y kukaan, pait tuo tuima koira,
+Jok' antaa ruokaa surun hengenpiteeks.
+
+TALLIRENKI.
+Kuningas, kˆyh‰ tallirenkis olin,
+Kun olit kuningas; menossa Yorkiin
+Tˆin tuskin halatun sain luvan n‰hd‰
+Entist‰ kuninkaallist' is‰nt‰‰ni.
+Syd‰nt‰ vihloi, Lontoon kaduilla,
+Kun kruunausp‰iv‰n‰ n‰in Bolingbroken
+Sel‰ss‰ uljaan berberilaisratsun,
+Sen ratsun, jolla sin‰ usein ajoit,
+Sen ratsun, jota hell‰st' itse hoidin.
+
+KUNINGAS RICHARD.
+Sen selj‰ss‰kˆ! Sano, kuinka kulki
+Se h‰nen allaan?
+
+TALLIRENKI.
+                 Uljaasti, kuin oisi
+Se maata halveksinut.
+
+KUNINGAS RICHARD.
+                      Niinkˆ uljas,
+Kun Bolingbroken selk‰‰ns' sai! Se luuska,
+Kuninkaank‰dest‰ni leip‰‰ sˆi se,
+T‰‰n k‰den taputuksist' ylv‰styen.
+Ei kompastunut? Eik‰ langennut --
+Vaikk' ylpeys k‰y lankeemuksen eell‰ --
+Ja niskaa taittanut tuon korskan miehen,
+Jok' anasti sen h‰p‰‰t? Anteeks, ratsu!
+Miks sua moitin? Kantamaan sa olet
+Ja ihmisien alaiseksi luotu.
+En hevoseksi min‰ syntynyt,
+Mut sent‰‰n taakkaa kannan niinkuin aasi,
+Ja veriin kannustaa mua Bolingbroke.
+
+    (Vanginvartija tulee, kulho k‰dess‰.)
+
+VANGINVARTIJA (tallirengille).
+Pois tielt‰! T‰‰ll' et en‰‰ olla saa.
+
+KUNINGAS RICHARD.
+Pois mene, jos mua tahdot armahtaa.
+
+TALLIRENKI.
+Mit' ei saa suu, sen syd‰n ilmoittaa.
+
+    (Menee.)
+
+VANGINVARTIJA.
+Jos suvaitsette, t‰ss‰ tarjoisin.
+
+KUNINGAS RICHARD.
+Sit' ensin maista, niinkuin ennenkin.
+
+VANGINVARTIJA.
+En tohdi, herra; Exton, joka ‰sken
+Kuninkaan luota tuli, k‰ski toisin.
+
+KUNINGAS RICHARD.
+Helvettiin Henrik Lancaster ja sin‰!
+Mult' ummehtuu jo maltti; t‰t' en kest‰.
+
+    (Lyˆ vanginvartijaa.)
+
+VANGINVARTIJA.
+Apua! Apua! Apua!
+
+    (Exton ja palvelijoita tulee, aseet k‰dess‰.)
+
+KUNINGAS RICHARD.
+                  Mit‰?
+Mit' aikoo kuolo t‰ll‰ hyˆkk‰yksell‰?
+Surmakses, konna, k‰tes aseen tarjoo.
+    (Sieppaa yhdelt‰ aseen ja tappaa h‰net.)
+Noin! Noin! Viel' yks on paikka helvetiss‰!
+    (Surmaa viel‰ toisen. Exton pist‰‰ h‰net kuoliaaksi.)
+Palakoon ilkitulessa sen k‰si,
+Ken lˆi mua! (Extonille.) Rietas, kuninkaasi verin
+Sa kuninkaasi maan n‰in tahraat perin.
+Ylˆs, sielu, ylˆs, taivaan kartanoon!
+Ja kurja liha maahan vaipukoon!
+
+    (Kuolee.)
+
+EXTON.
+Yht' uljas, kuin ol' ylv‰‰ vertakin!
+Sen vuodatin. Oi, hyv‰‰ tarkoitin.
+Nyt sanoo piru, joka tyˆn sai eloon,
+Ett' on se pantu hornan luetteloon.
+El‰v‰n luo vien kuolleen kuninkaan. --
+Nuo toiset t‰h‰n pankaa poveen maan.
+
+                           (Menev‰t.)
+
+
+Viides kohtaus.
+
+    Windsor. Huone kuninkaan linnassa.
+
+    (Torventoitauksia. Bolingbroke, York, loordeja
+    ja seuralaisia tulee.)
+
+BOLINGBROKE.
+York set‰, viime tieto kertoo, ett‰
+Cicesterin on Glostershiressa
+Kapinajoukko poroks polttanut;
+Ne lyˆtiinkˆ vai vangittiin, en tied‰.
+    (Northumberland tulee.)
+Terveeksi, loordi! Mit‰ uutta kuuluu?
+
+NORTHUMBERLAND.
+Ensinkin, pyh‰‰ valtaas onnittelen;
+Ja sitten: -- Lontooseen ma laitoin p‰‰t
+Salisburyn, Bluntin, Spencerin ja Kentin.
+Selitys, mitenk‰ he vangittiin,
+On tarkoin pantu t‰h‰n paperiin.
+
+    (Antaa paperin.)
+
+BOLINGBROKE.
+Kiitokset, Percy, vaivoistasi saat
+Ja arvos mukaan edut arvokkaat.
+
+    (Fitzwater tulee.)
+
+FITZWATER.
+Mylord, ma Oxfordista Lontooseen
+L‰het‰n Brocaan p‰‰n ja Bennet Seelyn:
+Olivat sit‰ kavaltaja-laumaa,
+Jok' Oxfordissa sulle surmaa mietti.
+
+BOLINGBROKE.
+Fitzwater, vaivojasi muistelen,
+Ja kelpo tyˆst‰s sinut palkitsen.
+
+    (Percy tulee, mukanaan Carlislen piispa.)
+
+PERCY.
+P‰‰pettur', Westminsterin abotti,
+On tunnon vaivoissa ja raskaan mielen
+Ruumiinsa haudan haltuun uskonut;
+Mut t‰ss‰ Carlisle on ja vartoo vaan
+Kuninkaan tuomiota korskastaan.
+
+BOLINGBROKE.
+N‰in sanoo tuomiosi julistaja:
+Valitse piilopaikka, pyh‰ maja,
+Jossa siell‰ tee s‰ p‰iv‰tyˆs;
+Jos rauhass' el‰t, rauhaan kuole myˆs!
+Vaikk' olit mulle vihollinen vento,
+Sinussa n‰kyi ylv‰ hengen lento.
+
+    (Exton tulee, palvelijain seuraamana,
+    jotka kantavat ruumisarkkua.)
+
+EXTON.
+Kuningas suuri, haudattuna pelkos
+On t‰ss‰ kirstussa. Nyt voimaton
+Sun pahin, suurin vihamiehes on.
+Tuon t‰ss‰ sulle Bordeaux'n Richardin.
+
+BOLINGBROKE.
+En sua kiit‰; k‰sin kamalin
+H‰pe‰n n‰in mun p‰‰h‰ni sa toit
+Ja t‰h‰n kuuluun maahan tahran loit.
+
+EXTON.
+Mut itse, herra, neuvoit tekohon.
+
+BOLINGBROKE.
+Ei myrkky rakas, vaikka tarpeen on.
+Ma kuolemaansa vaikka toivoin myˆt‰‰n,
+Murhaajaa vihaan, rakastaen tyˆt‰‰n.
+Sa palkaksesi tunnonvaivat ota,
+Minulta et saa armon suosiota.
+Yˆn varjoissa sa hiivi niinkuin Kain,
+Ja valoa ja p‰iv‰‰ karta ain'. --
+Oi, loordit, syd‰n mull' on tuskaa t‰ynn‰,
+Tie onneen n‰in kun veren kautt' on k‰ynn‰.
+Mun kanssani nyt surkaa, huolikaa
+Ja mustaan murhepukuun pukeukaa.
+Ma pyh‰‰n maahan l‰hden pesem‰‰n
+K‰dest‰in syyllisest‰ veren t‰‰n. --
+Surusaattoon k‰yk‰‰; arvo murehelle
+Ja kyynel suokaa varhain kuollehelle.
+
+                           (Menev‰t.)
+
+
+
+
+SELITYKSIƒ:
+
+
+Richard toinen, Edvardin, "mustan prinssin" poika, tuli v. 1377
+kymmenvuotiaana isois‰ns‰, Edvard III:n, j‰lkeen kuninkaaksi.
+Hallituksensa alussa oli h‰nell‰ kelpo miehi‰ neuvonantajina, mutta
+myˆhemmin h‰n joutui sellaisten ohjattavaksi, jotka kruunun arvon
+kokonaan h‰p‰isiv‰t. T‰mmˆist‰ asiaintilaa ruvettiin vastustamaan,
+ja vastustuksen etup‰‰ss‰ oli kuninkaan set‰, Thomas Woodstock,
+Glosterin herttua. Kehnot suosikit karkoitettiin, ja asetettiin
+hallintoneuvosto, jonka p‰‰miehen‰ Glosterin herttua oli. Mutta juonien
+ja v‰kivallan-tekojen kautta kuninkaan taas onnistui saada valta
+k‰siins‰, ja pian h‰n myˆs sai tilaisuuden ij‰ksi vapautua Glosterista,
+suurimmasta vihansa ja pelkonsa esineest‰. T‰m‰ nimitt‰in valmisteli
+salaliittoa, jonka tarkoituksena oli ottaa kuningas vangiksi ja korjata
+tielt‰ h‰nen huonot neuvonantajansa. Liitto saatiin ilmi ja sen p‰‰mies
+vangittiin ja surmattiin, johon viitataan t‰ss‰ n‰ytelm‰ss‰kin. T‰m‰
+teko her‰tti suurta h‰mm‰styst‰ kansassa, jonka suosikki Glosterin
+herttua oli. Mutta kuningas pakotti parlamentin ei ainoastaan
+hyv‰ksym‰‰n t‰t‰ tekoa, vaan viel‰ lis‰ksi tuomitsemaan kuolemaan
+Glosterin rikoskumppanit, jopa poistamaan kaikki m‰‰r‰ykset, jotka
+kuninkaanvallan rajoittamiseksi oli s‰‰detty 11 vuoden kuluessa. T‰m‰n
+j‰lkeen kuningas alkoi hallita yh‰ mielivaltaisemmin ja valitsi
+neuvonantajikseen henkilˆit‰, jotka kansan silmiss‰ olivat mit‰
+kehnoimpia miehi‰, semmoisia kuin Aumerle, Norfolk, Exeter, Wiltshire,
+Bushy, Bagot, Green. 1398 v:n parlamentti jo myˆnsi t‰ydellisen
+itsevallan kuninkaan asettamalle valiokunnalle. Hallituksessa tuli nyt
+kokonaan mielivalta j‰rjen sijaan. Omaisuutta ei pidetty pyh‰n‰ enemp‰‰
+kuin persoonallista vapauttakaan; lailliset perilliset karkoitettiin
+maistaan ja konnuistaan, jotka anastettiin valtiolle. Kansaa
+verotettiin jos jollakin tavalla, jotta saataisiin varoja tuhlaavaan
+hoviel‰m‰‰n. ƒsken mainitussa 1398 v:n parlamentissa Henrik Herefordkin
+nosti sen kanteen Norfolkin herttuaa vastaan, joka sitten oli alkuna
+Richardin kukistumiseen. T‰ll‰ tapahtumalla n‰ytelm‰ alkaa ja noudattaa
+sitten p‰‰piirteiss‰ historiallisten tapausten kulkua.
+
+[1] _Noobeli_, vanha englantilainen kultaraha.
+
+[2] _Kuningattaren Ranskasta ma toin_. V. 1396 kuningas Richard
+Canterburyn arkkipiispan kautta kihlasi kuusivuotiaan Ranskan
+prinsessan, Isabellan. Sh. tekee h‰nest‰ t‰ysikasvuisen kuningattaren.
+
+[3] _Voi jalopeura leopardin suuttaa_. Norfolkin vaakunakilvess‰ oli
+kultainen leopardi. Niinkuin tunnettu, Englannin valtakunnan kilvess‰
+on leijonan kuva.
+
+[4] _Paljaat muurit_. Tarkoittaa seini‰, joissa ei ollut verhoa.
+Sein‰verhot olivat irtonaiset, hakasiin kiinnitett‰v‰t ja muutettavat.
+
+[5]           _Kirkkaaks silaa
+      Juhana Gauntin nimen uudestaan_.
+
+Kuva otettu kirkkaaksi silatuista aseista tai omistajan nimell‰
+varustetuista metallilevyist‰.
+
+[6] _Sauvan heitt‰‰ v‰liin kuningas_. Taistelun lopettamisen merkiksi.
+
+[7] _K‰tenne henkipatot miekallemme_. Miekan kahva muodosti ristin,
+jolla vala tehtiin. Vert. Hamlet, I n‰yt. 5 koht.
+
+[8] _Maan nurmi kaisloitettu juhlahuone_. Niinkuin nyky‰‰n juhlaksi
+lattialle ripoitellaan hakoja ja lehti‰, niin silloin oli tapana niille
+levitt‰‰ kaisloja.
+
+[9]       _Liian auliuden
+      Ja hovinpidon vuoksi_.
+
+Richard II:n hoviel‰m‰ oli komeilevampi ja tuhlaavaisempi kuin
+yhdenk‰‰n hallitsijan sit‰ ennen tai sen j‰lkeen. Esimerkkin‰
+mainittakoon, ett‰ h‰nen pˆyd‰ss‰‰n joka p‰iv‰ ruokittiin 10,000
+henke‰, joita varten tarvittiin 300 ruoanlaittajaa. Sen vuoksi
+kuninkaan t‰ytyikin vuokrata pois maansa. Vuokramies oli kreivi
+Wiltshire, kuninkaan suuri suosikki.
+
+[10]             _Miss‰ muuten
+      Ei k‰‰rmeill' ole oikeutta el‰‰_.
+
+Viittaa taruun, jonka mukaan pyh‰ Patrick h‰vitti Irlannista kaikki
+k‰‰rmeet.
+
+[11] _Bolingbroke-raukan naimisliiton kielto_. Maanpakolainen
+Bolingbroke otettiin Ranskan hovissa loistavasti vastaan, ja h‰n oli jo
+kihlaamaisillaan Berryn herttuan, Ranskan kuninkaan sed‰n, tytt‰ren,
+kun Richard kaikellaisilla valheellisilla juoruilla ja juonilla sai sen
+estetyksi.
+
+[12] _Sulittaa maamme rikkouneen siiven_. Haukkajahdista otettu kuvaus.
+Haukoille pantiin kadonneiden vauhtikynien sijaan uudet keinotekoiset.
+
+[13] _Kreivi Worcester silloin sauvansa taittoi_. Valkoinen sauva oli
+kuninkaallisen linnan ylihovimestarin tunnusmerkki. Sen taittamisella
+h‰n luopui virastaan ja luovutti myˆs kaikki alaisensa virkamiehet
+toimistaan.
+
+[14] _V‰‰ryydet henkiheittoon ajanut_. Ajomets‰styksest‰ lainattu
+kuvaus.
+
+[15] _Lukit, jotka myrkyn sinust' imee_. Lukit, konnat ja sammakot
+luultiin myrkyllisiksi.
+
+[16] _Niin t‰hti‰ni h‰v‰ist‰kˆ_. Tarkoittaa sit‰ t‰hte‰ tai
+t‰htiasentoa, jonka vallitessa h‰n syntyi.
+
+[17] _Kamalaan torniin Julius Caesarin_. Tarina kertoo, ett‰ Tower oli
+Julius Caesarin rakentama.
+
+[18]       _Kirjoverhoin koristetut
+      Talojen sein‰t_.
+
+Ulkosein‰t olivat Bolingbroken kunniaksi p‰‰llystetyt verhoilla.
+
+[19] _Nyt h‰nen nimens‰ on pelkk‰ Rutland_. Aumerlen herttua menetti
+herttuakuntansa, mutta sai pit‰‰ kreivikuntansa Rutlandin. Surreyn ja
+Exeterin herttuat samoin j‰iv‰t Kentin ja Huntingdonin kreiveiksi. N‰m‰
+kolme panivat toimeen seuraavassa mainitut turnajaiset Oxfordissa,
+joissa oli m‰‰r‰ murhata Bolingbroke.
+
+[20]          _Keit‰ on ne orvokit,
+      Joit' uuden kev‰‰n vehmas helma tuottaa_.
+
+S.o. ketk‰ ovat nyt arvoon kohonneet Bolingbroken noustessa
+hallitus-istuimelle.
+
+[21] _Kerj‰‰j‰‰ ja kuningasta_. Tarkoittaa vanhaa balladia, nimelt‰
+kuningas Cophetua ja kerj‰l‰istyttˆ, johon Sh. usein viittaa.
+
+[22] _Mit' abottiin ja lanko-hyv‰‰n tulee_. Abotti oli Westminsterin
+abotti, ja lanko oli Exeterin herttua ja Huntingdonin kreivi, joka oli
+nainut Bolingbroken sisaren Elisabetin.
+
+[23] _Ja min‰ narri olen kelloukko_. Tarkoittaa vanhoissa kelloissa
+tavattavaa kuvaa, joka k‰dess‰‰n pit‰‰ vasaraa, mill‰ ilmoittaa tunnit.
+
+
+
+
+
+
+
+
+End of Project Gutenberg's Kuningas Richard Toinen, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK KUNINGAS RICHARD TOINEN ***
+
+***** This file should be named 30790-8.txt or 30790-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/0/7/9/30790/
+
+Produced by Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
