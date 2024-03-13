@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projet DAARAFINAL</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="book-title"></header>
+<div id="content-wrapper">
+    <div id="book-cover"></div>
+    <section id="book-info">
+        <h1>Read now or download (free!)</h1>
+        <table id="download-links"></table>
+    </section>
+    <section id="book-details">
+        <h2>Information</h2>
+        <table id="book-information"></table>
+    </section>
+    <section id="related-books">
+        <h2>Suggestion</h2>
+        <div id="related-books-container"></div>
+    </section>
+
+
+    <div id="search-container" style="display: none;">
+        <input type="text" id="search-box" placeholder="" />
+        <select id="search-type">
+            <option value="regex-title">Regex Title</option>
+            <option value="regex-keyword">Regex Keyword</option>
+            <option value="normal-title">Normal Title</option>
+            <option value="normal-keyword">Normal Keyword</option>
+        </select>
+        <button id="search-button">Search</button>
+    </div>
+    <div id="search-results">
+    </div>
+    
+</div>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+/* Add your styles here */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#content-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+#book-cover {
+    position: fixed;
+    width: 200px;
+}
+
+#book-info {
+    margin-left: 220px;
+    flex-grow: 1;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: #f0f0f0; /* 这里设置表格背景为灰色 */
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color: #00f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#book-details h2 {
+    padding-top: 20px;
+}
+
+#book-information {
+    background-color: #f0f0f0; 
+    margin-top: 10px;
+}
+
+#book-info,
+#book-details {
+    flex-grow: 1;
+    width: calc(100% - 220px); 
+    margin-left: 220px; 
+    margin-bottom: 20px; 
+}
+
+
+
+#search-container {
+    position: absolute; 
+    top: 20%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+
+#search-box,
+#search-type,
+#search-button {
+    padding: 10px;
+    margin: 0 5px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#search-box {
+    flex-grow: 2;
+}
+
+#search-type {
+    flex-grow: 1;
+}
+
+#search-button {
+    flex-grow: 0; 
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+#search-button:hover {
+    background-color: #0056b3;
+}
+
+#search-results {
+    position: absolute; /* 或 fixed，取决于需求 */
+    top: 200%; /* #search-container 的高度 + 任何希望的间距 */
+    left: 0%;
+    width: 100%; /* 或根据实际需求调整 */
+    z-index: 1; /* 确保它不会覆盖更高层级的元素 */
+}
+
+#related-books h2 {
+    padding-top: 20px;
+}
+
+#related-books-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.book-item {
+    margin: 10px;
+    text-align: center;
+    width: 120px; /* 根据需要调整书籍项的宽度 */
+}
+
+.book-item img {
+    width: 100px; /* 调整封面图像的宽度 */
+    height: 150px; /* 调整封面图像的高度 */
+    object-fit: cover; /* 保持封面图像的纵横比 */
+}
+
+.book-item h3 {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
